@@ -1,0 +1,119 @@
+@media (prefers-color-scheme: dark) {
+	html,
+	body {
+		color: #fff !important;
+		background-color: #121212 !important;
+	}
+	#block-right::-webkit-scrollbar {
+		background-color: #000000 !important;
+	}
+	#block-right::-webkit-scrollbar-track {
+		border: 1px #000000 solid !important;
+		-webkit-box-shadow: 0 0 6px #000000 inset !important;
+	}
+	#block-right::-webkit-scrollbar-thumb {
+		background-color: #ffffff !important;
+		border: 1px solid #000000 !important;
+	}
+	#block-right::-webkit-scrollbar-thumb:hover {
+		background-color: #f5f5f5 !important;
+		border: 1px solid #121212 !important;
+	}
+	#block-right::-webkit-scrollbar-thumb:active {
+		background-color: #f5f5f5 !important;
+		border: 1px solid #121212 !important;
+	}
+  he {
+    border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+  }
+	.btn-link,
+	.post-menu-icon {
+		color: #64CCC9 !important;
+	}
+	.posts-menu-icon:active,
+	.posts-menu-icon:hover,
+	.posts-menu-icon:focus {
+		color: #018786 !important;
+	}
+	strong,
+	.text-dark,
+	.text-secondary,
+	.post h2,
+	.post h3,
+	.figure-caption,
+	.post-title-section h1,
+	.commento-root *,
+	.commento-root .commento-card .commento-name {
+		color: #fff !important;
+	}
+	a:hover,
+	a.text-secondary:focus,
+	a.text-secondary:hover {
+		color: #fbfbfb !important;
+	}
+	.btn-outline-secondary {
+		color: #f5f5f5 !important;
+		border-color: #f5f5f5 !important;
+	}
+	.btn-outline-secondary:hover {
+		color: #212529 !important;
+		background-color: #f5f5f5 !important;
+		border-color: #f5f5f5 !important;
+	}
+	.btn-outline-secondary:focus {
+		box-shadow: 0 0 0 .2rem hsla(245, 245, 245, 0.5) !important;
+	}
+	.btn-outline-secondary:disabled,
+	.blockquote-footer {
+		color: #f5f5f5 !important;
+	}
+	.badge-secondary {
+		color: #212529 !important;
+		background-color: #f5f5f5;
+		!important
+	}
+	.alert-danger strong {
+		color: #000 !important;
+	}
+	.navbar-dark .navbar-brand,
+	.navbar-dark .navbar-brand:focus,
+	.navbar-dark .navbar-brand:hover {
+		color: #000!important;
+	}
+	.navbar-dark .navbar-text {
+		color: hsla(0, 0%, 0%, .5)!important;
+	}
+	.navbar-dark .navbar-text a,
+	.navbar-dark .navbar-text a:focus,
+	.navbar-dark .navbar-text a:hover {
+		color: #000!important;
+	}
+	.bg-dark {
+		background-color: #f5f5f5!important;
+	}
+	.text-light {
+		color: #121212!important;
+	}
+	a.text-light:focus,
+	a.text-light:hover {
+		color: #000!important;
+	}
+	.table td,
+	.table th,
+	.table thead th {
+		border-color: #9d9d9d !important;
+	}
+	.table {
+		color: #fff !important;
+		background-color: #343a40 !important;
+	}
+	.table td,
+	.table th,
+	.table thead th {
+		border-color: #454d55 !important;
+	}
+	.card {
+		color: #fff!important;
+		background-color: #424242!important;
+	}
+}

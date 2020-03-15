@@ -1,0 +1,673 @@
+@font-face {
+	font-family: 'Sahel';
+	src: url('https://typo.ir/assets/fonts/Sahel-Black.eot');
+	src: url('https://typo.ir/assets/fonts/Sahel-Black.eot?#iefix') format('embedded-opentype'), url('https://typo.ir/assets/fonts/Sahel-Black.woff') format('woff'), url('https://typo.ir/assets/fonts/Sahel-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sahel';
+	src: url('https://typo.ir/assets/fonts/Sahel-Bold.eot');
+	src: url('https://typo.ir/assets/fonts/Sahel-Bold.eot?#iefix') format('embedded-opentype'), url('https://typo.ir/assets/fonts/Sahel-Bold.woff') format('woff'), url('https://typo.ir/assets/fonts/Sahel-Bold.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Vazir';
+	src: url('https://typo.ir/assets/fonts/Vazir.eot');
+	src: url('https://typo.ir/assets/fonts/Vazir.eot?#iefix') format('embedded-opentype'), url('https://typo.ir/assets/fonts/Vazir.woff2') format('woff2'), url('https://typo.ir/assets/fonts/Vazir.woff') format('woff'), url('https://typo.ir/assets/fonts/Vazir.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Vazir';
+	src: url('https://typo.ir/assets/fonts/Vazir-Bold.eot');
+	src: url('https://typo.ir/assets/fonts/Vazir-Bold.eot?#iefix') format('embedded-opentype'), url('https://typo.ir/assets/fonts/Vazir-Bold.woff2') format('woff2'), url('https://typo.ir/assets/fonts/Vazir-Bold.woff') format('woff'), url('https://typo.ir/assets/fonts/Vazir-Bold.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Vazir';
+	src: url('https://typo.ir/assets/fonts/Vazir-Light.eot');
+	src: url('https://typo.ir/assets/fonts/Vazir-Light.eot?#iefix') format('embedded-opentype'), url('https://typo.ir/assets/fonts/Vazir-Light.woff2') format('woff2'), url('https://typo.ir/assets/fonts/Vazir-Light.woff') format('woff'), url('https://typo.ir/assets/fonts/Vazir-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+html,
+body {
+	direction: rtl;
+	background: #fff;
+	height: 100%;
+	text-align: right;
+}
+
+@media print{
+  html,
+  body {
+    color: #000 !important;
+  }
+}
+
+img {
+	max-width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+	font-family: "Sahel";
+	font-weight: bold;
+}
+
+.align-middle,
+.align-top,
+.align-bottom {
+	display: table-cell;
+}
+
+.blockquote {
+	font-size: 1rem;
+}
+
+.header {
+	max-width: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.header hr {
+	border-top: 2px solid rgb(88, 91, 99);
+	width: 100px;
+	margin-top: 27px;
+	margin-bottom: -22px;
+}
+
+.header h2 {
+	font-size: 1.5rem;
+}
+
+.center {
+	display: table;
+}
+
+.vertical-align {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#block-left {
+	background: linear-gradient(rgba(35, 35, 35, 0.9), rgba(35, 35, 35, 0.9)), url("https://typo.ir/images/Home.jpg") no-repeat;
+	background-size: cover;
+}
+
+#block-right {
+	overflow-y: auto;
+}
+
+#block-right::-webkit-scrollbar {
+	background-color: #ffffff;
+}
+
+#block-right::-webkit-scrollbar-track {
+	border: 1px #ffffff solid !important;
+	-webkit-box-shadow: 0 0 6px #ffffff inset !important;
+}
+
+#block-right::-webkit-scrollbar-thumb {
+	background-color: #000000 !important;
+	border: 1px solid #ffffff !important;
+}
+
+#block-right::-webkit-scrollbar-thumb:hover {
+	background-color: #121212 !important;
+	border: 1px solid #f5f5f5 !important;
+}
+
+#block-right::-webkit-scrollbar-thumb:active {
+	background-color: #121212 !important;
+	border: 1px solid #f5f5f5 !important;
+}
+
+@media (max-width: 992px) {
+	#block-right {
+		overflow-y: inherit;
+	}
+}
+
+.main-title {
+	letter-spacing: 1px;
+	font-size: 3.4rem;
+	margin-top: 20px;
+	color: #fff;
+}
+
+.main-title-full::before {
+	position: absolute;
+	content: "تایپوتراپی";
+	color: #fff;
+	overflow: hidden;
+	width: 100px;
+	height: 40%;
+}
+
+.logo-container {
+	max-width: 350px;
+}
+
+.logo-homepage {
+	display: inline-block;
+}
+
+.logo {
+	max-width: 35%;
+	border-radius: 10%;
+}
+
+.logobg {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.block-logo {
+	left: 0px;
+}
+
+.social-homepage {
+	min-width: 0;
+	height: 50px;
+	width: 50px;
+	padding-top: 10px;
+}
+
+.social-padded {
+	padding-right: 4px;
+}
+
+.header .access {
+	margin-top: 4px;
+}
+
+.header .pgp {
+	margin-right: 0px;
+}
+
+.header .privacy {
+	margin-right: -4px;
+}
+
+.header .bitcoin {
+	margin-right: -6px;
+}
+
+.header .email {
+	margin-right: -2px;
+}
+
+.header .telegram {
+	margin-right: -11px;
+}
+
+.header .twitter {
+	margin-right: -4px;
+}
+
+.fingerprint {
+	transition: 0.5s;
+}
+
+.fingerprint:hover,
+.fingerprint:active,
+.fingerprint:focus {
+	padding-right: 86px;
+	padding-left: 28px;
+	transition: 0.5s;
+}
+
+.fingerprint::after {
+	content: 'FD3E 9579';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	line-height: 16px;
+	padding-top: 10px;
+	padding-left: 38px;
+}
+
+.fingerprint::before {
+	content: '1C51 9A4E';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	line-height: 16px;
+	padding-top: 28px;
+	padding-left: 38px;
+}
+
+.fingerprint:hover::after,
+.fingerprint:active::after,
+.fingerprint:focus::after,
+.fingerprint:hover::before,
+.fingerprint:active::before,
+.fingerprint:focus::before {
+	transition: 3s;
+	opacity: 1;
+	left: 0;
+}
+
+.nav-logo {
+	font-family: "Sahel";
+}
+
+.nav-logo span {
+	margin-right: -4px;
+}
+
+.navbar-text a {
+	font-size: 1rem;
+}
+
+.topbar-icon {
+	font-size: 1.5rem;
+}
+
+.topbar-menu {
+	direction: ltr;
+}
+
+.icon-homepage {
+	font-size: 1.7rem;
+	margin-right: -4px;
+}
+
+.posts-menu-icon {
+	font-size: 2.2rem;
+	top: 10px;
+	right: 10px;
+	text-decoration: none;
+}
+
+.posts-menu-icon:active,
+.posts-menu-icon:hover,
+.posts-menu-icon:focus {
+	color: #474747;
+	text-decoration: none;
+}
+
+.posts-link {
+	font-family: "Vazir";
+	font-size: 1rem;
+	top: 52px;
+	right: 10px;
+}
+
+.posts-link:active,
+.posts-link:hover,
+.posts-link:focus {
+	text-decoration: underline;
+}
+
+.about-info {
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.about-info hr {
+	border-top: 2px solid #64ccc9;
+	width: 200px;
+	margin-right: 0px;
+}
+
+.about-info h1,
+.about-info h2 {}
+
+.about-info p {
+	font-size: 1rem;
+	line-height: 1.6rem;
+}
+
+.about-info p:first-of-type {
+	padding-top: 35px;
+}
+
+.about info b,
+strong {
+	color: #000;
+}
+
+.post-list h2 {
+	font-family: "Sahel";
+}
+
+.post-list .badge {}
+
+.post-list p {
+	line-height: 2rem;
+	text-align: justify;
+}
+
+.post-list span {
+	font-size: 1rem;
+}
+
+.tag-list {
+	margin-top: 100px;
+}
+
+.post-title-section {
+	margin-bottom: 80px;
+}
+
+@media (max-width: 575.98px) {
+	.post-title-section {
+		font-size: 2.5rem;
+		padding-top: 30px;
+	}
+}
+
+.section-line {
+	align-items: center;
+	font-size: 1.5rem;
+}
+
+.post-title-section .section-line::after {
+	content: '';
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	height: 3px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-right: 10px;
+}
+
+.post-title-section .section-line.reverse:before {
+	content: '';
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	height: 3px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-right: 10px;
+}
+
+.post-title-section .section-line.reverse:after {
+	display: none;
+}
+
+.post-title-section h1 {
+	font-size: 4rem;
+}
+
+.back-posts:hover {
+	color: #64ccc9;
+}
+
+.share-menu {
+	direction: ltr;
+}
+
+.social-group {
+	left: 52%;
+}
+
+@media (max-width: 992px) {
+	.social-group {
+		left: 5%;
+	}
+}
+
+.drop-down-text {
+	font-family: "Vazir";
+}
+
+.date-highlight {
+	margin-top: 80px;
+	margin-right: 60px;
+}
+
+.post-date::before {
+	content: '/';
+	position: relative;
+	right: 20px;
+	font-size: 0.5rem;
+}
+
+.post-date::after {
+	content: '/';
+	position: relative;
+	right: -35px;
+	font-size: 0.5rem;
+}
+
+.date-hr {
+	margin-top: -21px;
+}
+
+@media (max-width: 992px) {
+	.date-highlight {
+		margin-top: 20px;
+	}
+}
+
+.post {
+	font-size: 1rem;
+	line-height: 2rem;
+	padding: 15px 35px 15px 35px;
+}
+
+@media (max-width: 575.98px) {
+	.post {
+		padding: 15px 10px 15px 10px;
+	}
+}
+
+.post h2 {
+	font-size: 2rem;
+	font-weight: bold;
+	color: #474747;
+	padding: 5px 0 15px 0;
+}
+
+.post h3 {
+	font-size: 1.3rem;
+	font-weight: bold;
+	color: #474747;
+}
+
+.post p {
+	text-align: justify;
+}
+
+.post blockquote {
+	margin: 2em 1em 2em 0;
+	padding-left: 1em;
+	padding-right: 1em;
+	font-style: italic;
+	border-right: 0.25em solid #D0D0CE;
+}
+
+.half img {
+	width: calc(50% - 4px);
+	float: left;
+	margin-left: 1px;
+	margin-right: 1px;
+}
+
+figcaption {
+	clear: left;
+}
+
+.third img {
+	width: calc(33.3% - 6px);
+	float: left;
+	margin-left: 1px;
+	margin-right: 1px;
+}
+
+figcaption {
+	clear: left;
+}
+
+figcaption {
+	width: 100%;
+}
+
+.r1_iframe_embed {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: auto;
+	padding-top: 56.25%;
+}
+
+.r1_iframe_embed iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+
+.twitter-tweet {
+	border-right: 0.25em solid #00aced;
+	border-left: 0em;
+}
+
+.commento-root {
+	max-width: 93%;
+	padding-bottom: 20px;
+	overflow-x: inherit;
+}
+
+.commento-root .commento-footer .commento-logo-container .commento-logo-text::before {
+	content: "";
+}
+
+.commento-footer {
+	margin: 0px;
+}
+
+.commento-logo {
+	display: none;
+}
+
+.commento-root * {
+	font-family: "Vazir" !important;
+	font-weight: 300 !important;
+	text-align: right !important;
+}
+
+.commento-root .commento-card .commento-body p {
+	font-size: 15px !important;
+}
+
+.commento-body {
+	margin-right: 12px !important;
+}
+
+.commento-card {
+	padding: 12px 2px 0 0px !important;
+}
+
+.commento-root .commento-card .commento-moderator::after {
+	content: "نویسنده" !important;
+}
+
+.commento-submit-button {
+	float: left !important;
+	background: #4ECDC4 !important;
+}
+
+.commento-email-button {
+	float: left !important;
+}
+
+.commento-input {
+	padding-right: 10px !important;
+}
+
+.commento-logout {
+	right: 52px !important;
+}
+
+.commento-logo-text::before {
+	display: none !important;
+}
+
+.commento-account-buttons-question {
+	direction: ltr !important;
+}
+
+.commento-options {
+	float: left !important;
+	width: 148px !important;
+}
+
+.commento-option-collapse {
+	left: 0px !important;
+}
+
+.commento-option-downvote {
+	left: 32px !important;
+}
+
+.commento-option-upvote {
+	left: 64px !important;
+}
+
+.commento-option-reply {
+	left: 96px !important;
+}
+
+.commento-option-approve {
+	left: 160px !important;
+}
+
+.commento-avatar {
+	float: right !important;
+	margin-left: 10px !important;
+}
+
+.commento-name {
+	margin-right: 48px !important;
+	margin-left: 0px !important;
+	left: 0px !important;
+}
+
+.commento-subtitle {
+	text-align: right !important;
+	margin-right: 48px !important;
+}
+
+.commento-logo-svg {
+	margin-left: 5px;
+	height: 15px;
+	width: 15px;
+}
+
+#comments {
+  margin-right: 3rem;
+}
+
+@media (max-width: 480px) {
+	#comments {
+		margin-right: 1rem !important;
+	}
+  .section-line {
+    display: none !important;
+  }
+  .post-title-section h1 {
+    font-size: 3.5rem !important;
+    padding-top: 25px !important;
+  }
+}
