@@ -1,22 +1,19 @@
 {% if site.google-analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	  ga('create', '{{ site.google-analytics }}', 'auto');  
-	  ga('require', 'linkid', 'linkid.js');
-	  ga('send', 'pageview');
-</script>{% endif %}
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', '{{ site.google-analytics }}', 'auto');  
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+</script>
+{% endif %}
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
-<script>
-	$(document).ready(function() { $('body').bootstrapMaterialDesign(); });
-</script>
+<script>$(document).ready(function() { $('body').bootstrapMaterialDesign(); });</script>
 <script src="https://config.metomic.io/config.js?id=prj:dd25acac-40e8-4583-b7a4-603f493a8d90" crossorigin charset="utf-8"></script>
 <script src="https://consent-manager.metomic.io/embed.js" crossorigin charset="utf-8"></script>
-<script>
-	window.Metomic('ConsentManager:onConsentStatesChange', function(payload) { if (window.Intercom && payload.policyStates['pol:synth-aW50ZXJjb20=']) { window.Intercom('show') } })
-</script>
+<script>window.Metomic('ConsentManager:onConsentStatesChange', function(payload) { if (window.Intercom && payload.policyStates['pol:synth-aW50ZXJjb20=']) { window.Intercom('show') } })</script>
