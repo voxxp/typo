@@ -6,74 +6,71 @@ layout: compress
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fa-IR"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang="fa-IR"> <![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="fa-IR">
-<!--<![endif]-->
-
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>{{ site.title }}</title>
-	<meta name="description" content="چرا در گنجه بازه؟ چرا دم خر درازه؟ و پاسخ علمی و دقیق ده‌ها مسئله‌ی روزمره و بدیهی که ممکن است برای هرکس سوال بوده، ولی هیچکس فرصت یا جرات پرسیدنش نداشته را در تایپو بخوانید. جواب‌های ساده برای سوال‌های ساده.">{% if page.tags %}
-	<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="HandheldFriendly" content="True">
-	<meta name="MobileOptimized" content="320">
-	<!-- Twitter Card -->
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="{{ site.url }}/images/main-twitter-card.jpg">
-	<meta name="twitter:image:alt" content="{{ site.description }} &#8211; {{ site.title }}">
-	<meta name="twitter:title" content="{{ site.title }}">
-	<meta name="twitter:description" content="پاسخ علمی و دقیق ده‌ها مسئله‌ی روزمره و بدیهی که ممکن است برای هرکس سوال بوده، ولی هیچکس فرصت یا جرات پرسیدنش را نداشته.">{% if site.twitter %}
-	<meta name="twitter:site" content="@{{ site.twitter }}">
-	<meta name="twitter:creator" content="@{{ site.twitter }}">{% endif %}
-	<!-- Open Graph -->
-	<meta property="og:locale" content="{{ site.locale }}">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="{{ site.title }}">
-	<meta property="og:title" content="{{ site.title }}">
-	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-	<meta property="og:image" content="{{ site.url }}/images/main-twitter-card.jpg">
-	<meta property="profile:first_name" content="Vox">
-	<meta property="profile:last_name" content="Pop">
-	<!-- Other Tags -->
-	<meta name="referrer" content="strict-origin-when-cross-origin">{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
-	<link rel="canonical" href="{{ canonical }}">
-	<link rel="alternate" href="{{ page.url | replace:'index.html','' | prepend: site.url }}" hreflang="{{ site.locale }}" />
-	<link rel="amphtml" href="{{ site.url }}/index-amp/">
-	<link rel="prefetch" href="{{ site.url }}/posts">
-	<!-- Feed -->{% feed_meta %}
-	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/images/favicon/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/images/favicon/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/images/favicon/favicon-16x16.png">
-	<link rel="manifest" href="{{ site.url }}/images/favicon/manifest.json">
-	<link rel="mask-icon" href="{{ site.url }}/images/favicon/safari-pinned-tab.svg" color="#64ccc9">
-	<link rel="shortcut icon" href="{{ site.url }}/images/favicon/favicon.ico">
-	<meta name="msapplication-TileColor" content="#64ccc9">
-	<meta name="msapplication-TileImage" content="{{ site.url }}/images/favicon/mstile-144x144.png">
-	<meta name="msapplication-config" content="{{ site.url }}/images/favicon/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
-	<!-- Stylesheets -->
-	<link rel="stylesheet" href="{{ site.url }}/assets/css/bootstrap-material-design.min.css">
-	<link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
-	<link rel="stylesheet" href="{{ site.url }}/assets/css/dark-mode.css">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous" media="none" onload="if(media!=='all')media='all'">
-	<noscript>
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous">
-	</noscript>
-	<script type="text/javascript">
-		if ("serviceWorker" in navigator) {
-		      navigator.serviceWorker.register("/sw.js").then(function(registration) {
-		        console.log("Service Worker registration successful with scope: ", registration.scope);
-		      }).catch(function(err) {
-		        console.log("Service Worker registration failed: ", err);
-		      });
-		    }
-	</script>
-</head>
-
-<body id="homepage">
-	<!--[if lt IE 8]>
+<html class="no-js" lang="fa-IR"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ site.title }}</title>
+    <meta name="description" content="چرا در گنجه بازه؟ چرا دم خر درازه؟ و پاسخ علمی و دقیق ده‌ها مسئله‌ی روزمره و بدیهی که ممکن است برای هرکس سوال بوده، ولی هیچکس فرصت یا جرات پرسیدنش نداشته را در تایپو بخوانید. جواب‌های ساده برای سوال‌های ساده.">
+    {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.url }}/images/main-twitter-card.jpg">
+    <meta name="twitter:image:alt" content="{{ site.description }} &#8211; {{ site.title }}">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="پاسخ علمی و دقیق ده‌ها مسئله‌ی روزمره و بدیهی که ممکن است برای هرکس سوال بوده، ولی هیچکس فرصت یا جرات پرسیدنش را نداشته.">
+    {% if site.twitter %}<meta name="twitter:site" content="@{{ site.twitter }}">
+    <meta name="twitter:creator" content="@{{ site.twitter }}">{% endif %}
+    <!-- Open Graph -->
+    <meta property="og:locale" content="{{ site.locale }}">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <meta property="og:image" content="{{ site.url }}/images/main-twitter-card.jpg">
+    <meta property="profile:first_name" content="Vox">
+    <meta property="profile:last_name" content="Pop">
+    <!-- Other Tags -->
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+    <link rel="canonical" href="{{ canonical }}">
+    <link rel="alternate" href="{{ page.url | replace:'index.html','' | prepend: site.url }}" hreflang="{{ site.locale }}" />
+    <link rel="amphtml" href="{{ site.url }}/index-amp/">
+    <link rel="prefetch" href="{{ site.url }}/posts">
+    <!-- Feed -->
+    {% feed_meta %}
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="{{ site.url }}/images/favicon/manifest.json">
+    <link rel="mask-icon" href="{{ site.url }}/images/favicon/safari-pinned-tab.svg" color="#64ccc9">
+    <link rel="shortcut icon" href="{{ site.url }}/images/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#64ccc9">
+    <meta name="msapplication-TileImage" content="{{ site.url }}/images/favicon/mstile-144x144.png">
+    <meta name="msapplication-config" content="{{ site.url }}/images/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/bootstrap-material-design.min.css">
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/dark-mode.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous" media="none" onload="if(media!=='all')media='all'" >
+    <noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"></noscript>
+    <script type="text/javascript">
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/sw.js").then(function(registration) {
+        console.log("Service Worker registration successful with scope: ", registration.scope);
+      }).catch(function(err) {
+        console.log("Service Worker registration failed: ", err);
+      });
+    }
+    </script>
+  </head>
+  <body id="homepage">
+    <!--[if lt IE 8]>
     <div class="alert alert-warning alert-dismissible fade show" role="alert">
    شما از نسخه‌ی <strong>قدیمی</strong> مرورگر خود استفاده می‌کنید. لطفا برای تجربه‌ی کاربری بهتر، مرورگر خود را <a target="_blank" href="http://browsehappy.com/">بروزرسانی کنید</a>.
   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
@@ -81,83 +78,83 @@ layout: compress
   </button>
 </div>
     <![endif]-->
-	<div class="container-fluid homepage h-100">
-		<div class="row h-100">
-			<div class="col-lg h-100 order-first order-lg-last" id="block-left">
-				<div class="container center h-100">
-					<div class="row align-middle">
-						<div class="col">
-							<header itemscope itemtype="http://schema.org/WebSite" class="header position-relative">
-								<section class="logo-container position-relative d-inline-block">
-									<a href="{{ site.url }}" itemprop="url" class="logo-homepage">
-										<img src="{{ site.url }}/images/Logo.gif" alt="Logo" class=logo>
-									</a>
-									<img src="{{ site.url }}/images/logobg.svg" alt="Logo Background" class="logobg mw-100">
-								</section>
-								<h1 itemprop="name" class="main-title">
+    <div class="container-fluid homepage h-100">
+      <div class="row h-100">
+        <div class="col-lg h-100 order-first order-lg-last" id="block-left">
+          <div class="container center h-100">
+            <div class="row align-middle">
+              <div class="col">
+                <header itemscope itemtype="http://schema.org/WebSite" class="header position-relative">
+                  <section class="logo-container position-relative d-inline-block">
+                    <a href="{{ site.url }}" itemprop="url" class="logo-homepage">
+                      <img src="{{ site.url }}/images/Logo.gif" alt="Logo" class=logo>
+                    </a>
+                    <img src="{{ site.url }}/images/logobg.svg" alt="Logo Background" class="logobg mw-100">
+                  </section>
+                  <h1 itemprop="name" class="main-title">
                     تایپو
                   </h1>
-								<hr>
-								<h2 itemprop="description" class="text-white pt-5 pb-4">
+                  <hr>
+                  <h2 itemprop="description" class="text-white pt-5 pb-4">
                   {{ site.description }}
                 </h2>
-								{% include social-links.html %}</header>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg h-100" id="block-right">
-				<a class="btn btn-link far fa-clone posts-menu-icon position-absolute" href="{{ site.url }}/posts.html" role="button"> <span class="posts-link font-weight-normal position-absolute">نوشته‌ها</span>
-				</a>
-				<div class="container center h-100">
-					<div class="row align-middle">
-						<div class="col">
-							<article class="about-info">
-								<h1 class="text-dark">آنچه خواهید دید…</h1>
-								<hr>{{ content }}</article>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- /container -->
-	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-	<script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
-	<script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
-	<script>
-		$(document).ready(function() { $('body').bootstrapMaterialDesign(); });
-	</script>
-	<script type="application/ld+json">
-		{ "@context" : "http://schema.org",
-		      "@type" : "Organization",
-		      "legalName" : "{{ site.title }}",
-		      "url" : "{{ site.url }}",
-		      "logo": {
-		            "@type": "ImageObject",
-		            "url": "{{ site.url }}/images/FullLogo.png",
-		            "width": 150,
-		            "height": 150},
-		      "sameAs" : [
-		        "https://www.twitter.com/voxxp",
-		        "https://www.youtube.com/channel/UC1Xd3_OZIjDQ-eO4VkUGOMQ"]
-		      }
-	</script>
-	<script type="application/ld+json">
-		{
-		      "@context": "http://schema.org",
-		      "@type": "BreadcrumbList",
-		      "itemListElement": [
-		      {
-		      "@type": "ListItem",
-		      "position": 1,
-		      "item": {
-		      "@id": "https://typo.ir",
-		      "name": "تایپو"
-		      }
-		      }]
-		      }
-	</script>
-</body>
+                {% include social-links.html %}
+              </header>
+              </div>
+            </div>
+        </div>
+      </div>
+        <div class="col-lg h-100" id="block-right">
+          <a class="btn btn-link far fa-clone posts-menu-icon position-absolute" href="{{ site.url }}/posts.html" role="button">
+            <span class="posts-link font-weight-normal position-absolute">نوشته‌ها</span>
+          </a>
 
+          <div class="container center h-100">
+            <div class="row align-middle">
+              <div class="col">
+                <article class="about-info">
+                  <h1 class="text-dark">آنچه خواهید دید…</h1>
+                  <hr>
+                    {{ content }}
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      <!-- /container -->
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
+      <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
+      <script>$(document).ready(function() { $('body').bootstrapMaterialDesign(); });</script>
+      <script type="application/ld+json">
+      { "@context" : "http://schema.org",
+      "@type" : "Organization",
+      "legalName" : "{{ site.title }}",
+      "url" : "{{ site.url }}",
+      "logo": {
+            "@type": "ImageObject",
+            "url": "{{ site.url }}/images/FullLogo.png",
+            "width": 150,
+            "height": 150},
+      "sameAs" : [
+        "https://www.twitter.com/voxxp",
+        "https://www.youtube.com/channel/UC1Xd3_OZIjDQ-eO4VkUGOMQ"]
+      }
+      </script>
+      <script type="application/ld+json">{
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+      {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+      "@id": "https://typo.ir",
+      "name": "تایپو"
+      }
+      }]
+      }</script>
+    </body>
 </html>
