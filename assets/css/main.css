@@ -676,3 +676,7 @@ figcaption {
     margin-left: 3rem !important;
     margin-top: 3rem !important;
 }
+
+.comment-writer-view .textarea {
+    direction: rtl;
+}
