@@ -3,11 +3,11 @@ layout: post
 title: "سیاست‌های حریم خصوصی"
 excerpt: "سیاست‌های حفظ حریم خصوصی در خصوص مجموعه داده‌هایی که ممکن است هنگام استفاده از این وب‌سایت جمع‌آوری و پردازش شوند."
 tags:
-  - "Privacy Policy"
-  - "حریم خصوصی"
-  - "شرایط استفاده"
-  - "سلب مسئولیت"
-  - "کپی رایت"
+- "Privacy Policy"
+- "حریم خصوصی"
+- "شرایط استفاده"
+- "سلب مسئولیت"
+- "کپی رایت"
 published: true
 comments: false
 date: 2019-06-27 17:00:00 +0000
@@ -17,22 +17,12 @@ twitter: images/posts/privacy-twitter.jpg
 permalink: "/privacy-policy/"
 ---
 <h3 id="simplified-privacy-policy">خلاصه سیاست‌های حریم خصوصی</h3>
-<p class="notice_info" style="color: #aaa;"><i class="fas fa-chart-pie" style="color:#4ECDC4;"></i>  <strong style="color:#6c6c6c;"><em>بهینه‌سازی ترافیک و توزیع</em></strong>
-	<br> <strong><em>Deflect</em></strong>
-	<br>اطلاعات شخصی: لاگ HTTP، آدرس IP و User Agent.</p>
-<p class="notice_info" style="color: #aaa;"><i class="fas fa-share-square" style="color:#4ECDC4;"></i>  <strong style="color:#6c6c6c;"><em>ارتباط با شبکه‌ها و پلتفرم‌های اجتماعی خارجی</em></strong>
-	<br> <strong><em> ویجت Twitter و Reddit</em></strong>
-	<br>اطلاعات شخصی: کوکی‌ها و داده‌های استفاده</p>
-<p class="notice_info" style="color: #aaa;"><i class="fas fa-comment" style="color:#4ECDC4;"></i>  <strong style="color:#6c6c6c;"><em>سیستم نظردهی</em></strong>
-	<br> <strong><em>Commento</em></strong>
-	<br>اطلاعات شخصی: کوکی‌ها</p>
-<p class="notice_info" style="color: #aaa;"><i class="fas fa-user-circle" style="color:#4ECDC4;"></i>  <strong style="color:#6c6c6c;"><em>مالک و کنترل‌کننده‌ی داده‌ها</em></strong>
-	<br>تایپو <a href="https://typo.ir" title="TYPO">typo.ir</a>
-	<br><strong style="color:#6c6c6c;">ایمیل مالک:</strong>  <a href="mailto:{{ site.email | encode_email }}" title="Send Email">voxp@pm.me</a>
-</p>
+<p class="notice_info" style="color: #aaa;"><i class="fas fa-chart-pie" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>بهینه‌سازی ترافیک و توزیع</em></strong><br> <strong><em>Deflect</em></strong><br>اطلاعات شخصی: لاگ HTTP، آدرس IP و User Agent.</p>
+<p class="notice_info" style="color: #aaa;"><i class="fas fa-share-square" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>ارتباط با شبکه‌ها و پلتفرم‌های اجتماعی خارجی</em></strong><br> <strong><em> ویجت Twitter و Reddit</em></strong><br>اطلاعات شخصی: کوکی‌ها و داده‌های استفاده</p>
+<p class="notice_info" style="color: #aaa;"><i class="fas fa-comment" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>سیستم نظردهی</em></strong><br> <strong><em>Commento</em></strong><br>اطلاعات شخصی: کوکی‌ها</p>
+<p class="notice_info" style="color: #aaa;"><i class="fas fa-user-circle" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>مالک و کنترل‌کننده‌ی داده‌ها</em></strong><br> تایپو <a href="https://typo.ir" title="TYPO">typo.ir</a><br><strong style="color:#6c6c6c;">ایمیل مالک:</strong> <a href="mailto:{{ site.email | encode_email }}" title="Send Email">voxp@pm.me</a></p>
 <hr>
-<p><i class="fas fa-language" style="color:#4ECDC4;"></i>  <a href="https://typo.ir/privacy-policy-en" title="Read in English">English</a>
-</p>
+<p><i class="fas fa-language" style="color:#4ECDC4;"></i> <a href="https://typo.ir/privacy-policy-en" title="Read in English">English</a></p>
 <!--<h3 id="types-of-data-collected">انواع داده‌های جمع‌آوری شده</h3>
 <p>هنگام بازدید از این وبسایت، سرورهای ما به طور خودکار اطلاعاتی که مرورگر شما ارسال می‌کند را ضبط می‌کند. این داده‌ها شامل آدرس IP، عنوان و آدرس صفحه، لاگ‌های HTTP، User Agent مرورگر هستند.
 در صورت هرگونه سوال در خصوص اطلاعات جمع‌آوری شده، با ما تماس بگیرید.</p>
@@ -51,49 +41,47 @@ permalink: "/privacy-policy/"
 <hr>
 <h3 id="detailed-information-on-the-processing-of-personal-data">اطلاعات دقیق در مورد پردازش داده‌های شخصی</h3>
 <p>داده‌‌های شخصی با اهداف زیر و با استفاده از خدمات زیر جمع‌آوری می‌شوند:</p>
-<div>
-	<div class="card">
-		<div class="card-header">
-			<h5><i class="fas fa-chart-pie" style="color:#4ECDC4;"></i> بهینه‌سازی ترافیک و توزیع</h5>
-			<p>این خدمات به این سایت اجازه‌ی توزیع محتوا در کشورهای مختلف را با استفاده از سرورهای مختلف و به منظور بهینه‌سازی می‌دهد.</p>
-		</div>
-		<div class="card-body">
-			<h6 class="card-title">Deflect</h6>
-			<p class="card-text">Deflect یک سیستم بهینه‌سازی و سرویس توزیع ترافیک ارائه شده توسط eQualit.ie است. ترافیک این سایت از طریق Deflect توزیع و بررسی می‌شود. اطلاعات شخصی: لاگ HTTP، آدرس IP و User Agent. محل پردازش: کانادا</p> <a href="https://docs.deflect.ca/en/latest/privacy_notice.html" title="Deflect Privacy Policy" class="btn btn-primary">جزئیات بیشتر</a>
-		</div>
-	</div>
-	<br>
-	<div class="card">
-		<div class="card-header">
-			<h5><i style="color:#4ECDC4;" class="fas fa-share-square pl-2"></i>تعامل با شبکه‌ها و پلتفرم‌های اجتماعی</h5>
-			<p>این خدمات به شما اجازه‌ی تعامل با شبکه‌ها و پلتفرم‌های اجتماعی خارجی را مستقیما از صفحات این وبسایت می‌دهد. تعامل و اطلاعات جمع‌آوری شده توسط این وب‌سایت همواره در تنظیمات حریم خصوصی کاربر برای هر شبکه اجتماعی مطرح است. این شبکه‌های اجتماعی ممکن است اطلاعات کاربران را جمع‌آوری کنند.</p>
-		</div>
-		<div class="card-body">
-			<h6 class="card-title">ویجت Twitter (Twitter, Inc.)</h6>
-			<p class="card-text">دکمه توییت Twitter و ویجت اجتماعی آن به کاربران اجازه‌ی تعامل با شبکه اجتماعی Twitter ارائه‌شده توسط شرکت Twitter. Inc را می‌دهد. اطلاعات شخصی: کوکی‌ها و داده‌های استفاده. محل پردازش: ایالات متحده</p> <a href="https://twitter.com/privacy" title="Twitter Privacy Policy" class="btn btn-primary">جزئیات بیشتر</a>
-			<hr>
-		</div>
-		<div class="card-body">
-			<h5 class="card-title">ویجت Reddit (Reddit inc.)</h5>
-			<p class="card-text">دکمه Reddit و ویجت آن، خدمتی است که امکان تعامل با پلتفرم Reddit ارائه‌شده توسط Reddit Inc. را فراهم می‌کند. اطلاعات شخصی: کوکی‌ها و داده‌های استفاده. محل پردازش: ایالات متحده</p> <a href="https://www.reddit.com/help/privacypolicy" title="Reddit Privacy Policy" class="btn btn-primary">جزئیات بیشتر</a>
-		</div>
-	</div>
-	<br>
-	<div class="card">
-		<div class="card-header">
-			<h5><i class="fas fa-comment pl-2" style="color:#4ECDC4;"></i>سیستم نظردهی</h5>
-			<p>این خدمات به این سایت اجازه‌ی توزیع محتوا در کشورهای مختلف را با استفاده از سرورهای مختلف و به منظور بهینه‌سازیسرویس نظردهی به کاربران اجازه‌ی انتشار دیدگاه‌هایشان در این سایت را می‌دهد. کاربران می‌توانند به صورت ناشناس دیدگاه‌های خود را ارسال کنند. کاربران مسئول محتوای نظرات خودشان هستند.</p>
-		</div>
-		<div class="card-body">
-			<h6 class="card-title">Commento</h6>
-			<p class="card-text">Commento یک سرویس ارسال دیدگاه متن باز است. اطلاعات شخصی: کوکی‌ها.</p> <a href="https://commento.io/privacy" title="Commento Privacy Policy" class="btn btn-primary">جزئیات بیشتر</a>
-		</div>
-	</div>
-</div>
-<br>
-<a href=>سیاست حفظ حریم خصوصی</a>
-</dd>
-</dl>
+
+<div><div class="card">
+  <div class="card-header">
+    <h5><i class="fas fa-chart-pie" style="color:#4ECDC4;"></i> بهینه‌سازی ترافیک و توزیع</h5>
+      <p>این خدمات به این سایت اجازه‌ی توزیع محتوا در کشورهای مختلف را با استفاده از سرورهای مختلف و به منظور بهینه‌سازی می‌دهد.</p>
+ </div>
+  <div class="card-body">
+    <h6 class="card-title">Deflect</h6>
+    <p class="card-text"> Deflect یک سیستم بهینه‌سازی و سرویس توزیع ترافیک ارائه شده توسط eQualit.ie است. ترافیک این سایت از طریق Deflect توزیع و بررسی می‌شود. اطلاعات شخصی: لاگ HTTP، آدرس IP و User Agent. محل پردازش: کانادا</p>
+    <a href="https://docs.deflect.ca/en/latest/privacy_notice.html" title="Deflect Privacy Policy" class="btn btn-primary">جزئیات بیشتر</a>
+  </div>
+</div><br><div class="card">
+  <div class="card-header">
+    <h5><i style="color:#4ECDC4;" class="fas fa-share-square pl-2"></i>تعامل با شبکه‌ها و پلتفرم‌های اجتماعی</h5><p>این خدمات به شما اجازه‌ی تعامل با شبکه‌ها و پلتفرم‌های اجتماعی خارجی را مستقیما از صفحات این وبسایت می‌دهد. تعامل و اطلاعات جمع‌آوری شده توسط این وب‌سایت همواره در تنظیمات حریم خصوصی کاربر برای هر شبکه اجتماعی مطرح است. این شبکه‌های اجتماعی ممکن است اطلاعات کاربران را جمع‌آوری کنند.</p></div>
+  <div class="card-body">
+    <h6 class="card-title">ویجت Twitter (Twitter, Inc.)</h6>
+    <p class="card-text">دکمه توییت Twitter و ویجت اجتماعی آن به کاربران اجازه‌ی تعامل با شبکه اجتماعی Twitter ارائه‌شده توسط شرکت Twitter. Inc را می‌دهد.
+اطلاعات شخصی: کوکی‌ها و داده‌های استفاده.
+محل پردازش: ایالات متحده</p>
+    <a href="https://twitter.com/privacy" title="Twitter Privacy Policy" class="btn btn-primary">جزئیات بیشتر</a><hr>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">ویجت Reddit (Reddit inc.)</h5>
+    <p class="card-text">دکمه Reddit و ویجت آن، خدمتی است که امکان تعامل با پلتفرم Reddit ارائه‌شده توسط Reddit Inc. را فراهم می‌کند.
+اطلاعات شخصی: کوکی‌ها و داده‌های استفاده.
+محل پردازش: ایالات متحده</p>
+    <a href="https://www.reddit.com/help/privacypolicy" title="Reddit Privacy Policy" class="btn btn-primary">جزئیات بیشتر</a>
+  </div>
+</div><br><div class="card">
+  <div class="card-header">
+    <h5><i class="fas fa-comment pl-2" style="color:#4ECDC4;"></i>سیستم نظردهی</h5><p>این خدمات به این سایت اجازه‌ی توزیع محتوا در کشورهای مختلف را با استفاده از سرورهای مختلف و به منظور بهینه‌سازیسرویس نظردهی به کاربران اجازه‌ی انتشار دیدگاه‌هایشان در این سایت را می‌دهد.
+کاربران می‌توانند به صورت ناشناس دیدگاه‌های خود را ارسال کنند. کاربران مسئول محتوای نظرات خودشان هستند.</p></div>
+  <div class="card-body">
+    <h6 class="card-title">Commento</h6>
+    <p class="card-text">Commento یک سرویس ارسال دیدگاه متن باز است.
+اطلاعات شخصی: کوکی‌ها.</p>
+    <a href="https://commento.io/privacy" title="Commento Privacy Policy" class="btn btn-primary">جزئیات بیشتر</a>
+  </div>
+</div></div><br>
+
+<a href=>سیاست حفظ حریم خصوصی</a></dd> </dl>
 <!--<h3 id="the-rights-of-users">حقوق کاربران</h3>
 <p>کاربران در خصوص داده‌هایی که پردازش می‌شوند حقوقی دارند. به طور خاص، کاربران حق دارند:</p>
 <ul><li><strong><em>از رضایت خود انصراف دهند.</em></strong>
@@ -142,70 +130,82 @@ permalink: "/privacy-policy/"
 <p>با ادامه‌ی استفاده از این سایت، شما می‌پذیرید که این سیاست‌ها را مطالعه کرده و با شرایط و ضوابط آن موافقید. در صورت عدم موافقت با این شرایط، شما مجاز به استفاده و دسترسی به این سایت نیستید.</p>
 <hr>
 <p>این سیاست حفظ حریم خصوصی بر اساس مقررات چندین قانون از جمله Art. 13/14 مقررات اتحادیه اروپا 2016/679 از مقررات حفاظت از اطلاعات عمومی (GDPR) تهیه شده است.</p>
+
 <hr>
+
 <h3 id="disclaimer">سلب مسئولیت</h3>
 <p>این توافق سلب مسئولیت بین ما و شما می‌یاشد. این سلب مسئولیت، دستورالعمل‌ها، شرایط و ضوابط استفاده‌ی شما از این سایت را شرح می‌دهد.</p>
+
 <h4 id="code-of-conduct">دستورالعمل</h4>
 <p>به منظور فراهم آوردن یک فضای مناسب، سعی ما ایجاد فضایی بدون تعرض و تبعیض بر اساس سن، وزن، ناتوانی، ملیت، جنیست، عقیده، میزان تجربه، قومیت، ظاهر، نژاد، دین و گرایش جنسی است.</p>
+
 <h5 id="the-standards">استانداردها</h5>
 <p>نمونه‌ای از رفتارهای مناسب برای ایجاد فضایی مثبت شامل موارد زیر است:</p>
 <ul>
-	<li>استفاده از لحن و کلام مودبانه</li>
-	<li>احترام به بیان عقاید متفاوت و مخالف</li>
-	<li>پذیرش انتقاد سازنده</li>
+<li>استفاده از لحن و کلام مودبانه</li>
+<li>احترام به بیان عقاید متفاوت و مخالف</li>
+<li>پذیرش انتقاد سازنده</li>
 </ul>
 <p>نمونه‌ای از رفتارهای نامناسب شامل موارد زیر است:</p>
 <ul>
-	<li>دیدگاه‌های توهین‌آمیز، تخریب، ترول و آزار دیگران</li>
-	<li>انتشار اطلاعات خصوصی دیگران، از جمله آدرس فیزیکی و الکترونیکی، بدون اجازه‌ی صریح از آن‌ها</li>
-	<li>به کار بردن ادبیات جنسی و جلب توجه جنسی نسبت به دیگران</li>
-	<li>فحش و استفاده از لغات توهین‌آمیز</li>
-	<li>نمایش مطالب و تصاویر آزاردهنده</li>
-	<li>آغاز منازعات سیاسی و شرکت در آن‌ها</li>
-	<li>بیان و تبلیغ هرگونه نابرابری شامل (اما نه محدود به) نابرابری بر اساس سن، وزن، ناتوانی، قومیت، ملیت، نژاد، جنسیت، گرایش جنسی، ظاهر و دین</li>
-	<li>تبلیغ هرگونه از مواد مخدر</li>
+<li>دیدگاه‌های توهین‌آمیز، تخریب، ترول و آزار دیگران </li>
+<li>انتشار اطلاعات خصوصی دیگران، از جمله آدرس فیزیکی و الکترونیکی، بدون اجازه‌ی صریح از آن‌ها</li>
+<li>به کار بردن ادبیات جنسی و جلب توجه جنسی نسبت به دیگران</li>
+<li>فحش و استفاده از لغات توهین‌آمیز</li>
+<li>نمایش مطالب و تصاویر آزاردهنده</li>
+<li>آغاز منازعات سیاسی و شرکت در آن‌ها</li>
+<li>بیان و تبلیغ هرگونه نابرابری شامل (اما نه محدود به) نابرابری بر اساس سن، وزن، ناتوانی، قومیت، ملیت، نژاد، جنسیت، گرایش جنسی، ظاهر و دین</li>
+<li>تبلیغ هرگونه از مواد مخدر</li>
 </ul>
+
 <h5 id="enforcement">برخورد</h5>
 <p>تخطی از موارد مذکور را به آدرس ایمیل <a href="mailto:{{ site.email | encode_email }}" title="Send Email">voxp@pm.me</a> ارسال کنید. تمامی گزارش‌ها بررسی شده و در صورت نیاز پاسخ داده خواهند شد..</p>
 <p>بدین ترتیب ما حق حذف دیدگاه‌های متخلف و قطع دسترسی متخلفین از خدمات را برای خود محفوظ می‌دانیم.</p>
+
 <h4 id="crative-commons-license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-sa"></i></a> مجوز Creative Commons</h4>
 <p>این سایت تحت <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">مجوز بین‌المللی Creative Commons Attribution-ShareAlike 4.0</a> فعالیت می‌کند.
-	<p>شما اجازه دارید:</p>
-	<ul>
-		<li><strong><em>به اشتراک بگذارید</em></strong> - محتوای این وبسایت را به هر فرمتی کپی و بازنشر کنید.</li>
-		<li><strong><em>اقتباس بگیرید</em></strong> - محتوای این وبسایت را با هر هدفی تغییر و یا گسترش دهید.</li>
-	</ul>
-	<p>به شرطی که:</p>
-	<p><i class="fab fa-creative-commons-by"></i>  <strong><em>ارجاع دهید</em></strong> — شما باید <a href="https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart" title="Attribution-specific elements">ارجاع مناسبی</a> به منبع محتوا دهید. لینک به مجوز و <a href="https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_a_good_attribution_for_material_you_modified_slightly" title="Best practices for attribution">ذکر تغییرات احتمالی</a> از جمله شرایط این مجوز می‌باشد.</p>
-	<p><i class="fab fa-creative-commons-sa"></i>  <strong><em>شما هم اجازه دهید</em></strong> — شما در صورتی مجاز به اقتباس، تغییر و گسترش محتوای این وبسایت هستید که تحت <a href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses" title="Compatible Licenses">همین مجوز</a> فعالیت کنید.</p>
-	<p>شما می‌توانید نظرات خود را در خصوص محتوای موجود در سایت، ارسال کنید. با آپلود و ارسال هرگونه اطلاعات به ما، شما حق دسترسی نامحدود و دائم برای نمایش، انتشار، پخش و کپی اطلاعات موجود در آن را به ما می‌دهید. شما حق ندارید هویت واقعی دیگری را در ارسال نظرات جعل کنید. شما حق ارسال نظرات حاوی محتوای محرمانه، جعلی، تهدید، تهاجم، نقض حریم خصوصی و سایر موارد غیرقانونی را ندارید. شما حق ارسال محتوایی که حقوق مالکیت معنوی دیگریان را نقض می‌کند را ندارید. همچنین شما حق ارسال محتویات حاوی هرگونه ویروس و بدافزار کامپیوتری و یا هرگونه کدی که برای خرابکاری، آسیب رساندن و محدود کردن عملکرد هر نرم‌افزار و سخت‌افزاری طراحی شده‌اند را ندارید.</p>
-	<h4 id="indomnification-and-warranties">جبران خسارت و ضمانت‌نامه</h4>
-	<p>با وجود تمامی تلاش‌ها برای اطمینان از صحت مطالب منتشر شده بر روی این سایت، ما مسئولیتی در قبال هیچ خطا و یا نتیجه‌ی ناشی از عمل به محتوای این سایت را نداریم. هیچگونه ضمانتی در خصوص صحت و دقت اطلاعات این سایت داده نمی‌شود. هرگونه خسارت ناشی از تصمیم‌گیری یا اقدام اتخاذ شده بر اساس اطلاعات مندرج در این سایت، بر عهده‌ی خود کاربر می‌باشد. اطلاعات این سایت فقط با هدف افزایش اطلاعات عمومی در نظر گرفته شده و مشاوره‌ی حرفه‌ای قانونی، مالی، پزشکی و… تلقی نمی‌شوند. لطفا در صورت نیاز به مشاوره‌ی حرفه‌ای، از افراد متخصص و قانونی کمک بگیرید. علاوه بر این، اطلاعات موجود بر روی این سایت و سایت‌هایی که به آن لینک داده شده، ممکن است بدون اخطار قبلی تغییر پیدا کنند.</p>
-	<p>ما حق خود برای تغییر این سلب مسئولیت را در هر زمانی برای خود محفوظ می‌دانیم. در صورت تغییر این قوانین، تاریخ مندرج در ابتدای این صفحه بروزرسانی خواهد شد. استفاده از این سایت به منزله‌ی پذیرش این شرایط می‌باشد.</p>
-	<h4 id="acceptance-disclaimer">پذیرش این سلب مسئولیت</h4>
-	<p>ادامه‌ی فعالیت شما در این سایت به منزله‌ی مطالعه و پذیرش شرایط و ضوابط سلب مسئولیت می‌باشد. در صورت عدم موافقت با این شرایط، شما مجاز به استفاده و دسترسی به این سایت نیستید.</p>
-	<script type="application/ld+json">
-		{
-		  "@context": "https://schema.org",
-		  "@type": "FAQPage",
-		  "mainEntity": [{
-		    "@type": "Question",
-		    "name": "چه اطلاعاتی جمع‌آوری می‌شود؟",
-		    "acceptedAnswer": {
-		      "@type": "Answer",
-		      "text": "<p>هیچ گونه اطلاعات کاربری از سوی این سایت از کاربران جمع‌آوری و ذخیره نمی‌شود. هر چند بر روی این وبسایت ممکن است از افزونه‌ها و ابزارهایی استفاده شود که اطلاعات کاربران را جمع‌آوری کنند.</p>"
-		    }
-		  }, {
-		    "@type": "Question",
-		    "name": "قوانین سایت در خصوص کپی‌رایت چیست؟",
-		    "acceptedAnswer": {
-		      "@type": "Answer",
-		      "text":"<p>این سایت تحت <a href='http://creativecommons.org/licenses/by-sa/4.0/'>مجوز بین‌المللی Creative Commons Attribution-ShareAlike 4.0</a> فعالیت می‌کند. </p>
-		  <p>شما اجازه دارید:</p>
-		  <ul> <li><strong><em>به اشتراک بگذارید</em></strong> - محتوای این وبسایت را به هر فرمتی کپی و بازنشر کنید.</li> <li><strong><em>اقتباس بگیرید</em></strong> - محتوای این وبسایت را با هر هدفی تغییر و یا گسترش دهید.</li> </ul>
-		  <p>به شرطی که:</p>
-		  <p> <strong><em>ارجاع دهید</em></strong> — شما باید <a href='https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart'>ارجاع مناسبی</a> به منبع محتوا دهید. لینک به مجوز و <a href='https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_a_good_attribution_for_material_you_modified_slightly'>ذکر تغییرات احتمالی</a> از جمله شرایط این مجوز می‌باشد.</p>
-		  <p> <strong><em>شما هم اجازه دهید</em></strong> — شما در صورتی مجاز به اقتباس، تغییر و گسترش محتوای این وبسایت هستید که تحت <a href='https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses'>همین مجوز</a> فعالیت کنید.</p>"}
-		    }]
-		  }
-	</script>
+<p>شما اجازه دارید:</p>
+<ul>
+<li><strong><em>به اشتراک بگذارید</em></strong> - محتوای این وبسایت را به هر فرمتی کپی و بازنشر کنید.</li>
+<li><strong><em>اقتباس بگیرید</em></strong> - محتوای این وبسایت را با هر هدفی تغییر و یا گسترش دهید.</li>
+</ul>
+
+<p>به شرطی که:</p>
+<p><i class="fab fa-creative-commons-by"></i> <strong><em>ارجاع دهید</em></strong> — شما باید <a href="https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart" title="Attribution-specific elements">ارجاع مناسبی</a> به منبع محتوا دهید. لینک به مجوز و <a href="https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_a_good_attribution_for_material_you_modified_slightly" title="Best practices for attribution">ذکر تغییرات احتمالی</a> از جمله شرایط این مجوز می‌باشد.</p>
+<p><i class="fab fa-creative-commons-sa"></i> <strong><em>شما هم اجازه دهید</em></strong> — شما در صورتی مجاز به اقتباس، تغییر و گسترش محتوای این وبسایت هستید که تحت <a href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses" title="Compatible Licenses">همین مجوز</a> فعالیت کنید.</p>
+
+<p>شما می‌توانید نظرات خود را در خصوص محتوای موجود در سایت، ارسال کنید. با آپلود و ارسال هرگونه اطلاعات به ما، شما حق دسترسی نامحدود و دائم برای نمایش، انتشار، پخش و کپی اطلاعات موجود در آن را به ما می‌دهید. شما حق ندارید هویت واقعی دیگری را در ارسال نظرات جعل کنید. شما حق ارسال نظرات حاوی محتوای محرمانه، جعلی، تهدید، تهاجم، نقض حریم خصوصی و سایر موارد غیرقانونی را ندارید. شما حق ارسال محتوایی که حقوق مالکیت معنوی دیگریان را نقض می‌کند را ندارید. همچنین شما حق ارسال محتویات حاوی هرگونه ویروس و بدافزار کامپیوتری و یا هرگونه کدی که برای خرابکاری، آسیب رساندن و محدود کردن عملکرد هر نرم‌افزار و سخت‌افزاری طراحی شده‌اند را ندارید.</p>
+
+<h4 id="indomnification-and-warranties">جبران خسارت و ضمانت‌نامه</h4>
+<p>با وجود تمامی تلاش‌ها برای اطمینان از صحت مطالب منتشر شده بر روی این سایت، ما مسئولیتی در قبال هیچ خطا و یا نتیجه‌ی ناشی از عمل به محتوای این سایت را نداریم. هیچگونه ضمانتی در خصوص صحت و دقت اطلاعات این سایت داده نمی‌شود. هرگونه خسارت ناشی از تصمیم‌گیری یا اقدام اتخاذ شده بر اساس اطلاعات مندرج در این سایت، بر عهده‌ی خود کاربر می‌باشد. اطلاعات این سایت فقط با هدف افزایش اطلاعات عمومی در نظر گرفته شده و مشاوره‌ی حرفه‌ای قانونی، مالی، پزشکی و… تلقی نمی‌شوند. لطفا در صورت نیاز به مشاوره‌ی حرفه‌ای، از افراد متخصص و قانونی کمک بگیرید. علاوه بر این، اطلاعات موجود بر روی این سایت و سایت‌هایی که به آن لینک داده شده، ممکن است بدون اخطار قبلی تغییر پیدا کنند.</p>
+
+<p>ما حق خود برای تغییر این سلب مسئولیت را در هر زمانی برای خود محفوظ می‌دانیم. در صورت تغییر این قوانین، تاریخ مندرج در ابتدای این صفحه بروزرسانی خواهد شد. استفاده از این سایت به منزله‌ی پذیرش این شرایط می‌باشد.</p>
+
+<h4 id="acceptance-disclaimer">پذیرش این سلب مسئولیت</h4>
+<p>ادامه‌ی فعالیت شما در این سایت به منزله‌ی مطالعه و پذیرش شرایط و ضوابط سلب مسئولیت می‌باشد. در صورت عدم موافقت با این شرایط، شما مجاز به استفاده و دسترسی به این سایت نیستید.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "چه اطلاعاتی جمع‌آوری می‌شود؟",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p>هیچ گونه اطلاعات کاربری از سوی این سایت از کاربران جمع‌آوری و ذخیره نمی‌شود. هر چند بر روی این وبسایت ممکن است از افزونه‌ها و ابزارهایی استفاده شود که اطلاعات کاربران را جمع‌آوری کنند.</p>"
+    }
+  }, {
+    "@type": "Question",
+    "name": "قوانین سایت در خصوص کپی‌رایت چیست؟",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text":"<p>این سایت تحت <a href='http://creativecommons.org/licenses/by-sa/4.0/'>مجوز بین‌المللی Creative Commons Attribution-ShareAlike 4.0</a> فعالیت می‌کند. </p>
+  <p>شما اجازه دارید:</p>
+  <ul> <li><strong><em>به اشتراک بگذارید</em></strong> - محتوای این وبسایت را به هر فرمتی کپی و بازنشر کنید.</li> <li><strong><em>اقتباس بگیرید</em></strong> - محتوای این وبسایت را با هر هدفی تغییر و یا گسترش دهید.</li> </ul>
+  <p>به شرطی که:</p>
+  <p> <strong><em>ارجاع دهید</em></strong> — شما باید <a href='https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart'>ارجاع مناسبی</a> به منبع محتوا دهید. لینک به مجوز و <a href='https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_a_good_attribution_for_material_you_modified_slightly'>ذکر تغییرات احتمالی</a> از جمله شرایط این مجوز می‌باشد.</p>
+  <p> <strong><em>شما هم اجازه دهید</em></strong> — شما در صورتی مجاز به اقتباس، تغییر و گسترش محتوای این وبسایت هستید که تحت <a href='https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses'>همین مجوز</a> فعالیت کنید.</p>"}
+    }]
+  }
+</script>
