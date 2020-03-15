@@ -32,6 +32,19 @@ bitcoin: vox
 
 jekyll-mentions: https://twitter.com
 
+workbox:
+  sw_src_filepath: sw.js
+  sw_dest_filename: sw.js
+  precache_recent_posts_num: 5
+  precache_glob_directory: / 
+  precache_glob_patterns:
+    - "{js,css,fonts,assests}/**/*.{js,css,eot,svg,ttf,woff}"
+    - index.html
+    - "posts.html":
+        - posts/
+  precache_glob_ignores: # Optional
+    - "assests/fonts/**/*"
+    
 # Build settings
 plugins:
   - jekyll-feed
