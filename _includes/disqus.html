@@ -1,25 +1,21 @@
 {% if page.comments %}
-<script> 
-var jv_comments_config = {
-	"website_id": "203",
-	"position": "right",
-	"is_open": "false",
-	"story": {
-		"enabled": false
-	},
-	"theme": {
-		"mainColor": "#64CCC9",
-		"textColor": "#ffffff"
-	}
-};
-
-	(function () {
-		var d = document, s = d.createElement("script");
-		s.src = "https://widget.jointcomments.com/e/embed.prod.js";
-		if (/MSIE|Trident/.test(window.navigator.userAgent)) {
-				s.src = "https://widget.jointcomments.com/e/embed.prodIE.js";
-		}
-		(d.head || d.body).appendChild(s);
-	})();
-			</script>
+<section class="mr-5 text-center" id="comments">
+<h5><span class="badge badge-primary font-weight-light ml-3">دیدگاه‌ها</span></h5>
+<hr class="date-hr bg-primary ml-5">
+  <div id='metype-container' class='iframe-container' data-metype-account-id='1000461' data-metype-host='https://www.metype.com/' data-metype-primary-color='#0000ff' data-metype-bg-color='#ffffff' data-metype-font-color='#4a4a4a'></div>
+<script type='text/javascript'>
+  var metypeContainer = document.getElementById("metype-container"),
+    page_url = metypeContainer.getAttribute("data-metype-page-url");
+  metypeContainer.setAttribute('data-metype-page-url', page_url || window.location.href);
+  metypeContainer.setAttribute('data-metype-window-height', window.innerHeight);
+  metypeContainer.setAttribute('data-metype-screen-width', window.screen.width);
+  talktype(function() {
+    talktype.commentWidgetIframe(metypeContainer);
+  });
+</script>
+  
+<div id="commento"></div>
+<script defer src="https://typo.ir/assets/js/commento.js"></script>
+<noscript>برای مشاهده‌ی دیدگاه‌ها، جاوااسکریپت مرورگر خود را فعال کنید.</noscript>
+</section>
 {% endif %}
