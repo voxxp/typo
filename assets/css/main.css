@@ -677,11 +677,11 @@ figcaption {
     margin-top: 3rem !important;
 }
 
-.comment-writer-view .textarea {
+.textarea {
     direction: rtl !important;
 }
 
-div .comment .comment-talk {
+.comment-talk {
     direction: rtl !important;
     text-align: right !important;
 }
