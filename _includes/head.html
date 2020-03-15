@@ -88,7 +88,6 @@
     <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
     <link rel="stylesheet" href="{{ site.url }}/assets/css/dark-mode.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous" media="all" onload="if(media!=='all')media='all'">
-    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
     {% if page.image %}
     {% capture image %}{{ page.image }}{% endcapture %}
     {% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
