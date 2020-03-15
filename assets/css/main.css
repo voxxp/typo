@@ -678,5 +678,17 @@ figcaption {
 }
 
 .comment-writer-view .textarea {
-    direction: rtl;
+    direction: rtl !important;
+}
+
+div .comment .comment-talk {
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+content blockquote {
+    border-right-color: #64ccc9 !important;
+    border-right-width: 5px !important;
+    border-left-width: 0px !important;
+    border-right-style: solid !important;
 }
