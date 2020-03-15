@@ -44,7 +44,6 @@ plugins:
   - jekyll-github-metadata
   - jekyll-target-blank
   - jekyll-workbox-plugin
-  - jekyll-admin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
