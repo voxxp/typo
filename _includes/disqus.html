@@ -1,35 +1,25 @@
 {% if page.comments %}
-    <script type='text/javascript'>
-  window.talktype = window.talktype || function(f) {
-    if (talktype.loaded)
-      f();
-    else
-      (talktype.q = talktype.q || []).push(arguments);
-  };
-</script>
-<script src='https://www.metype.com/quintype-metype/assets/metype.js'></script>
-    <script type="text/javascript">
-  talktype(function() {
-    var pageUrl = window.location.href;
-    var pageMetadata = {{ page.url | replace:'index.html','' | prepend: site.url }} ;
-    var accountId = '1000461';
-    talktype.pageMetadataSetter(accountId, pageUrl, pageMetadata);
-  });
-</script>
-<section class="mr-5 text-center" id="comments">
-<h5><span class="badge badge-primary font-weight-light ml-3">دیدگاه‌ها</span></h5>
-<hr class="date-hr bg-primary ml-5">
-  <div id='metype-container' class='iframe-container' data-metype-account-id='1000461' data-metype-host='https://www.metype.com/' data-metype-primary-color='#0000ff' data-metype-bg-color='#ffffff' data-metype-font-color='#4a4a4a'></div>
-<script type='text/javascript'>
-  var metypeContainer = document.getElementById("metype-container"),
-    page_url = metypeContainer.getAttribute("data-metype-page-url");
-  metypeContainer.setAttribute('data-metype-page-url', page_url || window.location.href);
-  metypeContainer.setAttribute('data-metype-window-height', window.innerHeight);
-  metypeContainer.setAttribute('data-metype-screen-width', window.screen.width);
-  talktype(function() {
-    talktype.commentWidgetIframe(metypeContainer);
-  });
-</script>
-<noscript>برای مشاهده‌ی دیدگاه‌ها، جاوااسکریپت مرورگر خود را فعال کنید.</noscript>
-</section>
+<script> 
+var jv_comments_config = {
+	"website_id": "203",
+	"position": "right",
+	"is_open": "false",
+	"story": {
+		"enabled": false
+	},
+	"theme": {
+		"mainColor": "#64CCC9",
+		"textColor": "#ffffff"
+	}
+};
+
+	(function () {
+		var d = document, s = d.createElement("script");
+		s.src = "https://widget.jointcomments.com/e/embed.prod.js";
+		if (/MSIE|Trident/.test(window.navigator.userAgent)) {
+				s.src = "https://widget.jointcomments.com/e/embed.prodIE.js";
+		}
+		(d.head || d.body).appendChild(s);
+	})();
+			</script>
 {% endif %}
