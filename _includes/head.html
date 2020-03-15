@@ -108,23 +108,4 @@
       });
     }
     </script>
-    {% if post %}
-    <script type='text/javascript'>
-  window.talktype = window.talktype || function(f) {
-    if (talktype.loaded)
-      f();
-    else
-      (talktype.q = talktype.q || []).push(arguments);
-  };
-</script>
-<script src='https://www.metype.com/quintype-metype/assets/metype.js'></script>
-    <script type="text/javascript">
-  talktype(function() {
-    var pageUrl = window.location.href;
-    var pageMetadata = {{ page.url | replace:'index.html','' | prepend: site.url }} ;
-    var accountId = '1000461';
-    talktype.pageMetadataSetter(accountId, pageUrl, pageMetadata);
-  });
-</script>
-    {% endif %}
   </head>
