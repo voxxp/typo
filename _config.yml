@@ -1,15 +1,9 @@
+# Site
 title: تایپو
-email: voxp@pm.me
 description: جواب‌های ساده برای سوال‌های ساده
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://typo.ir"
-twitter_username: voxxp
-github_username:  voxxp
+url: https://typo.ir
 logo: Logo.gif
 locale: fa
-twitter: voxxp
-telegram: voxxp
-bitcoin: vox
 
 # Left Block Images
 background:
@@ -18,18 +12,24 @@ background:
   default-post: images/Posts.jpg
 
 # Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 sass:
-  sass_dir:         assets/_sass
-  style:            compressed
+  sass_dir: assets/_sass
+  style: compressed
+
+email: voxp@pm.me
+twitter: voxxp
+telegram: voxxp
+bitcoin: vox
+
 jekyll-mentions: https://twitter.com
 
 # Build settings
@@ -45,22 +45,16 @@ plugins:
   - jekyll-target-blank
   - jekyll-workbox-plugin
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Headers
+webrick:
+  headers:
+      Referrer-Policy: "strict-origin-when-cross-origin"
+      Feature-Policy: "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
+      X-Frame-Options: "SAMEORIGIN"
+      X-Xss-Protection: "1; mode=block; report=https://typo.report-uri.com/r/d/xss/enforce"
+      X-Content-Type-Options: "nosniff"
+      Content-Security-Policy: "default-src 'self'; script-src 'self' data: 'unsafe-inline' platform.twitter.com cdn.syndication.twimg.com syndication.twitter.com www.redditstatic.com *.vimeocdn.com *.akamaized.net platform.instagram.com; object-src 'self' https:; style-src 'self' data: 'unsafe-inline' nezare.ir use.fontawesome.com www.redditmedia.com www.redditstatic.com c.disquscdn.com a.disquscdn.com platform.twitter.com ton.twimg.com *.vimeocdn.com; img-src 'self' data: www.gravatar.com links.services.disqus.com referrer.disqus.com a.disquscdn.com cdn.syndication.twimg.com syndication.twitter.com pbs.twimg.com platform.twitter.com abs.twimg.com www.redditmedia.com www.redditstatic.com; media-src 'self' https:; frame-src 'self' https:; font-src 'self' https:; connect-src 'self' https:; report-uri https://typo.report-uri.com/r/d/csp/wizard"
+
+# Exclude list
+include: [_pages,keybase.txt]
+exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store, vendor]
