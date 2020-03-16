@@ -54,10 +54,6 @@ date: 2019-04-17 12:00:00 +0000
 
 پس از این که فرد تئوری توطئه را پذیرفت، دیگر تمایلی به اسناد و شواهدی که توطئه را رد می‌کند، نشان نخواهد داد. این موضوع <a href="https://fa.wikipedia.org/wiki/%D8%B3%D9%88%DA%AF%DB%8C%D8%B1%DB%8C_%D8%AA%D8%A3%DB%8C%DB%8C%D8%AF%DB%8C" title="سوگیری تائیدی" rel="nofollow" target="_blank">***سوگیری تائیدی***</a> (Confirmation bias) نام دارد که طی آن، فرد اطلاعاتی را که با باورهای خود تطابق داشته باشد تائید و از اطلاعاتی که با باورهایش مغایرت دارد چشم‌پوشی می‌کند.
 
-<center><blockquote class="twitter-tweet" data-lang="fa" data-link-color="#4ecdc4"><p lang="fa" dir="rtl">به ادعای دامون گلریز، عضو <a href="https://twitter.com/hashtag/%D9%81%D8%B1%D8%B4%DA%AF%D8%B1%D8%AF?src=hash&amp;ref_src=twsrc%5Etfw">#فرشگرد</a>، تمامی نهادهای دانشگاهی و رسانه‌های مخالف ترامپ، دست چپ‌های اسلامگرا هست. <a href="https://t.co/yAapMPFm7m">pic.twitter.com/yAapMPFm7m</a></p>&mdash; Vox Pop (@voxxp) <a href="https://twitter.com/voxxp/status/1045332224009220096?ref_src=twsrc%5Etfw">۵ مهر ۱۳۹۷</a></blockquote></center> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-{% twitter https://twitter.com/voxxp/status/1045332224009220096 %}
-
 هرچه محدودیت زمانی و درگیری ذهنی فرد بیشتر باشد، نیاز به فرجام‌خواهی بیشتر و در مقابل، هرچه احساس مسئولیت بیشتر باشد، نیاز کاهش پیدا خواهد کرد. تحقیقات <a href="https://www.researchgate.net/publication/232606388_Review_of_Enemies_of_freedom_Understanding_right-wing_authoritarianism" title="Understanding right-wing authoritarianism" rel="nofollow" target="_blank">نشان می‌دهند</a> که افراد با نگرش اقتدارگرایانه و تمایل به گروه‌های راست سیاسی، تئوری‌های توطئه‌ی سیاسی را کمتر می‌پذیرند زیرا نهادهای دولتی را مشروع و از نظر اخلاقی فسادناپذیر می‌دانند. در مقابل، این افراد به تئوری‌های توطئه‌ی دیگر، مانند توطئه‌های دینی و نژادی باور دارند. بنابر این به نظر می‌رسد نگاه و باورهای سیاسی بیشتر از این که با میزان پذیرش تئوری‌های توطئه در ارتباط باشد، با موضوع توطئه مرتبط است.
 
 ## مار گزیده و ریسمان سیاه و سفید
