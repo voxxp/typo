@@ -176,11 +176,12 @@ date: 2019-06-14 20:00:00 +0000
 
 Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Timoshenko+Ulitsa,+15+%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5+23,+Moskva,+Russia,+121359/@55.749202,37.3887612,17z/data=!3m1!4b1!4m5!3m4!1s0x46b54f3cc463201d:0x17a86ed9adb9f29b!8m2!3d55.749202!4d37.3909499" title="بیمارستان شماره ۶ مسکو" rel="nofollow" target="_blank">بیمارستان شماره ۶ مسکو</a> منتقل شده بود در نامه‌ای به مادرش می‌نویسد:
 
-![image-center]({{ site.url }}/images/posts/chernobyl/5-toptunov-letter.jpg){: .align-center}
-
-> به Vera Sergeyenva Toptunov<br>
-مامان، من بیمارستانم. حالم خوبه. آدرسم اینه، بلوک ۲۳ خیابان Marshala، بیمارستان بالینی<br>
-Lenya
+<div class="card mb-3">
+  <img class="card-img-top" src="https://typo.ir/images/posts/chernobyl/5-toptunov-letter.jpg" alt="نامه Leonid Toptunov به مادرش">
+  <div class="card-body">
+    <p class="card-text">به Vera Sergeyenva Toptunov<br> مامان، من بیمارستانم. حالم خوبه. آدرسم اینه، بلوک ۲۳ خیابان Marshala، بیمارستان بالینی<br> Lenya</p>
+  </div>
+</div>
 
 ## ۶. ید پایدار واقعا مانع جذب ید رادیواکتیو می‌شود؟
 
