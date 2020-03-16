@@ -63,7 +63,7 @@
       border-color: darken($yellow, 5%);
     }
   }
-  &_success{
+  &_success {
     background-color: lighten($green, 10%);
     &:hover {
       background-color: darken($green, 5%);
@@ -104,7 +104,7 @@
 
   &_twitter {
     background-color: #55acee;
-    color: #3B3B3B !important;
+    color: #3b3b3b !important;
     &:hover {
       background-color: mix($white, #55acee, 25%);
       border-color: mix($white, #55acee, 25%);
@@ -127,7 +127,7 @@ a.btn {
 
 // notice
 @mixin notice($notice-color) {
-  margin: 2em 0 !important;  // override
+  margin: 2em 0 !important; // override
   padding: 1em;
   font-size: 0.9em !important;
   text-indent: initial; // override
@@ -155,7 +155,7 @@ a.btn {
     }
   }
   code {
-    background-color: mix(#fff, $notice-color, 95%)
+    background-color: mix(#fff, $notice-color, 95%);
   }
   ul {
     &:last-child {

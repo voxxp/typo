@@ -10,17 +10,17 @@ summary {
   margin: 5px;
 }
 summary::-webkit-details-marker {
-  display: none
+  display: none;
 }
 summary:after {
-  float: left; 
+  float: left;
   height: 20px;
   width: 20px;
   content: "+";
 }
 details[open] summary:after {
   content: "-";
-  float: left; 
+  float: left;
   height: 20px;
   width: 20px;
 }
@@ -46,13 +46,12 @@ details[open] summary:after {
 .commento-card {
   padding: 12px 2px 0 0px !important;
 }
-.commento-root .commento-card .commento-moderator::after
-{
+.commento-root .commento-card .commento-moderator::after {
   content: "نویسنده" !important;
 }
 .commento-submit-button {
   float: left !important;
-  background: #4ECDC4 !important;
+  background: #4ecdc4 !important;
 }
 .commento-email-button {
   float: left !important;
@@ -64,7 +63,7 @@ details[open] summary:after {
   right: 52px !important;
 }
 .commento-logo-text::before {
-  display:none !important;
+  display: none !important;
 }
 .commento-account-buttons-question {
   direction: ltr !important;
@@ -90,7 +89,7 @@ details[open] summary:after {
 }
 .commento-avatar {
   float: right !important;
-	margin-left: 10px !important;
+  margin-left: 10px !important;
 }
 .commento-name {
   margin-right: 48px !important;
@@ -135,12 +134,12 @@ details[open] summary:after {
 }
 
 .pgp-key:after {
-  content: 'FD3E 9579 1C51 9A4E';
+  content: "FD3E 9579 1C51 9A4E";
   position: absolute;
   opacity: 0;
   top: 0;
   transition: 0.5s;
-  font-family: "LiberationMonoRegular",monospace;
+  font-family: "LiberationMonoRegular", monospace;
   font-size: 14px;
   line-height: 16px;
   padding-top: 3px;
@@ -213,7 +212,7 @@ canvas {
   border: 2px solid lighten($black, 27.8431);
   background: $white;
   &:before {
-    content: '';
+    content: "";
     width: 20px;
     height: 25px;
     position: absolute;
@@ -223,7 +222,7 @@ canvas {
     background: $white;
   }
   &:after {
-    content: '';
+    content: "";
     width: 20px;
     height: 25px;
     border: 2px solid lighten($black, 27.8431);
@@ -280,11 +279,11 @@ canvas {
 }
 
 .sitelogo {
-  max-width:35%;
+  max-width: 35%;
 }
 
 .social-margin {
-  margin-left:-10px;
+  margin-left: -10px;
 }
 
 .main-info,
@@ -403,8 +402,8 @@ canvas {
 }
 
 .main-therapy {
-    color: $green;
-    margin-right: -12px;
+  color: $green;
+  margin-right: -12px;
 }
 
 .about-info {
@@ -525,8 +524,8 @@ canvas {
 }
 
 .twitter-tweet {
-border-right: 0.25em solid #00aced;
-border-left: 0em !important;
+  border-right: 0.25em solid #00aced;
+  border-left: 0em !important;
 }
 
 .tags {
@@ -546,7 +545,7 @@ border-left: 0em !important;
 }
 
 .tag-heading {
-font-weight: 200;
+  font-weight: 200;
 }
 
 .inner-post {
@@ -633,7 +632,7 @@ font-weight: 200;
     font-size: 25px;
     margin-bottom: 20px;
     &:after {
-      content: '';
+      content: "";
       -webkit-box-flex: 1;
       -moz-box-flex: 1;
       -webkit-flex: 1;
@@ -656,7 +655,7 @@ font-weight: 200;
     &.reverse {
       margin-top: 40px;
       &:before {
-        content: '';
+        content: "";
         -webkit-box-flex: 1;
         -moz-box-flex: 1;
         -webkit-flex: 1;
@@ -684,7 +683,7 @@ font-weight: 200;
   display: flex;
   align-items: center;
   &:before {
-    content: '';
+    content: "";
     -webkit-box-flex: 1;
     -moz-box-flex: 1;
     -webkit-flex: 1;
@@ -695,7 +694,7 @@ font-weight: 200;
     margin-right: 10px;
   }
   &:after {
-    content: '';
+    content: "";
     -webkit-box-flex: 1;
     -moz-box-flex: 1;
     -webkit-flex: 1;
@@ -793,13 +792,13 @@ font-weight: 200;
     font-size: 75px;
   }
   .content {
-    padding: 20px
+    padding: 20px;
   }
 }
 
 // entry meta used in tags and categories page
 .entry-meta {
-  font-size: .75rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
   padding-left: 0;
   display: none; // hide header meta on small screens
@@ -835,9 +834,9 @@ font-weight: 200;
     }
   }
 }
-.entry-title > a{
+.entry-title > a {
   border: none !important;
-  font-weight:200;
+  font-weight: 200;
 }
 .pagination {
   display: flex;
@@ -874,10 +873,10 @@ font-weight: 200;
     }
     &.disabled {
       background-color: darken($white, 3%);
-      color:darken($white, 15%) !important;
+      color: darken($white, 15%) !important;
       &:hover {
         background-color: darken($white, 3%);
-        color:darken($white, 15%) !important;
+        color: darken($white, 15%) !important;
       }
     }
   }

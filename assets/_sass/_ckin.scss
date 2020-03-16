@@ -1,6 +1,6 @@
 /*!
    ckin v0.0.1: Custom HTML5 Video Player Skins.
-   (c) 2017 
+   (c) 2017
    MIT License
    git+https://github.com/hunzaboy/ckin.git
 */
@@ -19,23 +19,28 @@
   height: 100%;
   border: 0;
 }
-.video-js:hover .vjs-big-play-button, .video-js .vjs-big-play-button:focus, .video-js .vjs-big-play-button:active {
+.video-js:hover .vjs-big-play-button,
+.video-js .vjs-big-play-button:focus,
+.video-js .vjs-big-play-button:active {
   background-color: rgba(78, 205, 196, 0.8) !important;
 }
-.video-js .vjs-play-progress, .video-js .vjs-volume-level {
+.video-js .vjs-play-progress,
+.video-js .vjs-volume-level {
   background-color: $green !important;
 }
 .video-js .vjs-menu-button-popup .vjs-menu .vjs-menu-item.vjs-selected {
   background-color: $green !important;
 }
-.vjs-no-js a, .vjs-no-js a:visited {
+.vjs-no-js a,
+.vjs-no-js a:visited {
   color: $green !important;
 }
 .video-js .vjs-loading-spinner {
   border-color: rgba(78, 205, 196, 0.8) !important;
 }
 
-[class^="ckin-"], [class*=" ckin-"] {
+[class^="ckin-"],
+[class*=" ckin-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: "Font Awesome 5 Free" !important;
   speak: none;
@@ -121,7 +126,11 @@ video {
 .ckin__overlay {
   position: relative;
   &:before {
-    background: radial-gradient(ellipse at center, transparent 0%, rgba(0, 0, 0, 0.65) 100%);
+    background: radial-gradient(
+      ellipse at center,
+      transparent 0%,
+      rgba(0, 0, 0, 0.65) 100%
+    );
   }
 }
 
@@ -138,14 +147,14 @@ video {
   border-radius: 5px;
   cursor: pointer;
   &:before {
-    content: '';
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
     border-radius: 5px;
-    transition: opacity .2s;
+    transition: opacity 0.2s;
     opacity: 1;
     visibility: visible;
   }
@@ -198,7 +207,7 @@ video {
   -ms-transform: translate(-50%, -50%) scale(1);
   transform: translate(-50%, -50%) scale(1);
   font-size: 64px;
-  transition: all .2s;
+  transition: all 0.2s;
   -ms-touch-action: manipulation;
   touch-action: manipulation;
 }
@@ -215,7 +224,7 @@ video {
   bottom: 0;
   right: 0;
   left: 0;
-  transition: all .3s;
+  transition: all 0.3s;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.65) 0%, transparent 100%);

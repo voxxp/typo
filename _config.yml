@@ -36,7 +36,7 @@ workbox:
   sw_src_filepath: sw.js
   sw_dest_filename: sw.js
   precache_recent_posts_num: 5
-  precache_glob_directory: / 
+  precache_glob_directory: /
   precache_glob_patterns:
     - "{js,css,fonts,assests}/**/*.{js,css,eot,svg,ttf,woff}"
     - index.html
@@ -44,7 +44,7 @@ workbox:
         - posts/
   precache_glob_ignores: # Optional
     - "assests/fonts/**/*"
-    
+
 # Build settings
 plugins:
   - jekyll-feed
@@ -61,13 +61,27 @@ plugins:
 # Headers
 webrick:
   headers:
-      Referrer-Policy: "strict-origin-when-cross-origin"
-      Feature-Policy: "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
-      X-Frame-Options: "SAMEORIGIN"
-      X-Xss-Protection: "1; mode=block; report=https://typo.report-uri.com/r/d/xss/enforce"
-      X-Content-Type-Options: "nosniff"
-      Content-Security-Policy: "default-src 'self'; script-src 'self' data: 'unsafe-inline' platform.twitter.com cdn.syndication.twimg.com syndication.twitter.com www.redditstatic.com *.vimeocdn.com *.akamaized.net platform.instagram.com; object-src 'self' https:; style-src 'self' data: 'unsafe-inline' nezare.ir use.fontawesome.com www.redditmedia.com www.redditstatic.com c.disquscdn.com a.disquscdn.com platform.twitter.com ton.twimg.com *.vimeocdn.com; img-src 'self' data: www.gravatar.com links.services.disqus.com referrer.disqus.com a.disquscdn.com cdn.syndication.twimg.com syndication.twitter.com pbs.twimg.com platform.twitter.com abs.twimg.com www.redditmedia.com www.redditstatic.com; media-src 'self' https:; frame-src 'self' https:; font-src 'self' https:; connect-src 'self' https:; report-uri https://typo.report-uri.com/r/d/csp/wizard"
+    Referrer-Policy: "strict-origin-when-cross-origin"
+    Feature-Policy: "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
+    X-Frame-Options: "SAMEORIGIN"
+    X-Xss-Protection: "1; mode=block; report=https://typo.report-uri.com/r/d/xss/enforce"
+    X-Content-Type-Options: "nosniff"
+    Content-Security-Policy: "default-src 'self'; script-src 'self' data: 'unsafe-inline' platform.twitter.com cdn.syndication.twimg.com syndication.twitter.com www.redditstatic.com *.vimeocdn.com *.akamaized.net platform.instagram.com; object-src 'self' https:; style-src 'self' data: 'unsafe-inline' nezare.ir use.fontawesome.com www.redditmedia.com www.redditstatic.com c.disquscdn.com a.disquscdn.com platform.twitter.com ton.twimg.com *.vimeocdn.com; img-src 'self' data: www.gravatar.com links.services.disqus.com referrer.disqus.com a.disquscdn.com cdn.syndication.twimg.com syndication.twitter.com pbs.twimg.com platform.twitter.com abs.twimg.com www.redditmedia.com www.redditstatic.com; media-src 'self' https:; frame-src 'self' https:; font-src 'self' https:; connect-src 'self' https:; report-uri https://typo.report-uri.com/r/d/csp/wizard"
 
 # Exclude list
-include: [_pages,keybase.txt]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store, vendor]
+include: [_pages, keybase.txt]
+exclude:
+  [
+    README.md,
+    Gemfile,
+    Gemfile.lock,
+    _site,
+    src,
+    vendor,
+    CNAME,
+    LICENSE,
+    Rakefile,
+    .sass-cache,
+    .DS_Store,
+    vendor,
+  ]
