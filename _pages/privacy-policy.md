@@ -3,11 +3,11 @@ layout: post
 title: "سیاست‌های حریم خصوصی"
 excerpt: "سیاست‌های حفظ حریم خصوصی در خصوص مجموعه داده‌هایی که ممکن است هنگام استفاده از این وب‌سایت جمع‌آوری و پردازش شوند."
 tags:
-- "Privacy Policy"
-- "حریم خصوصی"
-- "شرایط استفاده"
-- "سلب مسئولیت"
-- "کپی رایت"
+  - "Privacy Policy"
+  - "حریم خصوصی"
+  - "شرایط استفاده"
+  - "سلب مسئولیت"
+  - "کپی رایت"
 published: true
 comments: false
 date: 2020-03-15 17:00:00 +0000
@@ -16,6 +16,7 @@ image: images/posts/privacy.jpg
 twitter: images/posts/privacy-twitter.jpg
 permalink: "/privacy-policy/"
 ---
+
 <h3 id="simplified-privacy-policy">خلاصه سیاست‌های حریم خصوصی</h3>
 <p class="notice_info" style="color: #aaa;"><i class="fas fa-chart-pie" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>بهینه‌سازی ترافیک و توزیع</em></strong><br> <strong><em>Deflect</em></strong><br>اطلاعات شخصی: لاگ HTTP، آدرس IP و User Agent.</p>
 <p class="notice_info" style="color: #aaa;"><i class="fas fa-share-square" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>ارتباط با شبکه‌ها و پلتفرم‌های اجتماعی خارجی</em></strong><br> <strong><em> ویجت Twitter و Reddit</em></strong><br>اطلاعات شخصی: کوکی‌ها و داده‌های استفاده</p>
@@ -82,6 +83,7 @@ permalink: "/privacy-policy/"
 </div></div><br>
 
 <a href=>سیاست حفظ حریم خصوصی</a></dd> </dl>
+
 <!--<h3 id="the-rights-of-users">حقوق کاربران</h3>
 <p>کاربران در خصوص داده‌هایی که پردازش می‌شوند حقوقی دارند. به طور خاص، کاربران حق دارند:</p>
 <ul><li><strong><em>از رضایت خود انصراف دهند.</em></strong>

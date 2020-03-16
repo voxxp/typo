@@ -5,13 +5,13 @@ twitter: images/posts/chernobyl/chernobyl-cover-twitter.jpg
 title: "چرنوبیل؛ واقعا چه رخ داد؟"
 excerpt: "فاجعه‌ی چرنوبیل واقعا چه بود و چه بخش‌هایی از مینی‌سری چرنوبیل با حقیقت مطابقت داشت؟ شاهدین این فاجعه از آن روزها چه تعریف کرده‌اند؟"
 tags:
-- "چرنوبیل"
-- "راستی‌آزمایی"
-- "تاریخ"
-- "محیط زیست"
-- "Chernobyl"
+  - "چرنوبیل"
+  - "راستی‌آزمایی"
+  - "تاریخ"
+  - "محیط زیست"
+  - "Chernobyl"
 categories:
-- "سینما"
+  - "سینما"
 published: true
 comments: true
 date: 2019-06-14 20:00:00 +0000
@@ -23,7 +23,6 @@ date: 2019-06-14 20:00:00 +0000
 
 اگر در این صفحه هستید احتمالا <a href="https://www.hbo.com/chernobyl" title="HBO Chernobyl" rel="nofollow" target="_blank">**مینی‌سری چرنوبیل شبکه‌ی HBO**</a> را دیده‌اید. در غیر این صورت **<font color="#C44D58">خطر لو رفتن داستان</font>** برای شما وجود دارد. بله! خطر لو رفتن داستان چون در این مینی‌سری واقعیت‌های تاریخی به شکل ظریفی با درام ادغام شده تا نویسنده با افزودن شخصیت‌ها و دیالوگ‌های خیالی تاثیر بیشتری از ابعاد این فاجعه‌ی واقعی بر مخاطب بگذارد. پس حتی اگر درباره‌ی فاجعه‌ی چرنوبیل اطلاع دارید، پیشنهاد می‌کنیم قبل از خواندن این مطلب، سریال را ببینید!
 با این پیشفرض می‌دانیم بسیاری از دیالوگ‌ها و شخصیت‌ها احتمالا در واقعیت وجود ندارند، در این پست به سوالات دیگری از میزان انطباق مینی‌سری با حقیقت پاسخ داده خواهد شد.
-
 
 ## ۱. آیا پس از انفجار، نورهای رنگی بر فراز رآکتور دیده می‌شد؟
 
@@ -90,7 +89,7 @@ date: 2019-06-14 20:00:00 +0000
   "contentUrl": "https://raw.githubusercontent.com/typofile/localb1/86a3c99a120dad1e699d9529352d2a85/1-ionized-air.mp4"
 }</script>
 
-از میان ذرات آلفا، بتا و پوزیترون، تنها ذرات بتا قادر به طی کردن مسیر طولانی‌تر در هوا هستند و با توجه به اینکه سرعت نور در هوا تنها ۰.۰۳٪ کمتر از خلا است، برای رخ دادن تابش چرنکوف در هوا، ذرات بتا باید بیش از ۹۹.۹۷٪ سرعت نور حرکت کنند. شکافت هسته‌ای قادر به فراهم کردن این میزان از انرژی برای ذرات بتا در هوا نیست و در نتیجه **تابش چرنکوف در هوا رخ نمی‌دهد**. این پدیده در محیط آب رخ می‌دهد زیرا سرعت نور در آب تا ۲۵٪ کاهش می‌یابد  و ذرات بتا قادر هستند این سرعت را رد کنند. با این توضیحات می‌توان نتیجه گرفت که **نور مشاهده شده بر فراز رآکتور شماره ۴ چرنوبیل بر اثر تابش هوای یونیزه بوده** و نه تابش چرنکوف.
+از میان ذرات آلفا، بتا و پوزیترون، تنها ذرات بتا قادر به طی کردن مسیر طولانی‌تر در هوا هستند و با توجه به اینکه سرعت نور در هوا تنها ۰.۰۳٪ کمتر از خلا است، برای رخ دادن تابش چرنکوف در هوا، ذرات بتا باید بیش از ۹۹.۹۷٪ سرعت نور حرکت کنند. شکافت هسته‌ای قادر به فراهم کردن این میزان از انرژی برای ذرات بتا در هوا نیست و در نتیجه **تابش چرنکوف در هوا رخ نمی‌دهد**. این پدیده در محیط آب رخ می‌دهد زیرا سرعت نور در آب تا ۲۵٪ کاهش می‌یابد و ذرات بتا قادر هستند این سرعت را رد کنند. با این توضیحات می‌توان نتیجه گرفت که **نور مشاهده شده بر فراز رآکتور شماره ۴ چرنوبیل بر اثر تابش هوای یونیزه بوده** و نه تابش چرنکوف.
 
 ## ۲. آیا واقعا طعم فلز حس می‌شد؟
 
@@ -127,7 +126,7 @@ date: 2019-06-14 20:00:00 +0000
 
 ## ۳. آیا تششعات در لحظه موجب سوختگی پوست می‌شوند؟
 
-<i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** قرار گرفتن در معرض پرتوهای یونیزه‌کننده موجب <a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" title="Acute radiation syndrome" rel="nofollow" target="_blank">سندرم پرتوی حاد</a> (ARS) می‌شود. یکی از تظاهرات این سندرم، آسیب پوستی ناشی از پرتو یا  (CRI) است. این عوارض پوستی به دنبال مجموعه‌ای از پروسه‌های التهابی و سرکوب تکثیر سلولی ایجاد می‌شوند. زمان بروز این آسیب به عوامل مختلفی مانند دوز تابش، حساسیت به تابش و وسعت آسیب بستگی دارد. با توجه به زمینه‌ی التهابی عارضه، در شدیدترین حالت، بروز عوارضی مانند اریتم و قرمزی پوست **حداقل <a href="https://www.ncbi.nlm.nih.gov/pubmed/10997311" title="Cutaneous radiation syndrome: clinical features, diagnosis and therapy" rel="nofollow" target="_blank">چندین دقیقه تا چند ساعت</a> به طول می‌انجامد**. بنابرین با پذیرش این واقعیت که قربانیان فاجعه چرنوبیل نهایتا با این آسیب‌های پوستی دست و پنجه نرم کرده‌اند اما بروز آن تنها چند ثانیه پس از قرار گرفتن در معرض تششعات، محتمل به نظر نمی‌رسد.
+<i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** قرار گرفتن در معرض پرتوهای یونیزه‌کننده موجب <a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" title="Acute radiation syndrome" rel="nofollow" target="_blank">سندرم پرتوی حاد</a> (ARS) می‌شود. یکی از تظاهرات این سندرم، آسیب پوستی ناشی از پرتو یا (CRI) است. این عوارض پوستی به دنبال مجموعه‌ای از پروسه‌های التهابی و سرکوب تکثیر سلولی ایجاد می‌شوند. زمان بروز این آسیب به عوامل مختلفی مانند دوز تابش، حساسیت به تابش و وسعت آسیب بستگی دارد. با توجه به زمینه‌ی التهابی عارضه، در شدیدترین حالت، بروز عوارضی مانند اریتم و قرمزی پوست **حداقل <a href="https://www.ncbi.nlm.nih.gov/pubmed/10997311" title="Cutaneous radiation syndrome: clinical features, diagnosis and therapy" rel="nofollow" target="_blank">چندین دقیقه تا چند ساعت</a> به طول می‌انجامد**. بنابرین با پذیرش این واقعیت که قربانیان فاجعه چرنوبیل نهایتا با این آسیب‌های پوستی دست و پنجه نرم کرده‌اند اما بروز آن تنها چند ثانیه پس از قرار گرفتن در معرض تششعات، محتمل به نظر نمی‌رسد.
 
 ## ۴. آیا تششعات رادیواکتیو مسریست؟ علت مرگ فرزند Lyudmilla Ignatenko همین بود؟
 
@@ -190,6 +189,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** در شرایط عادی، بدن تمایل به جذب ید دارد. تیروئید برای عملکرد صحیح نیاز به ید دارد. در شرایط عادی، بدن ایزوتوپ ید ۱۲۷ پایدار را جذب می‌کند اما ید قادر است به ایزوتوپ ید ۱۳۱ رادیواکتیو تبدیل شود. بدن قادر به تفکیک این دو ایزوتوپ نبوده و در صورت جذب و ذخیره‌ی ید ۱۳۱، آسیب طولانی مدت به خصوص به تیروئید، محل ذخیره‌سازی ید، وارد خواهد شد. مصرف مقادیر زیاد از ید پایدار (پتاسیم یدید) تمایل به جذب ید بیشتر را کاهش می‌دهد. تحقیقی در سال ۲۰۰۰ <a href="https://link.springer.com/article/10.1023/A:1010031115233" title="Thyroid Cancer Following Exposure to Radioactive Iodine" rel="nofollow" target="_blank">نشان می‌دهد</a> که ابتلا به سرطان تیروئید در اوکراین و بلاروس افزایش یافته.
 
 ## ۷. آیا لباس آتش‌نشان‌ها در زیرزمین بیمارستان نگهداری شدند؟
+
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** لباس آتش‌نشان‌هایی که به بیمارستان پریپیات منتقل شده بودند، در زیرزمین بیمارستان نگهداری شد. این لباس‌ها هنوز هم در زیرزمین بیمارستان وجود دارند. گفته می‌شود که اخیرا زیرزمین این بیمارستان با شن پر شده.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/4NBLmWbdX8/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
@@ -221,6 +221,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 <i class="fas fa-exclamation" style="color:#19B5FE;"></i> **<font color="#19B5FE">شاید!</font>** Legasov فیزیکدان هسته‌ای نبود. تخصص او شیمی معدنی بود. در زمان وقوع حادثه، او معاون اول موسسه انرژی اتمی Kurchatov بود و از ابتدای حادثه، نه به تنهایی بلکه همراه یک تیم از دانشمندان به چرنوبیل اعزام شد. خود Legasov بعدها <a href="http://www.pseudology.org/razbory/Legasov/03.htm" title="'خاطرات لگاسوف" rel="nofollow" target="_blank">اشاره کرد</a> که علت انتخاب او، تواناییش در کنترل مواد هسته‌ای رادیواکتیو بوده.
 
 ## ۱۰. آیا هلیکوپتر به خاطر نزدیک شدن بیش از حد به رآکتور سقوط کرد؟
+
 <i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** سقوط هلیکوپتر ارتباطی با نزدیکی به رآکتور و اثر تششعات نداشت. این هلیکوپتر بر فراز رآکتور شماره ۴ چرنوبیل حدود ۸ ماه بعد و طی ساخت سازه‌ای در اطراف نیروگاه برای کاهش آلودگی رادیواکتیو معروف به <a href="https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant_sarcophagus" title="'Sarcophagus" rel="nofollow" target="_blank">Sarcophagus</a>، بر اثر برخورد با سیم جرثقیل سقوط کرد.
 
 ![image-center]({{ site.url }}/images/posts/chernobyl/10-heli-crash.gif){: .align-center}
@@ -343,8 +344,8 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <i class="fas fa-exclamation" style="color:#19B5FE;"></i> **<font color="#19B5FE">شاید!</font>** در همان <a href="https://podcasts.apple.com/us/podcast/the-chernobyl-podcast/id1459712981" title="The Chernobyl Podcast" rel="nofollow" target="_blank">پادکست</a> صدای Svetlana Alexievich یکی از سربازان Liquidator پخش شد که استفاده از این محافظ‌های سربی را تائید می‌کرد اما در هیچ سند و تصویر دیگری استفاده از چنین چیزی مشاهده نشده. هرچند خلبان‌های هلیکوپتر در زیر کابین و صندلی خود صفحات سربی کار گذاشته بودند و به گفته‌ی کتاب Midnight in Chernobyl شعری در این خصوص داشتند:
 
->Yesli hochesh byt’ otsom/zakrivay yaitso svintsom
-<br>اگه می‌خوای پدر بشی/ تخمات رو با سرب بپوشون
+> Yesli hochesh byt’ otsom/zakrivay yaitso svintsom
+> <br>اگه می‌خوای پدر بشی/ تخمات رو با سرب بپوشون
 
 همچنین کابین خودروها با سرب پوشانده شده بودند. توضیحات Tarakanov که در سریال و واقعیت فرماندهی این نیروها را برعهده داشت در خصوص این موضوع:
 
@@ -412,7 +413,6 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 ## ۱۸. آیا واقعا از انسان برای پاکسازی سقف نیروگاه چرنوبیل استفاده شد؟
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** این افراد که وظیفه داشتند سقف نیروگاه را از تکه‌های گرافیت پاکسازی کنند، **Biorobot** نام داشتند. ابتدا یک افسر پزشک به محل می‌رفت و تششعات را اندازه می‌گرفت و با استفاده از آن دوز و زمان مجاز برای هر ناحیه را تعیین می‌کردند.
-
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/w9yRO7R8dQ/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/lRf7p" title="بیوروبات‌های چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
@@ -519,15 +519,11 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 ۲۶ آوریل، مرگ بر اثر انفجار<br>
 جسد او هرگز یافت نشد
 
-
-
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Akimov.jpg" alt="Aleksandr Fyodorovich Akimov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Aleksandr Fyodorovich Akimov**<br>
 مدیر شیفت رآکتور شماره ۴<br>
 ۱۰ می، بر اثر ARS و سوختگی شدید<br>
 دریافت دوز کشنده هنگامی که سعی داشت جریان آب را به رآکتور برقرار کند.
-
-
 
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Tishchura.jpg" alt="Vladimir Ivanovych Tishchura" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Vladimir Ivanovych Tishchura**<br>
@@ -535,15 +531,11 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 ۱۰ می، بر اثر ARS<br>
 گروهبان واحد Kibenok، در حال مبارزه با آتش در سالن مرکزی
 
-
-
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Kibenok.jpg" alt="Viktor Mykolayovych Kibenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Viktor Mykolayovych Kibenok**<br>
 سرنگهبان، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۱ می، بر اثر ARS<br>
 ستوان، رهبر واحد دوم، در حال مبارزه با آتش در سالن مرکزی
-
-
 
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Pravik.jpg" alt="Vladimir Pavlovych Pravik" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Vladimir Pavlovych Pravik**<br>
@@ -551,15 +543,11 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 ۱۱ می، بر اثر ARS<br>
 ستوان، رهبر گروه اول در سقف رآکتور. <a href="https://www.theguardian.com/world/2006/mar/26/nuclear.russia" title="Chernobyl 20 years on" rel="nofollow" target="_blank">گفته می‌شود</a> که رنگ چشم او بر اثر تششعات از قهوه‌ای به آبی تغییر یافت.
 
-
-
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Vasily-Ignatenko.jpg" alt="Vasily Ivanovych Ignatenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Vasily Ivanovych Ignatenko**<br>
 فرمانده گروه، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۳ می، بر اثر ARS<br>
 گروهبان ارشد، گروه اول در سقف رآکتور
-
-
 
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Kudryavtsev.jpg" alt="Aleksandr Gennadiyevych Kudryavtsev" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Aleksandr Gennadiyevych Kudryavtsev**<br>
@@ -567,15 +555,11 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 ۱۴ می، بر اثر ARS<br>
 در لحظه‌ی انفجار در اتاق کنترل بود. در تلاش برای پایین آوردن میله‌های کنترل و نگاه به هسته‌ی رآکتور
 
-
-
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Leonid-Toptunov.jpg" alt="Leonid Fedorovych Toptunov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Leonid Fedorovych Toptunov**<br>
 مهندس ارشد کنترل رآکتور<br>
 ۱۴ می، بر اثر ARS<br>
 در لحظه‌ی انفجار در اتاق کنترل بود. در تلاش برای راه‌اندازی جریان آب
-
-
 
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Nikolai-Titenok.jpg" alt="Nikolai Ivanovych Titenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Nikolai Ivanovych Titenok**<br>
@@ -583,15 +567,11 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 ۱۶ می، بر اثر سوختگی شدید<br>
 گروهبان ارشد واحد Kibenok، در حال مبارزه با آتش در سالن مرکزی، سقف و هسته رآکتور
 
-
-
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Proskuryakov.jpg" alt="Viktor Vasilyevich Proskuryakov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Viktor Vasilyevich Proskuryakov**<br>
 مهندس کنترل رآکتور<br>
 ۱۷ می، بر اثر ARS<br>
 در لحظه انفجار در اتاق کنترل بود. در تلاش برای پایین آوردن میله‌های کنترل و نگاه به هسته‌ی رآکتور
-
-
 
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Degtyarenko.jpg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Viktor Mykhaylovych Degtyarenko**<br>
@@ -599,21 +579,16 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 ۱۹ می، بر اثر ARS<br>
 در لحظه انفجار نزدیک پمپ‌ها بود. صورت او بر اثر بخار شدید سوخت.
 
-
-
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Anatoly-Sitnikov.jpg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Anatoly Andreyevich Sitnikov**<br>
 فیزیکدان، معاون مهندس عملیات<br>
 ۳۰ می، بر اثر ARS<br>
 دریافت حدود ۱۵۰۰ رونتگن از ناحیه سر هنگامی که به دستور Nikolai Fomin از سقف واحد C به رآکتور نگاه کرد.
 
-
-
 <img src="{{ site.url }}/images/posts/chernobyl/KIA/Valery-Ivanovich-Perevozchenko.jpg" alt="Valery Ivanovich Perevozchenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Valery Ivanovich Perevozchenko**<br>
 سرکارگر رآکتور<br>
 ۱۳ ژوئن، بر اثر ARS<br>
 در تلاش برای یافتن Khodemchuk و پایین آوردن میله‌های کنترل و نگاه به هسته‌ی رآکتور
-
 
 چه قسمتی از سریال برای شما جالب بود؟ آیا صحنه‌ای بوده که در واقعیت داشتن آن شک داشته باشید؟ **در بخش دیدگاه‌ها نظرتان را به اشتراک بگذارید.**

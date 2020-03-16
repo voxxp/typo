@@ -5,53 +5,58 @@ twitter: images/posts/2FA-101-twitter.jpg
 title: "احراز هویت دو عاملی <sub>به زبان ساده</sub>"
 excerpt: "احراز هویت دو عاملی چیست و چگونه به امنیت حساب‌های شما کمک می‌کند؟ چگونه قابل استفاده است و چه سرویس‌هایی از آن استفاده می‌کنند؟"
 tags:
-- "به زبان ساده"
-- "احراز هویت دو عاملی"
-- "امنیت"
-- "2FA"
+  - "به زبان ساده"
+  - "احراز هویت دو عاملی"
+  - "امنیت"
+  - "2FA"
 categories:
-- "حریم خصوصی"
+  - "حریم خصوصی"
 published: true
 comments: true
 date: 2018-09-06 21:00:00 +0000
 ---
 
-تصور کنید هکری بدون اطلاع شما، رمز عبور یکی از حساب‌های کاربری مهم شما را متوجه شود. چه مانعی بین او و از دست رفتن تمامی اطلاعات شما و سواستفاده‌های احتمالی وجود دارد؟ ***احراز هویت دو عاملی*** (Two-factor authentication) در پاسخ به این سوال آمده است.
+تصور کنید هکری بدون اطلاع شما، رمز عبور یکی از حساب‌های کاربری مهم شما را متوجه شود. چه مانعی بین او و از دست رفتن تمامی اطلاعات شما و سواستفاده‌های احتمالی وجود دارد؟ **_احراز هویت دو عاملی_** (Two-factor authentication) در پاسخ به این سوال آمده است.
 
 ## احراز هویت دو عاملی چیست؟
-احراز هویت دو عاملی یک ویژگی ساده است که از شما چیزی بیشتر از تنها یک رمز عبور می‌خواهد. احراز هویت دو عاملی از دو عاملِ ***«چیزی که می‌دانید»*** (مانند رمز عبور) و ***«چیزی که دارید»*** (مانند تلفن همراه) یا ***«کسی که هستید»*** (مثل الگوی شبکیه‌ی چشم و یا اثر انگشت شما) تشکیل شده است. مطمئنا شما بارها از احراز هویت دو عاملی در زندگی خود استفاده کرده‌اید؛ مثلا هنگامی که در کنار ورود رمز حساب بانکی خود باید حتما کارت بانکی (که  تنها در اختیار شما هست) را وارد کنید و یا وقتی که بعد از وارد کردن رمز گوشی خود از اسکن اثرانگشت و اسکن شبکیه چشمتان برای ورود استفاده می‌کنید.
+
+احراز هویت دو عاملی یک ویژگی ساده است که از شما چیزی بیشتر از تنها یک رمز عبور می‌خواهد. احراز هویت دو عاملی از دو عاملِ **_«چیزی که می‌دانید»_** (مانند رمز عبور) و **_«چیزی که دارید»_** (مانند تلفن همراه) یا **_«کسی که هستید»_** (مثل الگوی شبکیه‌ی چشم و یا اثر انگشت شما) تشکیل شده است. مطمئنا شما بارها از احراز هویت دو عاملی در زندگی خود استفاده کرده‌اید؛ مثلا هنگامی که در کنار ورود رمز حساب بانکی خود باید حتما کارت بانکی (که تنها در اختیار شما هست) را وارد کنید و یا وقتی که بعد از وارد کردن رمز گوشی خود از اسکن اثرانگشت و اسکن شبکیه چشمتان برای ورود استفاده می‌کنید.
 
 <center><figure class="figure">
   <img src="https://typo.ir/images/posts/2FA-illustration.png" class="figure-img img-fluid rounded" alt="احراز هویت دو عاملی">
   <figcaption class="figure-caption text-center">تصویر از <a href="https://www.freepik.com/free-photos-vectors/card" title="freepik" rel="nofollow" target="_blank">slidesgo - freepik</a></figcaption>
 </figure></center>
 
-در صورت محیا بودن این ویژگی، هنگامی که شما رمز عبور خود را در جایی وارد می‌کنید، رمز موقت دیگری (Time-based One Time Password) در اختیار شما قرار می‌گیرد که ***تنها شما به آن دسترسی دارید*** و تنها شما با استفاده از آن قادر به ورود به حسابتان هستید. این رمز موقت می‌تواند به ایمیل شما ارسال شود، به شما پیامک شود، به صورت تماس تلفنی به اطلاع شما برسد و یا به صورت خودکار توسط یک نرم‌افزار و یا سخت‌افزار که در اختیار شماست تولید شود.
+در صورت محیا بودن این ویژگی، هنگامی که شما رمز عبور خود را در جایی وارد می‌کنید، رمز موقت دیگری (Time-based One Time Password) در اختیار شما قرار می‌گیرد که **_تنها شما به آن دسترسی دارید_** و تنها شما با استفاده از آن قادر به ورود به حسابتان هستید. این رمز موقت می‌تواند به ایمیل شما ارسال شود، به شما پیامک شود، به صورت تماس تلفنی به اطلاع شما برسد و یا به صورت خودکار توسط یک نرم‌افزار و یا سخت‌افزار که در اختیار شماست تولید شود.
 
-رئیس جمهور ایالات متحده در سال ۲۰۱۶ در برنامه‌ای به نام ***«برنامه‌ی اقدام ملی برای امنیت سایبری»*** بر اهمیت این روش احراز هویت تاکید کرده:
+رئیس جمهور ایالات متحده در سال ۲۰۱۶ در برنامه‌ای به نام **_«برنامه‌ی اقدام ملی برای امنیت سایبری»_** بر اهمیت این روش احراز هویت تاکید کرده:
+
 <blockquote class="blockquote">
   <p class="mb-0">«شهروندان ایالات متحده را در ایمن ساختن حساب‌هایی آنلاین خود با افزودن لایه‌های امنیتی ورای رمز عبور، تقویت کنید. امریکایی‌ها می‌توانند با ترکیبی از رمز عبورهای قوی و عامل دیگری مانند اثر انگشت و یا رمز موقتی که با پیامک دریافت می‌شود، حساب‌های خود را ایمن‌تر سازند. رئیس جمهور از شهروندان ایالات متحده می‌خواهد که علاوه بر رمز عبور، از  احراز هویت چند عاملی برای ورود به حساب‌های آنلاین خود استفاده کنند.»</p>
   <footer class="blockquote-footer"><cite title="Source Title"><a href="https://obamawhitehouse.archives.gov/the-press-office/2016/02/09/fact-sheet-cybersecurity-national-action-plan" title="Cybersecurity National Action Plan" rel="nofollow" target="_blank">برنامه‌ی اقدام ملی برای امنیت سایبری</a></cite>، دبیر مطبوعاتی کاخ سفید</footer>
 </blockquote>
 
 ### تفاوت احراز هویت دو عاملی با دومرحله‌ای چیست؟
+
 در احراز هویت دو مرحله‌ای، هر دو عامل ورود از نوع عامل اول یعنی «چیزی که می‌دانید» است. به طور مثال برای ورود به حساب خود علاوه بر رمز عبور نیاز به پاسخ به یک سوال شخصی (مثل تاریخ تولد) خواهید داشت. این روش نسبت به احراز هویت دو عاملی از امنیت کمتری برخوردار است زیرا این عامل نیز به راحتی توسط مهندسی اجتماعی و یا حملات فیشینگ قادر به هک شدن هستند.
 
 ### احراز هویت دو عاملی چقدر امن است؟
-***امنیت مطلق نیست.*** با وجود اینکه احراز هویت دو عاملی یک لایه‌ی امنیتی قدرتمند دیگر به حساب‌های شما اضافه می‌کند، اما مصون از حملات هکرها نیست. به طور مثال در سال ۲۰۱۱ شرکت RSA <a href="https://web.archive.org/web/20110515010015/http://www.rsa.com/node.aspx?id=3872" title="Open Letter to RSA Customers" rel="nofollow" target="_blank">اعلام کرد</a> که توکن‌های احراز هویت آن موسوم به SecurID هک شده است. برای هک سیستم‌های احراز هویت دو عاملی نیاز به دسترسی به عامل دوم (مثلا تلفن همراه یا اثر انگشت شما) و یا مکانیزم تولید رمز موقت است.
+
+**_امنیت مطلق نیست._** با وجود اینکه احراز هویت دو عاملی یک لایه‌ی امنیتی قدرتمند دیگر به حساب‌های شما اضافه می‌کند، اما مصون از حملات هکرها نیست. به طور مثال در سال ۲۰۱۱ شرکت RSA <a href="https://web.archive.org/web/20110515010015/http://www.rsa.com/node.aspx?id=3872" title="Open Letter to RSA Customers" rel="nofollow" target="_blank">اعلام کرد</a> که توکن‌های احراز هویت آن موسوم به SecurID هک شده است. برای هک سیستم‌های احراز هویت دو عاملی نیاز به دسترسی به عامل دوم (مثلا تلفن همراه یا اثر انگشت شما) و یا مکانیزم تولید رمز موقت است.
 
 <div class="alert alert-secondary" role="alert"> <a href="https://typo.ir/privacy-101/" title="حریم خصوصی به زبان ساده" target="_blank" class="alert-link"><img src="https://typo.ir/images/posts/privacy-101.jpg" alt="حریم خصوصی به زبان ساده" style="width: 53px !important;height: 53px !important;" class="rounded float-right ml-3 mt-1"></a>مطالب دیگر وبلاگ با موضوع <a class="alert-link" href="https://typo.ir/categories#%D8%AD%D8%B1%DB%8C%D9%85%20%D8%AE%D8%B5%D9%88%D8%B5%DB%8C" title="حریم خصوصی" target="_blank">حریم خصوصی</a> را بخوانید:<br><strong><a href="https://typo.ir/privacy-101/" title="حریم خصوصی به زبان ساده" target="_blank" class="alert-link">حریم خصوصی به زبان ساده</a></strong> </div>
 
 ### آیا استفاده از آن سخت است؟
+
 احراز هویت دو عاملی یک مرحله‌ی دیگر به پروسه‌ی ورود شما به حسابتان اضافه می‌کند. اینکه آیا یک مرحله بیشتر برای ورود به حساب، به امنیت بیشتر شما می‌ارزد یا خیر، بستگی به خودتان دارد!
 
 ### چگونه از احراز هویت دوعاملی استفاده کنم؟
+
 بسته به سرویسی که از آن استفاده می‌کنید، در صورت محیا بودن احراز هویت دو عاملی، به طور معمول شما حداقل نیاز به یکی از این موارد را دارید: راه تماس تلفنی و یا ارسال پیامک، آدرس ایمیل، نرم‌افزار و یا سخت‌افزار تولید توکن.
 
-مزیت استفاده از نرم‌افزار نسبت به پیامک، تماس تلفنی و ایمیل این است که دیگر ***نیازی به اتصال به شبکه‌ی مخابراتی و اینترنت نیست*** و تنها با باز کردن نرم‌افزار، می‌توانید رمز موقت خود برای ورود را دریافت کنید. بعلاوه احتمال شنود پیامک و سواستفاده از رمز‌های ورود محتمل است.
+مزیت استفاده از نرم‌افزار نسبت به پیامک، تماس تلفنی و ایمیل این است که دیگر **_نیازی به اتصال به شبکه‌ی مخابراتی و اینترنت نیست_** و تنها با باز کردن نرم‌افزار، می‌توانید رمز موقت خود برای ورود را دریافت کنید. بعلاوه احتمال شنود پیامک و سواستفاده از رمز‌های ورود محتمل است.
 
 <center><blockquote class="twitter-tweet" data-lang="fa" data-dnt="true" data-link-color="#4ECDC4"><p lang="fa" dir="rtl">صب که پاشدم, دیدم ی sms دارم. Sms کد تلگرام که وقتی از روی وب به تلگرام وصل میشم باید واردش کنم.تلگرامم رو چک کردم و متوجه شدم کسی واردش شده</p>&mdash; شکوفه حبیب زاده (@shokoohabibzade) <a href="https://twitter.com/shokoohabibzade/status/813272340280856576?ref_src=twsrc%5Etfw">۶ دی ۱۳۹۵</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
-
 
 از جمله نرم‌افزارهای احراز هویت دو عاملی می‌توان به <a href="https://authy.com" title="Authy Two-factor Authentication (2FA) App & Guides" rel="nofollow" target="_blank">Authy</a>، <a href="https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en" title="Install Google Authenticator" rel="nofollow" target="_blank">Google Authenticator</a> و <a href="https://freeotp.github.io" title="FreeOTP" rel="nofollow" target="_blank">FreeOTP</a> اشاره کرد. نرم‌افزارهای مدیریت رمز عبور مانند <a href="https://1password.com" title="1Password" rel="nofollow" target="_blank">1Password</a>، <a href="https://lastpass.com/auth/" title="LastPass Authenticator" rel="nofollow" target="_blank">LastPass</a> و <a href="https://www.dashlane.com" title="Dashlane" rel="nofollow" target="_blank">Dashlane</a> نیز از این امکان پشتیبانی می‌کنند.
 
@@ -80,8 +85,8 @@ date: 2018-09-06 21:00:00 +0000
   "contentUrl": "https://raw.githubusercontent.com/typofile/localb1/a35e9c68b331633c6fe292a1634dc984/2FA-Apple.mp4"
 }</script>
 
-
 ### چه سرویس‌هایی از احراز هویت دو عاملی پشتیبانی می‌کنند؟
+
 بیشتر سرویس‌های نام آشنا حداقل از یک روش احراز هویت دو عاملی پشتیبانی می‌کنند. بخشی از این سرویس‌ها به طور خلاصه برای شما گردآوری شده و به صفحه‌ی راهنمای راه‌اندازی لینک شده‌اند. سرویس‌هایی که از <i class="fas fa-comment-alt"></i> پیامک، <i class="fas fa-phone-square"></i> تماس تلفنی، <i class="fas fa-envelope-square"></i> ایمیل، <i class="fas fa-qrcode"></i> نرم‌افزاری و <i class="fas fa-save"></i> سخت‌افزاری پشتیبانی می‌کنند با آیکون‌های مربوطه مشخص شده‌اند.
 
 ### شبکه‌های اجتماعی
@@ -101,32 +106,32 @@ date: 2018-09-06 21:00:00 +0000
   <tbody>
     <tr>
       <td><a href="https://support.500px.com/hc/en-us/articles/205115877-How-do-I-setup-Two-Factor-Authentication" title="500px Two Factor Authentication" rel="nofollow" target="_blank">500px</a></td>
-      <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i></td> 
-      <td><a href="https://www.facebook.com/help/148233965247823" title="Facebook Two Factor Authentication" rel="nofollow" target="_blank">Facebook</a></td> 
-      <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i> <i class="fas fa-save"></i></td> 
-      <td><a href="https://www.google.com/intl/en-US/landing/2step/features.html" title="Google 2-step verification" rel="nofollow" target="_blank">Google+</a></td> 
+      <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i></td>
+      <td><a href="https://www.facebook.com/help/148233965247823" title="Facebook Two Factor Authentication" rel="nofollow" target="_blank">Facebook</a></td>
+      <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i> <i class="fas fa-save"></i></td>
+      <td><a href="https://www.google.com/intl/en-US/landing/2step/features.html" title="Google 2-step verification" rel="nofollow" target="_blank">Google+</a></td>
       <td><i class="fas fa-comment-alt"></i> <i class="fas fa-phone-square"></i> <i class="fas fa-qrcode"></i> <i class="fas fa-save"></i></td>
     </tr>
     <tr>
-      <td><a href="https://help.instagram.com/566810106808145" title="Instagram two-step verification" rel="nofollow" target="_blank">Instagram</a></td> 
-    <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i></td> 
-    <td><a href="https://www.linkedin.com/help/linkedin/answer/544" title="LinkedIn two-step verification" rel="nofollow" target="_blank">LinkedIn</a></td> 
-    <td><i class="fas fa-comment-alt"></i></td> 
-    <td><a href="https://help.pinterest.com/en/articles/two-factor-authentication" title="Pinterest 2FA" rel="nofollow" target="_blank">Pinterest</a></td> 
+      <td><a href="https://help.instagram.com/566810106808145" title="Instagram two-step verification" rel="nofollow" target="_blank">Instagram</a></td>
+    <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i></td>
+    <td><a href="https://www.linkedin.com/help/linkedin/answer/544" title="LinkedIn two-step verification" rel="nofollow" target="_blank">LinkedIn</a></td>
+    <td><i class="fas fa-comment-alt"></i></td>
+    <td><a href="https://help.pinterest.com/en/articles/two-factor-authentication" title="Pinterest 2FA" rel="nofollow" target="_blank">Pinterest</a></td>
     <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i></td>
     </tr>
     <tr>
-      <td><a href="https://www.reddithelp.com/en/categories/using-reddit/your-reddit-account/how-set-two-factor-authentication" title="Reddit two-step verification" rel="nofollow" target="_blank">Reddit</a></td> 
-    <td><i class="fas fa-qrcode"></i></td> 
-    <td><a href="https://support.snapchat.com/en-US/article/enable-login-verification" title="Snapchat two-step verification" rel="nofollow" target="_blank">Snapchat</a></td> 
-    <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i></td> 
-    <td><a href="https://help.twitter.com/en/managing-your-account/two-factor-authentication" title="Twitter two-step verification" rel="nofollow" target="_blank">Twitter</a></td> 
+      <td><a href="https://www.reddithelp.com/en/categories/using-reddit/your-reddit-account/how-set-two-factor-authentication" title="Reddit two-step verification" rel="nofollow" target="_blank">Reddit</a></td>
+    <td><i class="fas fa-qrcode"></i></td>
+    <td><a href="https://support.snapchat.com/en-US/article/enable-login-verification" title="Snapchat two-step verification" rel="nofollow" target="_blank">Snapchat</a></td>
+    <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i></td>
+    <td><a href="https://help.twitter.com/en/managing-your-account/two-factor-authentication" title="Twitter two-step verification" rel="nofollow" target="_blank">Twitter</a></td>
     <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i> <i class="fas fa-save"></i></td>
     </tr>
-    <tr> 
+    <tr>
     <td><a href="https://tumblr.zendesk.com/hc/en-us/articles/226270148-Two-factor-authentication" title="Tumbler two-step verification" rel="nofollow" target="_blank">Tumbler</a></td>
-    <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i></td> 
-    <td></td><td></td><td></td><td></td> 
+    <td><i class="fas fa-comment-alt"></i> <i class="fas fa-qrcode"></i></td>
+    <td></td><td></td><td></td><td></td>
   </tr>
   </tbody>
 </table>
@@ -369,7 +374,6 @@ date: 2018-09-06 21:00:00 +0000
 سرویسی را می‌شناسید که از احراز هویت دو عاملی پشتیبانی کرده و در لیست بالا موجود نیست؟ لطفا در بخش نظرات و یا به حساب توییتری <a href="https://twitter.com/voxxp" title="Vox Twitter Account" rel="nofollow" target="_blank">voxxp@</a> معرفی کنید تا به مطلب اضافه شود.
 
 <small>تصویر کاور از <a href="https://icons8.com" title="Ouch.pics" rel="nofollow" target="_blank">Ouch.pics</a></small>
-
 
 <script type="application/ld+json">
 {
