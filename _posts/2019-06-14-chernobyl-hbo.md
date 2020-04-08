@@ -284,7 +284,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
     <figcaption class="figure-caption text-center">- جناب لگاسوف، هر پیروزی قطعا بهایی داره.</figcaption>
 </figure>
 </center>
-## ۱۳. آیا گورباچف اجازه‌ی قتل سه نفر را برای تخلیفه‌ی آب زیر رآکتور داد؟ آیا سه نفر داوطلب شدند؟
+## ۱۳. آیا گورباچف اجازه‌ی قتل سه نفر را برای تخلیه‌ی آب زیر رآکتور داد؟ آیا سه نفر داوطلب شدند؟
 
 <i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** تخلیه‌ی آب زیر رآکتور برای جلوگیری از انفجار به دنبال برخورد سوخت مذاب رآکتور با آب صورت گرفت. <a href="http://www.pseudology.org/razbory/Legasov/01.htm" title="خاطرات لگاسوف" rel="nofollow" target="_blank">اخطار احتمال انفجار</a> را Evgeny Velikhov، یکی از دانشمندان عضو کمیته تحقیقات داد.
 
