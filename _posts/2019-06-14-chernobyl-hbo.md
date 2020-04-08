@@ -29,14 +29,8 @@ date: 2019-06-14 20:00:00 +0000
   <footer class="blockquote-footer"><cite title="Source Title"><a href="https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%AC%D8%B9%D9%87_%DA%86%D8%B1%D9%86%D9%88%D8%A8%DB%8C%D9%84" title="مدخل فاجعه چرنوبیل" rel="nofollow" target="_blank">مدخل فاجعه چرنوبیل</a></cite></footer>
 </blockquote>
 
+![image-center]({{ site.url }}/images/posts/chernobyl/1-color-dyatlov.jpg){: .align-center}
 ## ۱. آیا پس از انفجار، نورهای رنگی بر فراز رآکتور دیده می‌شد؟
-
-<center>
-<figure class="half figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/1-color-dyatlov.jpg">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/1-color-legasov.jpg">
-</figure>
-</center>
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** شاهدین عینی مشاهده‌ی نورهای رنگی را تائید کرده‌اند. در این ویدیو Korneev، یکی از اپراتورهای رآکتور شماره‌ی ۴، این رنگ‌ها را توصیف می‌کند:
 
@@ -96,14 +90,13 @@ date: 2019-06-14 20:00:00 +0000
 
 از میان ذرات آلفا، بتا و پوزیترون، تنها ذرات بتا قادر به طی کردن مسیر طولانی‌تر در هوا هستند و با توجه به اینکه سرعت نور در هوا تنها ۰.۰۳٪ کمتر از خلا است، برای رخ دادن تابش چرنکوف در هوا، ذرات بتا باید بیش از ۹۹.۹۷٪ سرعت نور حرکت کنند. شکافت هسته‌ای قادر به فراهم کردن این میزان از انرژی برای ذرات بتا در هوا نیست و در نتیجه **تابش چرنکوف در هوا رخ نمی‌دهد**. این پدیده در محیط آب رخ می‌دهد زیرا سرعت نور در آب تا ۲۵٪ کاهش می‌یابد و ذرات بتا قادر هستند این سرعت را رد کنند. با این توضیحات می‌توان نتیجه گرفت که **نور مشاهده شده بر فراز رآکتور شماره ۴ چرنوبیل بر اثر تابش هوای یونیزه بوده** و نه تابش چرنکوف.
 
-## ۲. آیا واقعا طعم فلز حس می‌شد؟
-
 <center>
-<figure class="half figure">
+<figure class="figure">
 <img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/2-metal-ignatenko.jpg">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/2-metal-toptunov.jpg">
+    <figcaption class="figure-caption text-center">- طعم فلز رو حس می‌کنی؟</figcaption>
 </figure>
 </center>
+## ۲. آیا واقعا طعم فلز حس می‌شد؟
 
 <i class="fas fa-exclamation" style="color:#19B5FE;"></i> **<font color="#19B5FE">شاید!</font>** **تششعات رادیواکتیو طعم ندارند** اما ممکن است از دو طریق موجب حس طعم فلزی شوند.
 
@@ -133,9 +126,13 @@ date: 2019-06-14 20:00:00 +0000
 
 <i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** قرار گرفتن در معرض پرتوهای یونیزه‌کننده موجب <a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" title="Acute radiation syndrome" rel="nofollow" target="_blank">سندرم پرتوی حاد</a> (ARS) می‌شود. یکی از تظاهرات این سندرم، آسیب پوستی ناشی از پرتو یا (CRI) است. این عوارض پوستی به دنبال مجموعه‌ای از پروسه‌های التهابی و سرکوب تکثیر سلولی ایجاد می‌شوند. زمان بروز این آسیب به عوامل مختلفی مانند دوز تابش، حساسیت به تابش و وسعت آسیب بستگی دارد. با توجه به زمینه‌ی التهابی عارضه، در شدیدترین حالت، بروز عوارضی مانند اریتم و قرمزی پوست **حداقل <a href="https://www.ncbi.nlm.nih.gov/pubmed/10997311" title="Cutaneous radiation syndrome: clinical features, diagnosis and therapy" rel="nofollow" target="_blank">چندین دقیقه تا چند ساعت</a> به طول می‌انجامد**. بنابرین با پذیرش این واقعیت که قربانیان فاجعه چرنوبیل نهایتا با این آسیب‌های پوستی دست و پنجه نرم کرده‌اند اما بروز آن تنها چند ثانیه پس از قرار گرفتن در معرض تششعات، محتمل به نظر نمی‌رسد.
 
+<center>
+<figure class="figure">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/4-contamination-khomyuk.jpg">
+    <figcaption class="figure-caption text-center">- تششعات ممکن بود مادر رو بکشه ولی به جاش بچه جذبشون کرد.</figcaption>
+</figure>
+</center>
 ## ۴. آیا تششعات رادیواکتیو مسریست؟ علت مرگ فرزند Lyudmilla Ignatenko همین بود؟
-
-![image-center]({{ site.url }}/images/posts/chernobyl/4-contamination-zinchenko.jpg){: .align-center}
 
 <i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** **تششعات رادیواکتیو مسری نیست**. فردی که تحت تابش رادیواکتیو قرار گرفته، از خود تششعات رادیواکتیو ساطع نمی‌کند اما امکان آلودگی رادیواکتیو وجود دارد. آلودگی رادیواکتیو زمانی رخ می‌دهد که اتم‌های رادیواکتیو به فرد یا جسم منتقل شود. آلودگی خارجی در صورتی رخ می‌دهد که مواد رادیواکتیو بر روی پوست و لباس فرد باشد و این آلودگی با حذف لباس و شستشو، رفع می‌شود. آلودگی داخلی در صورتی رخ می‌دهد که مواد رادیواکتیو تنفس و بلعیده شود و یا از طریق زخم پوستی جذب شود. این آلودگی به سادگی قابل حذف نیست. بنابر این آتش‌نشان‌ها تششعات رادیواکتیو ساطع می‌کردند نه چون تحت تابش قرار گرفته بودند، بلکه چون مواد رادیواکتیو در داخل بدنشان باقی مانده بود.
 
@@ -143,22 +140,14 @@ date: 2019-06-14 20:00:00 +0000
 
 بر اساس <a href="https://www.unscear.org/docs/publications/1988/UNSCEAR_1988_Annex-G.pdf" title="Sources, Effects and Risks of Ionizing Radiation" rel="nofollow" target="_blank">گزارش</a> کمیته علمی سازمان ملل متحد در خصوص تاثیرات تابش اتمی (UNSCEAR) دوز داخلی تمام بدن قربانیان اولیه فاجعه چرنوبیل (به غیر از دو قربانی با سوختگی‌های شدید)، حداکثر ۲۰۰ میلی‌سیورت بوده. بنابر <a href="https://www.nrc.gov/docs/ML1209/ML120970113.pdf" title="US Department of Energy, Dose Ranges Rem Chart" rel="nofollow" target="_blank">گزارش</a> وزارت انرژی ایالات متحده، این میزان از تابش برابر با میزان تابش یونیزه کننده در شهر رامسر در ایران است. تابشی که مواجه با آن کشنده به نظر نمی‌رسد.
 
-![image-center]({{ site.url }}/images/posts/chernobyl/4-contamination-khomyuk.jpg){: .align-center}
-
 بعلاوه **مشاهداتی در این خصوص که جنین قادر به جذب تششعات به جای مادر خود باشد، وجود ندارد**. Lyudmilla Ignatenko در زمان حادثه در ۶ ماهگی بارداری قرار داشت و با توجه به این واقعیت که دختر او به دلیل ایست قلبی فوت کرد و <a href="https://www.stanfordchildrens.org/en/topic/default?id=congenital-heart-disease-90-P02346" title="Congenital Heart Disease" rel="nofollow" target="_blank">بیماری‌های قلبی مادرزادی</a> در ۸ هفته اول بارداری رخ می‌دهند، به نظر می‌رسد که علت مرگ کودک چیزی جز تششعات رادیواکتیو باشد.
 
 در سال ۱۹۸۷ دکتر Robert Gale پس از بررسی ۳۰۰ نوزاد تازه متولد شده در نواحی نزدیک به چرنوبیل <a href="https://www.nytimes.com/1987/02/16/us/rise-in-retarted-children-predicted-from-chernobyl.html?searchResultPosition=5" title="Rise in Retarted Children Predicted from Chernobyl" rel="nofollow" target="_blank">گزارش کرد</a> که هیچکدام پس از تولد ناهنجاری فیزیکی از خود نشان نداده‌اند.
 
 با این وجود آژانس بین‌المللی انرژی اتمی در سال ۱۹۸۷ <a href="http://jnm.snmjournals.org/content/28/6/933.full.pdf" title="Lessons of Chernobyl : SNM Members Try to Decontaminate World Threatened by Fallout" rel="nofollow" target="_blank">پیش‌بینی کرده</a> که پس از وقوع این حادثه، ۱۰۰ تا ۲۰۰ هزار نفر در شوروی و اروپا تصمیم به سقط جنین گرفتند.
 
+![image-center]({{ site.url }}/images/posts/chernobyl/5-latency-ignatenko.jpg){: .align-center}
 ## ۵. آیا دوره‌ی نهفتگی واقعیت دارد؟
-
-<center>
-<figure class="half figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/5-latency-ignatenko.jpg">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/5-latency-legasov.jpg">
-</figure>
-</center>
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** دوره نهفتگی به دوره شروع بیماری تا ظهور علایم بیماری گفته می‌شود. در خصوص سندروم پرتوی حاد، این دوره می‌تواند چند ساعت تا یک ماه به طول انجامد. Nadejina که در زمان حادثه، پزشک بیمارستان شماره ۶ مسکو بود، اشاره می‌کند که در زمان ورود، بیماران در دوره‌ی نهفتگی بودند:
 
@@ -189,8 +178,6 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 ## ۶. ید پایدار واقعا مانع جذب ید رادیواکتیو می‌شود؟
 
-![image-center]({{ site.url }}/images/posts/chernobyl/6-iodine-khomyuk.jpg){: .align-center}
-
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** در شرایط عادی، بدن تمایل به جذب ید دارد. تیروئید برای عملکرد صحیح نیاز به ید دارد. در شرایط عادی، بدن ایزوتوپ ید ۱۲۷ پایدار را جذب می‌کند اما ید قادر است به ایزوتوپ ید ۱۳۱ رادیواکتیو تبدیل شود. بدن قادر به تفکیک این دو ایزوتوپ نبوده و در صورت جذب و ذخیره‌ی ید ۱۳۱، آسیب طولانی مدت به خصوص به تیروئید، محل ذخیره‌سازی ید، وارد خواهد شد. مصرف مقادیر زیاد از ید پایدار (پتاسیم یدید) تمایل به جذب ید بیشتر را کاهش می‌دهد. تحقیقی در سال ۲۰۰۰ <a href="https://link.springer.com/article/10.1023/A:1010031115233" title="Thyroid Cancer Following Exposure to Radioactive Iodine" rel="nofollow" target="_blank">نشان می‌دهد</a> که ابتلا به سرطان تیروئید در اوکراین و بلاروس افزایش یافته.
 
 ## ۷. آیا لباس آتش‌نشان‌ها در زیرزمین بیمارستان نگهداری شدند؟
@@ -213,15 +200,17 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
   "contentUrl": "https://raw.githubusercontent.com/typofile/localb2/bd390b308d1479904b0facf10700408e/7-fireman-720.mp4"
 }</script>
 
+<center>
+<figure class="figure">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/8-report-shcherbina.jpg">
+    <figcaption class="figure-caption text-center">- آقای بریکانوف عدد ۳.۶ رونتگن رو گزارش کردن.</figcaption>
+</figure>
+</center>
 ## ۸. آیا Viktor Bryukhanov وضعیت چرنوبیل را عادی گزارش کرده بود؟
-
-![image-center]({{ site.url }}/images/posts/chernobyl/8-report-shcherbina.jpg){: .align-center}
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** <a href="https://digitalarchive.wilsoncenter.org/assets/media_files/000/025/169/25169.pdf" title="'گزارش بریخانوف" rel="nofollow" target="_blank">گزارش Bryukhanov</a> پس از فروپاش شوروی در دسترس عموم قرار گرفت. او در این گزارش ذکر کرده که یک نفر در بیمارستان فوت شده و یک نفر (Khodemchuk) مفقود شده. ۳۴ نفر نیز به بیمارستان منتقل شده‌اند. میزان تششعات در ساعت ۳ صبح واقعه ۰.۰۵ رونتگن در شهر و ۳.۶ رونتگن در ساعت در محل حادثه گزارش شده. او همچنین وضعیت در شهر پریپیات را کاملا عادی گزارش کرده. در حالی که بعدها مشخص شد عمق فاجعه بسیار بیشتر از این بوده.
 
 ## ۹. آیا Valery Legasov واقعا در خصوص رآکتور RBMK اطلاعات داشت؟
-
-![image-center]({{ site.url }}/images/posts/chernobyl/9-rbmk-legasov.jpg){: .align-center}
 
 <i class="fas fa-exclamation" style="color:#19B5FE;"></i> **<font color="#19B5FE">شاید!</font>** Legasov فیزیکدان هسته‌ای نبود. تخصص او شیمی معدنی بود. در زمان وقوع حادثه، او معاون اول موسسه انرژی اتمی Kurchatov بود و از ابتدای حادثه، نه به تنهایی بلکه همراه یک تیم از دانشمندان به چرنوبیل اعزام شد. خود Legasov بعدها <a href="http://www.pseudology.org/razbory/Legasov/03.htm" title="'خاطرات لگاسوف" rel="nofollow" target="_blank">اشاره کرد</a> که علت انتخاب او، تواناییش در کنترل مواد هسته‌ای رادیواکتیو بوده.
 
@@ -254,13 +243,6 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 }</script>
 
 ## ۱۲. آیا وقایعی که درباره‌ی تخلیه‌‌ی مردم نشان داده شد، حقیقت داشت؟
-
-<center>
-<figure class="half figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/12-evacuation-hbo.jpg">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/12-evacuation-elderly-hbo.jpg">
-</figure>
-</center>
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** در گزارشی از وزارت انرژی و برق در همان روز حادثه گزارش شده که آتش در ساعت ۳:۳۰ صبح خاموش شده و بنابر <a href="https://digitalarchive.wilsoncenter.org/assets/media_files/000/001/989/1989.pdf" title="نظر وزارت سلامت شوروی" rel="nofollow" target="_blank">نظر وزارت سلامت شوروی</a>، نیازی به تخلیه شهروندان از شهر نیست.
 
@@ -296,14 +278,13 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
   "contentUrl": "https://raw.githubusercontent.com/typofile/localb2/08abdd7559f903ace1aa29571308964f/12-evacuation-grebeniouk-720.mp4"
 }</script>
 
-## ۱۳. آیا گورباچف اجازه‌ی قتل سه نفر را برای تخلیفه‌ی آب زیر رآکتور داد؟ آیا سه نفر داوطلب شدند؟
-
 <center>
-<figure class="half figure">
+<figure class="figure">
 <img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/13-volunteer-gorbachev.jpg">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/13-volunteer-shcherbina.jpg">
+    <figcaption class="figure-caption text-center">- جناب لگاسوف، هر پیروزی قطعا بهایی داره.</figcaption>
 </figure>
 </center>
+## ۱۳. آیا گورباچف اجازه‌ی قتل سه نفر را برای تخلیفه‌ی آب زیر رآکتور داد؟ آیا سه نفر داوطلب شدند؟
 
 <i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** تخلیه‌ی آب زیر رآکتور برای جلوگیری از انفجار به دنبال برخورد سوخت مذاب رآکتور با آب صورت گرفت. <a href="http://www.pseudology.org/razbory/Legasov/01.htm" title="خاطرات لگاسوف" rel="nofollow" target="_blank">اخطار احتمال انفجار</a> را Evgeny Velikhov، یکی از دانشمندان عضو کمیته تحقیقات داد.
 
@@ -311,9 +292,13 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 > شغل ما بود. اگر این کار را نمی‌کردیم، اخراجمان می‌کردند. بعد از آن چطور کار پیدا می‌کردم؟ چه کسی به جای ما این کار را انجام می‌داد؟
 
+<center>
+<figure class="figure">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/14-miner-hbo.jpg">
+    <figcaption class="figure-caption text-center">- دما چقدره؟<br/>-۵۰ درجه</figcaption>
+</figure>
+</center>
 ## ۱۴. آیا معدن‌کارها لخت کار می‌کردند؟
-
-![image-center]({{ site.url }}/images/posts/chernobyl/14-miner-hbo.jpg){: .align-center}
 
 <i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** حدود ده هزار معدن‌کار به محل حادثه فرستاده شدند. استفاده از تهویه در داخل تونل ممکن نبود و دما به ۵۰ درجه سانتی‌گراد و میزان تششع به ۱ رونتگن در ساعت رسیده بود. Craig Mazin سازنده‌ی مینی‌سریال چرنوبیل در <a href="https://podcasts.apple.com/us/podcast/the-chernobyl-podcast/id1459712981" title="The Chernobyl Podcast" rel="nofollow" target="_blank">پادکست سریال</a> می‌گوید:
 
@@ -343,9 +328,13 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** حدود صد هزار نیروی نظامی و چهارصد هزار نیروی غیرنظامی برای از بین بردن آلودگی به چرنوبیل ارسال شدند، این نیروها Liquidator نام داشتند. وظیفه‌ی بخشی این نیروها از بین بردن <a href="https://www.theguardian.com/lifeandstyle/2018/feb/05/dogs-chernobyl-abandoned-pets-stray-exclusion-zone" title="Meet the dogs of Chernobyl" rel="nofollow" target="_blank">حیوانات آلوده</a> در محل بود.
 
+<center>
+<figure class="figure">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/16-eggbasket.jpg">
+    <figcaption class="figure-caption text-center">- از روی شلوار بپوش!</figcaption>
+</figure>
+</center>
 ## ۱۶. آیا سربازها واقعا از جعبه تخم‌مرغ برای محافظت از اندام جنسیشان استفاده می‌کردند؟
-
-![image-center]({{ site.url }}/images/posts/chernobyl/16-eggbasket.jpg){: .align-center}
 
 <i class="fas fa-exclamation" style="color:#19B5FE;"></i> **<font color="#19B5FE">شاید!</font>** در همان <a href="https://podcasts.apple.com/us/podcast/the-chernobyl-podcast/id1459712981" title="The Chernobyl Podcast" rel="nofollow" target="_blank">پادکست</a> صدای Svetlana Alexievich یکی از سربازان Liquidator پخش شد که استفاده از این محافظ‌های سربی را تائید می‌کرد اما در هیچ سند و تصویر دیگری استفاده از چنین چیزی مشاهده نشده. هرچند خلبان‌های هلیکوپتر در زیر کابین و صندلی خود صفحات سربی کار گذاشته بودند و به گفته‌ی کتاب Midnight in Chernobyl شعری در این خصوص داشتند:
 
@@ -457,15 +446,14 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 ## ۲۰. آیا Valery Legasov در وین و دادگاه حضور داشت؟
 
+<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** Legasov نماینده شوروی در جلسه آژانس بین‌المللی انرژی اتمی در وین بود. او گزارش ۳۷۰ صفحه‌ای ارائه کرد و در آن با پذیرش مشکلات ساختاری رآکتور RBMK، مقصر اصلی فاجعه چرنوبیل را خطای نیروهای انسانی <a href="http://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/appendices/chernobyl-accident-appendix-1-sequence-of-events.aspx" title="Sequence of Events – Chernobyl Accident Appendix 1" rel="nofollow" target="_blank">گزارش کرد</a>.
+
 <center>
 <figure class="figure">
 <img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/20-vienna-legasov-real.jpg">
     <figcaption class="figure-caption text-center">Valery Legasov در جلسه IAEA در وین</figcaption>
 </figure>
 </center>
-
-<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** Legasov نماینده شوروی در جلسه آژانس بین‌المللی انرژی اتمی در وین بود. او گزارش ۳۷۰ صفحه‌ای ارائه کرد و در آن با پذیرش مشکلات ساختاری رآکتور RBMK، مقصر اصلی فاجعه چرنوبیل را خطای نیروهای انسانی <a href="http://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/appendices/chernobyl-accident-appendix-1-sequence-of-events.aspx" title="Sequence of Events – Chernobyl Accident Appendix 1" rel="nofollow" target="_blank">گزارش کرد</a>.
-
 او بعدها اعلام کرد که به نظر او مقصر اصلی، طراحی RBMK بوده اما سایرین، از جمله <a href="https://en.wikipedia.org/wiki/Anatoly_Alexandrov_(physicist)" title="Anatoly Alexandrov" rel="nofollow" target="_blank">Anatoly Alexandrov</a> مدیر طراحی این رآکتور با او مخالف بودند. در این زمان، مشکل رآکتور RBMK از کسی مخفی نبود. در جلسه‌ی آژانس، Lord Marshall اعلام کرد که بریتانیایی‌ها در سال ۱۹۷۷ مشکلات ساختاری رآکتور را به شوروی اخطار داده بودند که Legasov <a href="https://www.nytimes.com/1986/08/26/world/design-flaws-known-to-moscow-called-major-factor-at-chernobyl.html" title="Design Flaws, Known to Moscow, Called Major Factor at Chernobyl" rel="nofollow" target="_blank">پاسخ داد</a> از چنین اخطاری اطلاع ندارد.
 
 <i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** Legasov در دادگاه مقصرین فاجعه چرنوبیل حضور نداشت.
@@ -488,13 +476,15 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 ## ۲۱. آیا Legasov واقعا خودکشی کرد؟
 
-![image-center]({{ site.url }}/images/posts/chernobyl/21-suicide-hbo.jpg){: .align-center}
-
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** با وجود اینکه او در دادگاه حضور نداشت و سندی در خصوص تهدید او توسط KGB وجود ندارد، Legasov از کمبودها و مشکلات در مدیریت چرنوبیل شکایت داشت. ادعا شده که بعدها وعده‌ی دادن مدال افتخار Hero of Socialist Labour به او لغو شد. همچنین به دستور گورباچف ترفیع تمامی کارمندان موسسه Kurchatov از جمله Legasov ممنوع شد. اما **انگیزه‌ی خودکشی او دقیقا مشخص نیست**. Legasov در ۱۹۸۷ هم سعی کرده بود با اوردوز داروی خواب‌آور خودکشی کند. پس از هر دو خودکشی، هیچ یادداشتی به جا نگذاشت. بعد از خودکشی او، <a href="http://www.pseudology.org/razbory/Legasov/00.htm" title="خاطرات لگاسوف" rel="nofollow" target="_blank">۵ نوار کاست</a> از توضیحاتش درباره‌ی فاجعه چرنوبیل پخش شد، هرچند نحوه‌ی پخش آن مشخص نیست و صدای پایانی آن در سریال چرنوبیل با واقعیت متفاوت است.
 
+<center>
+<figure class="figure">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/22-death-bridge-hbo.jpg">
+    <figcaption class="figure-caption text-center">«گزارش شده که از افرادی که از پل راه آهن شاهد ماجرا بودند، هیچکدام زنده نماندند.»</figcaption>
+</figure>
+</center>
 ## ۲۲. آیا پل مرگ حقیقت دارد؟
-
-![image-center]({{ site.url }}/images/posts/chernobyl/22-death-bridge-hbo.jpg){: .align-center}
 
 <i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** Olekiy Breus از مهندسین رآکتور شماره ۴ در این خصوص <a href="https://www.bbc.com/news/world-europe-48580177" title="Chernobyl survivors assess fact and fiction in TV series" rel="nofollow" target="_blank">می‌گوید</a>:
 
@@ -502,9 +492,13 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <a href="https://twitter.com/HigginbothamA" title="Adam Higginbotham" rel="nofollow" target="_blank">Adam Higginbotham</a> نویسنده‌ی کتاب Midnight in Chernobyl نیز <a href="https://thebulletin.org/2019/05/the-human-drama-of-chernobyl/" title="The human drama of Chernobyl" rel="nofollow" target="_blank">گفته</a> که سال‌ها بعد با این فرد گفتگو کرده و **در سلامت به سر می‌برد**.
 
+<center>
+<figure class="figure">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/23-death-toll-hbo.jpg">
+    <figcaption class="figure-caption text-center">«تلفات انسانی حادثه چرنوبیل بین ۴۰۰۰ تا ۹۴۰۰۰ کشته پیش‌بینی می‌شود.»</figcaption>
+</figure>
+</center>
 ## ۲۳. آیا کشته‌های فاجعه چرنوبیل واقعا ۴۰۰۰ تا ۹۳۰۰۰ نفر پیش‌بینی شده؟
-
-![image-center]({{ site.url }}/images/posts/chernobyl/23-death-toll-hbo.jpg){: .align-center}
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** سازمان بهداشت جهانی در <a href="https://www.who.int/mediacentre/news/releases/2005/pr38/en/" title="Chernobyl: the true scale of the accident" rel="nofollow" target="_blank">گزارشی</a> پیش‌بینی کرده که تا ۴۰۰۰ نفر به دلیل تششعات فاجعه چرنوبیل خواهند مرد.
 
