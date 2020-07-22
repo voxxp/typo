@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://typo.ir/images/posts/bystander-effect.jpg
+image: https://typo.ir/images/posts/bystander-effect.svg
 twitter: https://typo.ir/images/posts/bystander-effect-twitter.jpg
 title: "اثر تماشاگر؛ چه کسی برخیزد؟"
 excerpt:
@@ -47,7 +47,7 @@ date: 2018-02-28 00:00:00 +0000
 - گروه ۶ نفره شامل شرکت‌کننده و ۵ صدای ضبط شده
 
 <center><figure class="figure">
-  <img src="https://typo.ir/images/posts/bystander-figure.jpg" class="figure-img img-fluid rounded" alt="Bystander Effect">
+  <img src="https://typo.ir/images/posts/bystander-figure.svg" class="figure-img img-fluid rounded" alt="Bystander Effect">
   <figcaption class="figure-caption text-center">نحوه گروه‌بندی آزمایش</figcaption>
 </figure></center>
 در یکی از این صداهای ضبط شده، دانشجویی می‌گوید که در مواقع پراسترس دچار تشنج می‌شود. سپس سایر صداها به نوبت پخش شده و شرکت‌کننده نیز نظر خود را اعلام می‌کند. در دور دوم، همان صدای ضبط شده ادعا می‌کند که دچار حملات تشنج شده است و احساس خفگی می‌کند. از این لحظه زمان گرفته می‌شود! هدف سنجیدن این است که چه تعدادی از شرکت‌کنندگان با شنیدن صدای خفگی دانشجوی دیگر، از اتاق خود به قصد کمک خارج می‌شوند. نتایج به شرح زیر بود:
