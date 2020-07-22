@@ -1,6 +1,6 @@
 ---
 layout: post
-image: images/posts/chernobyl/chernobyl-cover.jpg
+image: images/posts/chernobyl/chernobyl-cover.svg
 twitter: images/posts/chernobyl/chernobyl-cover-twitter.jpg
 title: "چرنوبیل؛ واقعا چه رخ داد؟"
 excerpt: "فاجعه‌ی چرنوبیل واقعا چه بود و چه بخش‌هایی از مینی‌سری چرنوبیل با حقیقت مطابقت داشت؟ شاهدین این فاجعه از آن روزها چه تعریف کرده‌اند؟"
