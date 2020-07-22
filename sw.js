@@ -1,18 +1,16 @@
-workbox.core.setCacheNameDetails({
-  prefix: "typo.ir",
-  suffix: "v1",
-  precache: "precache",
-  runtime: "runtime-cache"
+const CACHE = "pwabuilder-offline";
+
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.0.0/workbox-sw.js');
+
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
 });
-workbox.skipWaiting();
-workbox.clientsClaim();
-workbox.routing.setDefaultHandler(workbox.strategies.networkFirst());
-workbox.precaching.precacheAndRoute([]);
+
 workbox.routing.registerRoute(
-  /images/,
-  workbox.strategies.staleWhileRevalidate()
-);
-workbox.routing.registerRoute(
-  /^https?:\/\/fonts\.googleapis\.com/,
-  workbox.strategies.staleWhileRevalidate()
+  new RegExp('/*'),
+  new workbox.strategies.StaleWhileRevalidate({
+    cacheName: CACHE
+  })
 );
