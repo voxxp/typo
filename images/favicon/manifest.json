@@ -1,13 +1,12 @@
 {
-  "name": "تایپوتراپی",
+  "name": "تایپو",
   "short_name": "تایپو",
-  "description": "چرا در گنجه بازه؟ چرا دم خر درازه؟ و پاسخ علمی و دقیق ده‌ها مسئله‌ی روزمره و بدیهی که ممکن است برای هرکس سوال بوده، ولی هیچکس فرصت یا جرات پرسیدنش نداشته را در تایپوتراپی بخوانید. برای وقتی که از می‌پرسید «واقعا چرا؟»",
-  "lang": "Persian",
+  "description": "جواب‌های ساده برای سوال‌های ساده",
+  "lang": "fa-IR",
   "start_url": "/",
   "display": "minimal-ui",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
   "orientation": "any",
+  "theme_color": "#64ccc9",
   "icons": [
     {
       "src": "https://typo.ir/images/favicon/apple-touch-icon.png",
@@ -17,8 +16,9 @@
     {
       "src": "https://typo.ir/images/favicon/maskable_icon.png",
       "sizes": "842x842",
-      "type": "image/png"
+      "type": "image/png",
       "purpose": "maskable"
     }
-  ]
+  ],
+  "background_color": "#ffffff"
 }
