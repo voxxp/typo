@@ -34,7 +34,7 @@ date: 2019-06-14 20:00:00 +0000
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** شاهدین عینی مشاهده‌ی نورهای رنگی را تائید کرده‌اند. در این ویدیو Korneev، یکی از اپراتورهای رآکتور شماره‌ی ۴، این رنگ‌ها را توصیف می‌کند:
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/X213Zy4E6Y/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/X213Zy4E6Y/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/e41y6" title="نورهای انفجار چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -54,7 +54,7 @@ date: 2019-06-14 20:00:00 +0000
 
 **تابش چرنکوف**: این تابش اشعه‌ی الکترومغناطیسی زمانی رخ می‌دهد که یک ذره‌ی باردار (مثل الکترون) سریع‌تر از نور در همان محیط حرکت کند. نمونه‌ی واقعی از این تابش را در می‌توانید در این ویدیو از <a href="https://reactor.reed.edu/" title="Reed Research Reactor" rel="nofollow" target="_blank">رآکتور تحقیقاتی Reed</a> در پورتلند ایالات متحده مشاهده کنید:
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/N1QkD4kEPR/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/N1QkD4kEPR/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/YArwu" title="تابش چرنکوف" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -72,7 +72,7 @@ date: 2019-06-14 20:00:00 +0000
 
 **تابش هوای یونیزه**: این تابش فلورسنت زمانی رخ می‌دهد که انرژی تابیده شده به هوا، موجب برانگیختگی مولکول‌های نیتروژن شود. هنگامی که نیتروژن به حالت پایه‌ی خود بازمی‌گردد، انرژی دریافت شده را به صورت نور مرئی آزاد می‌کند. نوری که عموما به رنگ‌های آبی و بنفش بوده و با نام <a href="https://en.wikipedia.org/wiki/Electric_blue_(color)" title="Electric blue (color)" rel="nofollow" target="_blank">آبی الکتریکی</a> هم شناخته می‌شود. در این ویدیو، پدیده‌ی تابش هوای یونیزه در اطراف ابر انفجار پس آزمایش هسته‌ای موسوم به <a href="https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole" title="Operation Upshot–Knothole" rel="nofollow" target="_blank">عملیات Upshot-Knothhole</a> در سایت آزمایشی نوادا قابل مشاهده است:
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/ZzRPkvLB9Y/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/ZzRPkvLB9Y/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/jY9zD" title="تابش هوای یونیزه" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -106,7 +106,7 @@ date: 2019-06-14 20:00:00 +0000
 
 سرهنگ Grebeniouk که در روزهای اول به محل حادثه اعزام شده بود، این طعم را توصیف می‌کند:
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/zpwayAagrO/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/zpwayAagrO/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/kqfHT" title="طعم فلزی فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -151,7 +151,7 @@ date: 2019-06-14 20:00:00 +0000
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** دوره نهفتگی به دوره شروع بیماری تا ظهور علایم بیماری گفته می‌شود. در خصوص سندروم پرتوی حاد، این دوره می‌تواند چند ساعت تا یک ماه به طول انجامد. Nadejina که در زمان حادثه، پزشک بیمارستان شماره ۶ مسکو بود، اشاره می‌کند که در زمان ورود، بیماران در دوره‌ی نهفتگی بودند:
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/Yx2zbRz431/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/Yx2zbRz431/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/YEZTX" title="وضعیت مجروحین فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -184,7 +184,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** لباس آتش‌نشان‌هایی که به بیمارستان پریپیات منتقل شده بودند، در زیرزمین بیمارستان نگهداری شد. این لباس‌ها هنوز هم در زیرزمین بیمارستان وجود دارند. گفته می‌شود که اخیرا زیرزمین این بیمارستان با شن پر شده.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/4NBLmWbdX8/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/4NBLmWbdX8/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/rP9f8" title="لباس آتش‌نشان‌های چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -226,7 +226,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 دو روز بعد از فاجعه چرنوبیل، Cliff Robinson مهندس هسته‌ای در نیروگاه Forsmark سوئد هنگام عبور از آشکارساز اشعه باعث به صدا در آمدن زنگ هشدار شد. Robinson ماجرا را به مقامات <a href="https://sverigesradio.se/sida/artikel.aspx?artikel=4468603" title="25 years after Chernobyl, how Sweden found out" rel="nofollow" target="_blank">گزارش داد</a> و دو روز بعد شوروی به صورت عمومی وقوع فاجعه را اعلام کرد.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/0RwLAyLq81/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/0RwLAyLq81/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/HNK5X" title="کشف فاجعه چرنوبیل توسط سوئد" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -262,7 +262,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 بنابر گزارش شاهدین عینی عده‌ای از مردم، به خصوص افراد مسن‌تر، در برابر تخلیه شهر مقاومت کردند و حتی عده‌ای از عملیات تخلیه جا ماندند. در کتاب <a href="https://www.simonandschuster.com/books/Midnight-in-Chernobyl/Adam-Higginbotham/9781501134616" title="Midnight in Chernobyl" rel="nofollow" target="_blank">Midnight in Chernobyl</a> گزارش شده که نیروهای گشت روزها بعد از تخلیه به طور اتفاقی به زوج مسنی برخوردند که از تخلیه جا مانده بودند و نمی‌دانستند که چه اتفاقی افتاده.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/ZWyN0RPJnq/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/ZWyN0RPJnq/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/bIL3e" title="تخلیه مردم پریپیات چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -306,7 +306,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 اما تمامی مشاهدات نشان می‌دهند که با وجود گرمای شدید، **معدن‌کارها با لباس کار کرده‌اند**. توصیف Amelkov یکی از معدن‌کارها در چرنوبیل از شرایط کار در آن زمان را در این ویدیو ببینید:
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/RbEGdqDNzP/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/RbEGdqDNzP/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/myf02" title="معدن‌کارهای فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -343,7 +343,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 همچنین کابین خودروها با سرب پوشانده شده بودند. توضیحات Tarakanov که در سریال و واقعیت فرماندهی این نیروها را برعهده داشت در خصوص این موضوع:
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/5jXel791y4/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/5jXel791y4/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/DV5s4" title="محفظه‌های سربی خودرو در چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -370,7 +370,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** روس‌ها از حدود ۶۰ روبات کنترل از راه دور استفاده کردند. یکی از این روبات‌ها، **ماه‌نورد STR-1** بود که بعدها هنگام جابجایی توسط هلیکوپتر، از ارتفاع ۲۰۰ متری <a href="https://www.the-scientist.com/news/soviet-official-admits-that-robots-couldnt-handle-chernobyl-cleanup-61583" title="Soviet Official Admits That Robots Couldn't Handle Chernobyl Cleanup" rel="nofollow" target="_blank">سقوط کرد</a> و از کار افتاد.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/EkWPLKwD8M/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/EkWPLKwD8M/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/k3Ejf" title="ماه‌نورد STR-1 در چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -388,7 +388,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 روبات دیگری که استفاده شد، ربات آلمانی MF-3 معروف به **Joker** بود که مدت کوتاهی پس از راه‌اندازی به علت تششعات بالا از کار افتاد. در خصوص اینکه آیا واقعا شوروی اطلاعات غلطی به آلمان داده، سندی در دسترس نیست. این روبات اکنون در محل ماشین‌آلات آلوده در پریپیات <a href="{{ site.url }}/images/posts/chernobyl/17-robot-joker-real.jpg" title="روبات Joker" rel="nofollow" target="_blank">نگهداری می‌شود</a>.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/Zmxn2BnoKO/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/Zmxn2BnoKO/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/9EB7t" title="ربات Joker در چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -408,7 +408,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** این افراد که وظیفه داشتند سقف نیروگاه را از تکه‌های گرافیت پاکسازی کنند، **Biorobot** نام داشتند. ابتدا یک افسر پزشک به محل می‌رفت و تششعات را اندازه می‌گرفت و با استفاده از آن دوز و زمان مجاز برای هر ناحیه را تعیین می‌کردند.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/w9yRO7R8dQ/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/w9yRO7R8dQ/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/lRf7p" title="بیوروبات‌های چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -428,7 +428,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** این کار از راه سقف رآکتور شماره سه بر فراز دودکش ۷۸ متری انجام شد. ابتدا قرار بود عملیات با کمک هلیکوپتر انجام شود اما موفقیت آمیز نبود. عملیات به گونه‌ای برنامه‌ریزی شده بود تا تنها ۹ دقیقه به طول بیانجامد. در پایان از سه نفری که عملیات را با موفقیت انجام دادند، Yourtchenko، Stardoumov و Sotnikov <a href="https://news.nationalgeographic.com/news/energy/2011/04/110426/chernobyl-25-years-liquidators-pictures/" title="A Signal at the Summit" rel="nofollow" target="_blank">با نوشابه پپسی تقدیر شد</a>!
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/6Xo5PYrVyq/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/6Xo5PYrVyq/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/IVHFX" title="برافراشتن پرچم بر فراز رآکتور چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
@@ -458,7 +458,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** Legasov در دادگاه مقصرین فاجعه چرنوبیل حضور نداشت.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/PXRb9GW05w/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe loading="lazy" class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/PXRb9GW05w/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/CHiW9" title="دادگاه مقصرین فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
 
 <script type="application/ld+json">{
