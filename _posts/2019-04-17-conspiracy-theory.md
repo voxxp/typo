@@ -1,6 +1,6 @@
 ---
 layout: post
-image: images/posts/conspiracy-theory.jpg
+image: images/posts/conspiracy-theory.svg
 twitter: images/posts/conspiracy-theory-twitter.jpg
 title: "تئوری توطئه؛ همش کار خودشونه؟"
 excerpt: "تئوری توطئه علت تمام وقایع را توطئه‌ی دست‌های پنهان و سازمان‌های مخوف می‌پندارد. اما چرا تئوری‌های توطئه برای مردم جذابیت دارد؟"
