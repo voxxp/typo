@@ -1,6 +1,6 @@
 ---
 layout: post
-image: images/posts/2FA-101.jpg
+image: images/posts/2FA-101.svg
 twitter: images/posts/2FA-101-twitter.jpg
 title: "احراز هویت دو عاملی <sub>به زبان ساده</sub>"
 excerpt: "احراز هویت دو عاملی چیست و چگونه به امنیت حساب‌های شما کمک می‌کند؟ چگونه قابل استفاده است و چه سرویس‌هایی از آن استفاده می‌کنند؟"
@@ -24,7 +24,7 @@ date: 2018-09-06 21:00:00 +0000
 احراز هویت دو عاملی یک ویژگی ساده است که از شما چیزی بیشتر از تنها یک رمز عبور می‌خواهد. احراز هویت دو عاملی از دو عاملِ **_«چیزی که می‌دانید»_** (مانند رمز عبور) و **_«چیزی که دارید»_** (مانند تلفن همراه) یا **_«کسی که هستید»_** (مثل الگوی شبکیه‌ی چشم و یا اثر انگشت شما) تشکیل شده است. مطمئنا شما بارها از احراز هویت دو عاملی در زندگی خود استفاده کرده‌اید؛ مثلا هنگامی که در کنار ورود رمز حساب بانکی خود باید حتما کارت بانکی (که تنها در اختیار شما هست) را وارد کنید و یا وقتی که بعد از وارد کردن رمز گوشی خود از اسکن اثرانگشت و اسکن شبکیه چشمتان برای ورود استفاده می‌کنید.
 
 <center><figure class="figure">
-  <img src="https://typo.ir/images/posts/2FA-illustration.png" class="figure-img img-fluid rounded" alt="احراز هویت دو عاملی">
+  <img src="https://typo.ir/images/posts/2FA-illustration.svg" class="figure-img img-fluid rounded" alt="احراز هویت دو عاملی">
   <figcaption class="figure-caption text-center">تصویر از <a href="https://www.freepik.com/free-photos-vectors/card" title="freepik" rel="nofollow" target="_blank">slidesgo - freepik</a></figcaption>
 </figure></center>
 
@@ -45,7 +45,7 @@ date: 2018-09-06 21:00:00 +0000
 
 **_امنیت مطلق نیست._** با وجود اینکه احراز هویت دو عاملی یک لایه‌ی امنیتی قدرتمند دیگر به حساب‌های شما اضافه می‌کند، اما مصون از حملات هکرها نیست. به طور مثال در سال ۲۰۱۱ شرکت RSA <a href="https://web.archive.org/web/20110515010015/http://www.rsa.com/node.aspx?id=3872" title="Open Letter to RSA Customers" rel="nofollow" target="_blank">اعلام کرد</a> که توکن‌های احراز هویت آن موسوم به SecurID هک شده است. برای هک سیستم‌های احراز هویت دو عاملی نیاز به دسترسی به عامل دوم (مثلا تلفن همراه یا اثر انگشت شما) و یا مکانیزم تولید رمز موقت است.
 
-<div class="alert alert-secondary" role="alert"> <a href="https://typo.ir/privacy-101/" title="حریم خصوصی به زبان ساده" target="_blank" class="alert-link"><img src="https://typo.ir/images/posts/privacy-101.jpg" alt="حریم خصوصی به زبان ساده" style="width: 53px !important;height: 53px !important;" class="rounded float-right ml-3 mt-1"></a>مطالب دیگر وبلاگ با موضوع <a class="alert-link" href="https://typo.ir/categories#%D8%AD%D8%B1%DB%8C%D9%85%20%D8%AE%D8%B5%D9%88%D8%B5%DB%8C" title="حریم خصوصی" target="_blank">حریم خصوصی</a> را بخوانید:<br><strong><a href="https://typo.ir/privacy-101/" title="حریم خصوصی به زبان ساده" target="_blank" class="alert-link">حریم خصوصی به زبان ساده</a></strong> </div>
+<div class="alert alert-secondary" role="alert"> <a href="https://typo.ir/privacy-101/" title="حریم خصوصی به زبان ساده" target="_blank" class="alert-link"><img src="https://typo.ir/images/posts/privacy-101.svg" alt="حریم خصوصی به زبان ساده" style="width: 53px !important;height: 53px !important;" class="rounded float-right ml-3 mt-1"></a>مطالب دیگر وبلاگ با موضوع <a class="alert-link" href="https://typo.ir/categories#%D8%AD%D8%B1%DB%8C%D9%85%20%D8%AE%D8%B5%D9%88%D8%B5%DB%8C" title="حریم خصوصی" target="_blank">حریم خصوصی</a> را بخوانید:<br><strong><a href="https://typo.ir/privacy-101/" title="حریم خصوصی به زبان ساده" target="_blank" class="alert-link">حریم خصوصی به زبان ساده</a></strong> </div>
 
 ### آیا استفاده از آن سخت است؟
 
