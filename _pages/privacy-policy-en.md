@@ -12,7 +12,7 @@ published: true
 comments: false
 date: 2020-03-15 17:00:00 +0000
 sitemap: true
-image: images/posts/privacy.jpg
+image: images/posts/privacy.svg
 permalink: "/privacy-policy-en/"
 ---
 <div style="direction:ltr;">
