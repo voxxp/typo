@@ -142,7 +142,7 @@ document.body.appendChild(el);
       <div class="alert alert-warning alert-dismissible fade show" role="alert">
         شما از نسخه‌ی <strong>قدیمی</strong> مرورگر خود استفاده می‌کنید. لطفا
         برای تجربه‌ی کاربری بهتر، مرورگر خود را
-        <a target="_blank" href="http://browsehappy.com/">بروزرسانی کنید</a>.
+        <a target="_blank" rel="noopener" href="http://browsehappy.com/">بروزرسانی کنید</a>.
         <button
           type="button"
           class="close"
@@ -168,6 +168,7 @@ document.body.appendChild(el);
                     class="logo-container position-relative d-inline-block"
                   >
                     <a
+                      rel="noopener"
                       href="{{ site.url }}"
                       itemprop="url"
                       class="logo-homepage"
@@ -199,6 +200,7 @@ document.body.appendChild(el);
         </div>
         <div class="col-lg h-100" id="block-right">
           <a
+            rel="noopener"
             class="btn btn-link far fa-clone posts-menu-icon position-absolute"
             href="{{ site.url }}/posts.html"
             role="button"
