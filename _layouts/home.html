@@ -131,20 +131,11 @@ layout: compress
         href="https://use.fontawesome.com/releases/v5.11.2/css/all.css"
         crossorigin="anonymous"
     /></noscript>
-    <script type="text/javascript">
-      if ("serviceWorker" in navigator) {
-        navigator.serviceWorker
-          .register("/sw.js")
-          .then(function(registration) {
-            console.log(
-              "Service Worker registration successful with scope: ",
-              registration.scope
-            );
-          })
-          .catch(function(err) {
-            console.log("Service Worker registration failed: ", err);
-          });
-      }
+    <script type="module">
+import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+const el = document.createElement('pwa-update');
+document.body.appendChild(el);
     </script>
   </head>
   <body id="homepage">
