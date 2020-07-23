@@ -24,7 +24,7 @@ date: 2018-09-06 21:00:00 +0000
 احراز هویت دو عاملی یک ویژگی ساده است که از شما چیزی بیشتر از تنها یک رمز عبور می‌خواهد. احراز هویت دو عاملی از دو عاملِ **_«چیزی که می‌دانید»_** (مانند رمز عبور) و **_«چیزی که دارید»_** (مانند تلفن همراه) یا **_«کسی که هستید»_** (مثل الگوی شبکیه‌ی چشم و یا اثر انگشت شما) تشکیل شده است. مطمئنا شما بارها از احراز هویت دو عاملی در زندگی خود استفاده کرده‌اید؛ مثلا هنگامی که در کنار ورود رمز حساب بانکی خود باید حتما کارت بانکی (که تنها در اختیار شما هست) را وارد کنید و یا وقتی که بعد از وارد کردن رمز گوشی خود از اسکن اثرانگشت و اسکن شبکیه چشمتان برای ورود استفاده می‌کنید.
 
 <center><figure class="figure">
-  <img src="https://typo.ir/images/posts/2FA-illustration.svg" class="figure-img img-fluid rounded" alt="احراز هویت دو عاملی">
+  <img src="https://typo.ir/images/posts/2FA-illustration.svg" class="figure-img img-fluid rounded" alt="احراز هویت دو عاملی" width="60%" height="60%">
   <figcaption class="figure-caption text-center">تصویر از <a href="https://www.freepik.com/free-photos-vectors/card" title="freepik" rel="nofollow" target="_blank">slidesgo - freepik</a></figcaption>
 </figure></center>
 
