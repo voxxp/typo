@@ -192,8 +192,9 @@ h1 {
 
 .logobg {
   position: absolute;
-  right: 0;
+  right: -100%;
   top: 0;
+  min-width: 300%;
 }
 
 .block-logo {
