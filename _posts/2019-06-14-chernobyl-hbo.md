@@ -184,7 +184,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/8-report-shcherbina.svf">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/8-report-shcherbina.svg">
     <figcaption class="figure-caption text-center">- آقای بریکانوف عدد ۳.۶ رونتگن رو گزارش کردن.</figcaption>
 </figure>
 </center>
