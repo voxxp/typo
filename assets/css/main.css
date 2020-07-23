@@ -185,6 +185,8 @@ h1 {
 .logo {
   max-width: 35%;
   border-radius: 10%;
+  min-width: 105px;
+  min-height: 105px;
 }
 
 .logobg {
