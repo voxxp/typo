@@ -83,7 +83,7 @@ date: 2019-06-14 20:00:00 +0000
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/2-metal-ignatenko.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/2-metal-ignatenko.svg">
     <figcaption class="figure-caption text-center">- طعم فلز رو حس می‌کنی؟</figcaption>
 </figure>
 </center>
@@ -116,7 +116,7 @@ date: 2019-06-14 20:00:00 +0000
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/4-contamination-khomyuk.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/4-contamination-khomyuk.svg">
     <figcaption class="figure-caption text-center">- تششعات ممکن بود مادر رو بکشه ولی به جاش بچه جذبشون کرد.</figcaption>
 </figure>
 </center>
@@ -134,7 +134,7 @@ date: 2019-06-14 20:00:00 +0000
 
 با این وجود آژانس بین‌المللی انرژی اتمی در سال ۱۹۸۷ <a href="http://jnm.snmjournals.org/content/28/6/933.full.pdf" title="Lessons of Chernobyl : SNM Members Try to Decontaminate World Threatened by Fallout" rel="nofollow" target="_blank">پیش‌بینی کرده</a> که پس از وقوع این حادثه، ۱۰۰ تا ۲۰۰ هزار نفر در شوروی و اروپا تصمیم به سقط جنین گرفتند.
 
-![image-center]({{ site.url }}/images/posts/chernobyl/5-latency-ignatenko.jpg){: .align-center}
+![image-center]({{ site.url }}/images/posts/chernobyl/5-latency-ignatenko.svg){: .align-center}
 ## ۵. آیا دوره‌ی نهفتگی واقعیت دارد؟
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** دوره نهفتگی به دوره شروع بیماری تا ظهور علایم بیماری گفته می‌شود. در خصوص سندروم پرتوی حاد، این دوره می‌تواند چند ساعت تا یک ماه به طول انجامد. Nadejina که در زمان حادثه، پزشک بیمارستان شماره ۶ مسکو بود، اشاره می‌کند که در زمان ورود، بیماران در دوره‌ی نهفتگی بودند: <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/YEZTX" title="وضعیت مجروحین فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی وضعیت مجروحین چرنوبیل</a>
@@ -184,7 +184,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/8-report-shcherbina.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/8-report-shcherbina.svf">
     <figcaption class="figure-caption text-center">- آقای بریکانوف عدد ۳.۶ رونتگن رو گزارش کردن.</figcaption>
 </figure>
 </center>
@@ -229,7 +229,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/12-evacuation-elderly-real.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/12-evacuation-elderly-real.svg">
     <figcaption class="figure-caption text-center">متن: مردی در این خانه زندگی می‌کند.</figcaption>
 </figure>
 </center>
@@ -256,7 +256,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/13-volunteer-gorbachev.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/13-volunteer-gorbachev.svg">
     <figcaption class="figure-caption text-center">- جناب لگاسوف، هر پیروزی قطعا بهایی داره.</figcaption>
 </figure>
 </center>
@@ -270,7 +270,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/14-miner-hbo.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/14-miner-hbo.svg">
     <figcaption class="figure-caption text-center">- دما چقدره؟<br/>-۵۰ درجه</figcaption>
 </figure>
 </center>
@@ -303,7 +303,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/16-eggbasket.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/16-eggbasket.svg">
     <figcaption class="figure-caption text-center">- از روی شلوار بپوش!</figcaption>
 </figure>
 </center>
@@ -333,8 +333,8 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="half figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/17-robot-str1.jpg">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/17-robot-joker-hbo.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/17-robot-str1.svg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/17-robot-joker-hbo.svg">
 </figure>
 </center>
 
@@ -435,7 +435,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/22-death-bridge-hbo.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/22-death-bridge-hbo.svg">
     <figcaption class="figure-caption text-center">«گزارش شده که از افرادی که از پل راه آهن شاهد ماجرا بودند، هیچکدام زنده نماندند.»</figcaption>
 </figure>
 </center>
@@ -449,7 +449,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/23-death-toll-hbo.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/23-death-toll-hbo.svg">
     <figcaption class="figure-caption text-center">«تلفات انسانی حادثه چرنوبیل بین ۴۰۰۰ تا ۹۴۰۰۰ کشته پیش‌بینی می‌شود.»</figcaption>
 </figure>
 </center>
@@ -467,79 +467,79 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 ## ۲۴. کدام شخصیت‌های نمایش یافته در سریال چرنوبیل در واقعیت کشته شدند؟
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Valery-Khodemchuk.jpg" alt="Valery Ilyich Khodemchuk" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Valery-Khodemchuk.svg" alt="Valery Ilyich Khodemchuk" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Valery Ilyich Khodemchuk**<br>
 اپراتور ارشد پمپ رآکتور شماره ۴<br>
 ۲۶ آوریل، مرگ بر اثر انفجار<br>
 جسد او هرگز یافت نشد
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Akimov.jpg" alt="Aleksandr Fyodorovich Akimov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Akimov.svg" alt="Aleksandr Fyodorovich Akimov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Aleksandr Fyodorovich Akimov**<br>
 مدیر شیفت رآکتور شماره ۴<br>
 ۱۰ می، بر اثر ARS و سوختگی شدید<br>
 دریافت دوز کشنده هنگامی که سعی داشت جریان آب را به رآکتور برقرار کند.
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Tishchura.jpg" alt="Vladimir Ivanovych Tishchura" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Tishchura.svg" alt="Vladimir Ivanovych Tishchura" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Vladimir Ivanovych Tishchura**<br>
 آتش‌نشان ارشد، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۰ می، بر اثر ARS<br>
 گروهبان واحد Kibenok، در حال مبارزه با آتش در سالن مرکزی
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Kibenok.jpg" alt="Viktor Mykolayovych Kibenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Kibenok.svg" alt="Viktor Mykolayovych Kibenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Viktor Mykolayovych Kibenok**<br>
 سرنگهبان، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۱ می، بر اثر ARS<br>
 ستوان، رهبر واحد دوم، در حال مبارزه با آتش در سالن مرکزی
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Pravik.jpg" alt="Vladimir Pavlovych Pravik" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Pravik.svg" alt="Vladimir Pavlovych Pravik" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Vladimir Pavlovych Pravik**<br>
 سرنگهبان، تیپ دوم شبهه‌نظامی نیروگاه چرنوبیل<br>
 ۱۱ می، بر اثر ARS<br>
 ستوان، رهبر گروه اول در سقف رآکتور. <a href="https://www.theguardian.com/world/2006/mar/26/nuclear.russia" title="Chernobyl 20 years on" rel="nofollow" target="_blank">گفته می‌شود</a> که رنگ چشم او بر اثر تششعات از قهوه‌ای به آبی تغییر یافت.
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vasily-Ignatenko.jpg" alt="Vasily Ivanovych Ignatenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vasily-Ignatenko.svg" alt="Vasily Ivanovych Ignatenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Vasily Ivanovych Ignatenko**<br>
 فرمانده گروه، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۳ می، بر اثر ARS<br>
 گروهبان ارشد، گروه اول در سقف رآکتور
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Kudryavtsev.jpg" alt="Aleksandr Gennadiyevych Kudryavtsev" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Kudryavtsev.svg" alt="Aleksandr Gennadiyevych Kudryavtsev" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Aleksandr Gennadiyevych Kudryavtsev**<br>
 مهندس کنترل رآکتور<br>
 ۱۴ می، بر اثر ARS<br>
 در لحظه‌ی انفجار در اتاق کنترل بود. در تلاش برای پایین آوردن میله‌های کنترل و نگاه به هسته‌ی رآکتور
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Leonid-Toptunov.jpg" alt="Leonid Fedorovych Toptunov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Leonid-Toptunov.svg" alt="Leonid Fedorovych Toptunov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Leonid Fedorovych Toptunov**<br>
 مهندس ارشد کنترل رآکتور<br>
 ۱۴ می، بر اثر ARS<br>
 در لحظه‌ی انفجار در اتاق کنترل بود. در تلاش برای راه‌اندازی جریان آب
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Nikolai-Titenok.jpg" alt="Nikolai Ivanovych Titenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Nikolai-Titenok.svg" alt="Nikolai Ivanovych Titenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Nikolai Ivanovych Titenok**<br>
 آتش‌نشان، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۶ می، بر اثر سوختگی شدید<br>
 گروهبان ارشد واحد Kibenok، در حال مبارزه با آتش در سالن مرکزی، سقف و هسته رآکتور
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Proskuryakov.jpg" alt="Viktor Vasilyevich Proskuryakov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Proskuryakov.svg" alt="Viktor Vasilyevich Proskuryakov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Viktor Vasilyevich Proskuryakov**<br>
 مهندس کنترل رآکتور<br>
 ۱۷ می، بر اثر ARS<br>
 در لحظه انفجار در اتاق کنترل بود. در تلاش برای پایین آوردن میله‌های کنترل و نگاه به هسته‌ی رآکتور
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Degtyarenko.jpg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Degtyarenko.svg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Viktor Mykhaylovych Degtyarenko**<br>
 اپراتور رآکتور<br>
 ۱۹ می، بر اثر ARS<br>
 در لحظه انفجار نزدیک پمپ‌ها بود. صورت او بر اثر بخار شدید سوخت.
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Anatoly-Sitnikov.jpg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Anatoly-Sitnikov.svg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Anatoly Andreyevich Sitnikov**<br>
 فیزیکدان، معاون مهندس عملیات<br>
 ۳۰ می، بر اثر ARS<br>
 دریافت حدود ۱۵۰۰ رونتگن از ناحیه سر هنگامی که به دستور Nikolai Fomin از سقف واحد C به رآکتور نگاه کرد.
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Valery-Ivanovich-Perevozchenko.jpg" alt="Valery Ivanovich Perevozchenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Valery-Ivanovich-Perevozchenko.svg" alt="Valery Ivanovich Perevozchenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Valery Ivanovich Perevozchenko**<br>
 سرکارگر رآکتور<br>
 ۱۳ ژوئن، بر اثر ARS<br>
