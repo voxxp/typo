@@ -10,7 +10,7 @@ tags:
   - "کپی رایت"
 published: true
 comments: false
-date: 2020-03-15 17:00:00 +0000
+date: 2020-07-24 17:00:00 +0000
 sitemap: true
 image: images/posts/privacy.svg
 twitter: images/posts/privacy-twitter.jpg
