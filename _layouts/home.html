@@ -114,23 +114,15 @@ layout: compress
     <meta name="color-scheme" content="dark light">
     <!-- Stylesheets -->    
     <link
-      rel="preload"
-      as="style"
-      onload="this.onload=null;this.rel='stylesheet'"
+      rel="stylesheet"
+      media="none"
       href="{{ site.url }}/assets/css/bootstrap-material-design.min.css"
+      onload="if(media!='all')media='all'"
     />
     <noscript><link rel="stylesheet" href="{{ site.url }}/assets/css/bootstrap-material-design.min.css"></noscript>
-    <link
-    rel="stylesheet"
-    href="{{ site.url }}/assets/css/main.css"
-    />
-    <link
-    rel="preload"
-    as="style"
-    onload="this.onload=null;this.rel='stylesheet'"
-    href="{{ site.url }}/assets/css/dark-mode.css"
-    />
-    <noscript><link rel="stylesheet" href="{{ site.url }}/assets/css/dark-mode.css"></noscript>
+    
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/dark-mode.css" />
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.11.2/css/all.css"
