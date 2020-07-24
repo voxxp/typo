@@ -10,7 +10,7 @@ tags:
 - "Copyright License"
 published: true
 comments: false
-date: 2020-03-15 17:00:00 +0000
+date: 2020-07-24 17:00:00 +0000
 sitemap: true
 image: images/posts/privacy.svg
 permalink: "/privacy-policy-en/"
@@ -19,7 +19,7 @@ permalink: "/privacy-policy-en/"
 <h3 id="simplified-privacy-policy">Simplified Privacy Policy</h3>
 <p class="notice_info" style="color: #aaa;"><i class="fas fa-chart-pie" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>Traffic optimization and distribution</em></strong><br> <strong><em>Deflect</em></strong><br> Personal Data collected: HTTP Logs, IP addresses, and User-agents</p>
 <p class="notice_info" style="color: #aaa;"><i class="fas fa-share-square" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>Interaction with external social networks and platforms</em></strong><br> <strong><em>Twitter Tweet button and social widgets and Reddit button and widgets</em></strong><br> Personal Data: Cookies and Usage Data</p>
-<p class="notice_info" style="color: #aaa;"><i class="fas fa-comment" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>Content commenting</em></strong><br> <strong><em>Hyvor Talk</em></strong><br>Personal Data: Cookies and entered information</p>
+<p class="notice_info" style="color: #aaa;"><i class="fas fa-comment" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>Content commenting</em></strong><br> <strong><em>GraphComment</em></strong><br> Personal Data collected: HTTP Logs, IP addresses, and User-agents</p>
 <p class="notice_info" style="color: #aaa;"><i class="fas fa-user-circle" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>Owner and Data Controller</em></strong><br> TYPO <a href="https://typo.ir" title="TYPO">typo.ir</a><br><strong style="color:#6c6c6c;">Owner contact email:</strong> <a href="mailto:{{ site.email | encode_email }}" title="Send Email">voxp@pm.me</a></p>
 <hr>  
   <p><i class="fas fa-language" style="color:#4ECDC4;"></i> <a href="https://typo.ir/privacy-policy" title="مطالعه به فارسی">فارسی</a></p>
@@ -55,9 +55,9 @@ Personal Data collected: HTTP Logs, IP addresses, and User-agents. Place of proc
 <dt>Interaction with external social networks and platforms</dt> <dd>This type of service allows interaction with social networks or other external platforms directly from the pages of this website. The interaction and information obtained through this website are always subject to the User’s privacy settings for each social network. This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it. <br/><strong><em>Twitter Tweet button and social widgets (Twitter, Inc.)</em></strong><br/>The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc. Personal Data collected: Cookies and Usage Data. Place of processing: United States – <a href="https://twitter.com/privacy" title="Twitter Privacy Policy">Privacy Policy</a>. Privacy Shield participant. <br/><strong><em>Reddit button and widgets (reddit inc.)</em></strong><br/> The reddit button and widgets are services allowing interaction with the reddit platform provided by reddit inc. Personal Data collected: Cookies and Usage Data. Place of processing: United States – <a href="https://www.reddit.com/help/privacypolicy" title="Reddit Privacy Policy">Privacy Policy</a>.</dd> 
 <dt>Content commenting</dt> <dd>Content commenting services allow Users to make and publish their comments on the contents of this website.
 Users can leave anonymous comments. Users are responsible for the content of their own comments.
-<br/><strong><em>Hyvor Talk</em></strong><br/> Hyvor Talk is a content commenting service.
-Personal Data collected: Cookies and entered information such as username, email and website.
-<a href="https://talk.hyvor.com/documentation/policies/privacy-policy" title="Hyvor Talk Privacy Policy">Privacy Policy</a></dd> </dl>
+<br/><strong><em>GraphComment</em></strong><br/> GraphComment is a content commenting service.
+Personal Data collected: Cookies, IP addresses and entered information such as username, email and website.
+<a href="https://graphcomment.com/en/conditions.html" title="GraphComment Terms of Service">Terms of Service</a></dd> </dl>
 <!--<hr>
 <h3 id="the-rights-of-users">The rights of Users</h3>
 <p>Users may exercise certain rights regarding their Data processed by the Owner. In particular, Users have the right to do the following:</p>
