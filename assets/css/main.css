@@ -720,3 +720,20 @@ content blockquote {
   border-left-width: 0px !important;
   border-right-style: solid !important;
 }
+
+#graphcomment {
+  padding-left: 30px;
+}
+
+.gc-popin-close {
+  right: 238px !important;
+}
+
+.gc-profile-name {
+  margin-left: 0px !important;
+  margin-right: 20px !important;
+}
+
+.gc-profile-name::after {
+  left: 5px !important;
+}
