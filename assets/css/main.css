@@ -737,3 +737,7 @@ content blockquote {
 .gc-profile-name::after {
   left: 5px !important;
 }
+
+.gc-body {
+  padding-right: 0px !important;
+}
