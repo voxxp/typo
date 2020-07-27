@@ -1,87 +1,169 @@
 ---
-layout: default
-disqus: false
-archive: false
-post_class: post-template
+layout: compress
 ---
-
-<div class="entry-header">
-    <!-- Post Title -->
-    <h1 class="posttitle">{{ page.title }}</h1>
-    <!-- Author & Date  Box -->
-    {% assign author = site.authors[page.author] %}
-    {% if page.author %}
-    <div class="d-flex align-items-center mt-4">
-        <div>
-            {% if author.avatar %}
-            <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-            {% else %}
-            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-            {% endif %}
-        </div>            
-        <div>
-        Written by <a target="_blank" class="text-dark" href="{{ author.web }}">{{ author.display_name }}</a> on 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-        {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-        {% endif %}
-        </div>            
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fa-IR"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fa-IR"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="fa-IR"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="fa-IR"> <!--<![endif]-->
+{% include head.html %}
+  <body id="posts">
+    <!--[if lt IE 8]>
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+   شما از نسخه‌ی <strong>قدیمی</strong> مرورگر خود استفاده می‌کنید. لطفا برای تجربه‌ی کاربری بهتر، مرورگر خود را <a target="_blank" href="http://browsehappy.com/">بروزرسانی کنید</a>.
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+    <![endif]-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top justify-content-between d-lg-none">
+      <div itemscope itemtype="http://schema.org/BreadcrumbList" class="nav-logo">
+        <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemscope itemtype="http://schema.org/Thing" itemprop="item" itemid="/" href="{{ site.url }}" class="navbar-brand font-weight-bold">
+          <span itemprop="name">
+          تایپو
+          </span>
+        </a>
+        <meta itemprop="position" content="1"/>
+        </span>
+        <span class="navbar-text">
+          &nbsp;/&nbsp;&nbsp;
+          <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a itemscope itemtype="http://schema.org/Thing" itemprop="item" itemid="/posts" href="{{ site.url }}/posts" class="navbar-brand mr-0">
+              <span itemprop="name">
+              نوشته‌ها
+              </span>
+            </a>
+            <meta itemprop="position" content="2" />
+          </span>
+          /&nbsp;
+          <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="d-none">
+            <span itemscope itemtype="http://schema.org/Thing" itemprop="item" itemid="{{ page.url }}" class="navbar-brand mr-0">
+              <span itemprop="name">
+              {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+              </span>
+            </span>
+            <meta itemprop="position" content="3" />
+          </span>
+      </div>
+      <div>
+        <a href="#comments" role="button" class="btn btn-secondary fas fa-comment text-light my-0 topbar-icon"><div class="sr-only">دیدگاه‌ها</div></a>
+        <span class="navbar-text">|</span>
+        <div class="btn-group my-0">
+          <button type="button" id="ex2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-secondary fas fa-share-square text-light my-0 topbar-icon">
+            <div class="sr-only">اشتراک</div>
+          </button>
+          <div aria-labelledby="ex2" class="topbar-menu dropdown-menu dropdown-menu-left">
+            <a href="https://twitter.com/intent/tweet?text={{ page.title | markdownify | strip_html | strip_newlines | escape_once }} &#8211; {{ site.title }} - {{ site.url }}{{ page.url }}?pk_campaign=social-link" role="button" class="dropdown-item text-info">
+              <i class="fab fa-twitter pr-2 topbar-icon"></i><span>Twitter</span>
+            </a>
+            <a href="https://api.whatsapp.com/send?text={{ page.title | markdownify | strip_html | strip_newlines | escape_once }}%20-%20{{ site.url }}{{ page.url }}?pk_campaign=social-link" role="button" class="dropdown-item text-success">
+              <i class="fab fa-whatsapp pr-2 topbar-icon"></i><span>Whatsapp</span>
+            </a>
+            <a href="https://t.me/share/url?url=https://t.me/iv?url={{ site.url }}{{ page.url }}?pk_campaign=social-link%26rhash=6cae26513c2165" role="button" class="dropdown-item text-info">
+              <i class="fab fa-telegram pr-2 topbar-icon"></i><span>Telegram</span>
+            </a>
+          </div>
+        </div>
+      </div>
+     </nav>
+    <div class="container-fluid homepage h-100">
+      <div class="row h-100">
+        <div class="col-lg h-100 order-first order-lg-last d-print-none" id="block-left">
+          <a href="{{ site.url }}" class="m-3 position-absolute block-logo d-none d-lg-block"><img src="{{ site.url }}/images/Logo.svg" alt="تایپو" class="rounded" width="50px" height="50px"></a>
+          <div class="container center h-100">
+            <div class="row align-bottom">
+              <div class="col">
+                  <header class="post-title-section">
+                    <div class="section-line d-flex text-primary mb-4">
+                      <span class="d-none d-lg-block"><em class="mx-2">/</em>نوشته‌ها</span>
+                    </div>
+                    <h1 class="text-light">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+                    <div class="mt-5">
+                      {% if post %}
+                      {% assign categories = post.categories %}
+                      {% else %}
+                      {% assign categories = page.categories %}
+                      {% endif %}
+                      {% for category in categories %}
+                      <a target="_blank" class="btn btn-outline-primary btn-sm" href="{{ site.url }}/categories#{{ category|slugize }}" role="button">{{ category }}</a>
+                      {% unless forloop.last %}
+                      {% endunless %}
+                      {% endfor %}
+                      {% for tag in page.tags %}
+                      <a target="_blank" class="btn btn-outline-light btn-sm" href="{{ site.url }}/tags#{{ tag }}" role="button">{{ tag }}</a>
+                      {% unless forloop.last %}
+                      {% endunless %}
+                      {% endfor %}
+                    </div>
+                    <nav class="section-line d-flex reverse text-primary mt-4">
+                      <span class="d-none d-lg-block"><em class="mx-2">/</em><a href="{{ site.url }}/posts" class="btn-link back-posts">بازگشت به نوشته‌ها</a></span>
+                    </nav>
+                  </header>
+              </div>
+            </div>
+        </div>
+      </div>
+        <div class="col-lg h-100" id="block-right">
+          {% include share.html %}
+          <a class="btn btn-link far fa-clone posts-menu-icon position-absolute d-none d-lg-block" href="{{ site.url }}/posts.html" role="button">
+            <span class="posts-link font-weight-normal position-absolute">نوشته‌ها</span>
+          </a>
+          <section class="date-highlight text-center">
+            <h5><span class="post-date badge badge-primary font-weight-light pt-2 ml-5">{% if page.date %}{{ page.date | date: '%d %m %Y' }}{% else %}&#x2756;{% endif %}</span></h5>
+            <hr class="date-hr bg-primary ml-5 d-md-block d-sm-none d-none">
+          </section>
+          <img src="{{ image }}" id="tlgcover" class="d-none">
+          <article class="post">
+            {{ content }}
+          </article>
+          {% include disqus.html %}
+          {% include page-pagination.html %}
+        </div>
+      </div>
     </div>
-    {% endif %}
-</div>
-
-<!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
-{% if site.adsense == "enabled" %}
-    {% include adsense-under-header.html %}
-{% endif %}
-
-<!-- Featured Image -->
-{% include featured-image.html %}
-
-<!-- Content -->
-{% include article.html %}
-
-<!-- Rating -->
-{% if page.rating %}
-<div class="rating mt-4 mb-4 d-flex align-items-center">
-    <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
-</div>
-{% endif %}
-
-<!-- Author Box if enabled from _config.yml -->
-{% include author-box.html %}
-
-<!-- Comments if not disabled with comments: false -->
-{% include comments.html %}
-
-<!-- Share -->
-{% include share.html %}
-
-<!-- Related Post -->
-{% include related-posts.html %}
-
-<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
-{% if page.rating %}
-    <script type="application/ld+json">
-    {
-    "@context": "http://schema.org/",
-    "@type": "Review",
-    "itemReviewed": {
-    "@type": "Thing",
-    "name": "{{ page.title }}"
-    },
-    "author": {
-    "@type": "Person",
-    "name": "{{ author.display_name }}"
-    },
-    "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-    "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ page.rating }}",
-    "bestRating": "5"
-    }
-    }
-    </script>
-{% endif %}
+      <!-- /container -->
+      {% include scripts.html %}
+      <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage":{
+          "@type":"WebPage",
+          "@id":"{{ page.url | replace:'index.html','' | prepend: site.url }}"
+        },
+        "headline": "{{ page.title }}",
+        "image": {
+          "@type": "ImageObject",
+          {% if page.twitter %}{% capture twittercard %}{{ page.twitter }}{% endcapture %}{% unless twittercard contains 'http://' or twittercard contains 'https://' %}{% capture twittercard %}{{ site.url }}/{{ twittercard }}{% endcapture %}{% endunless %}
+          "url": "{{ twittercard }}",
+          "height": 800,
+          "width": 400
+          {% else %}
+          "url": "{{ image }}",
+          "height": 936,
+          "width": 900
+          {% endif %}
+        },
+        "datePublished": "{{ page.date }}",
+        "dateModified": "{{ page.date }}",
+        "keywords": "{% for tag in page.tags %}{{ tag }}, {% unless forloop.last %}{% endunless %}{% endfor %}",
+        "author": {
+          "@type": "Person",
+          "name": "Vox"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "تایپو",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "{{ site.url }}/images/FullLogo.png",
+            "width": 150,
+            "height": 150
+          }
+        }
+      }
+      </script>
+  </body>
+</html>
