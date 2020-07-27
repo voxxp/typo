@@ -1,45 +1,25 @@
-{% if page.share != false %}
-<div
-  class="btn-group-sm sticky-top social-group mt-3 position-fixed d-none d-lg-block"
->
-  <button
-    class="btn bmd-btn-fab btn-info dropdown-toggle"
-    type="button"
-    id="ex2"
-    data-toggle="dropdown"
-    aria-haspopup="true"
-    aria-expanded="false"
-  >
-    <i class="fas fa-share-alt"></i>
-    <div class="sr-only">اشتراک</div>
-  </button>
-  <div
-    class="dropdown-menu dropdown-menu-left share-menu"
-    aria-labelledby="ex2"
-  >
-    <a
-      class="dropdown-item fab text-info"
-      href="https://twitter.com/intent/tweet?text={{ page.title | markdownify | strip_html | strip_newlines | escape_once }} &#8211; {{ site.title }} - {{ site.url }}{{ page.url }}?pk_campaign=social-link"
-    >
-      <i class="fab fa-twitter"></i
-      ><span class="ml-1 drop-down-text font-weight-normal">Twitter</span>
-    </a>
-    <a
-      target="_blank"
-      class="dropdown-item fab text-success"
-      href="https://api.whatsapp.com/send?text={{ page.title | markdownify | strip_html | strip_newlines | escape_once }}%20-%20{{ site.url }}{{ page.url }}?pk_campaign=social-link"
-    >
-      <i class="fab fa-whatsapp"></i
-      ><span class="ml-1 drop-down-text font-weight-normal">Whatsapp</span>
-    </a>
-    <a
-      target="_blank"
-      class="dropdown-item fab text-info"
-      href="https://t.me/share/url?url=https://t.me/iv?url={{ site.url }}{{ page.url }}?pk_campaign=social-link%26rhash=6cae26513c2165"
-    >
-      <i class="fab fa-telegram-plane"></i
-      ><span class="ml-1 drop-down-text font-weight-normal">Telegram</span>
-    </a>
-  </div>
+<div class="share">
+    <p>
+        Share
+    </p>
+    <ul>
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+    </ul>
 </div>
-{% endif %}

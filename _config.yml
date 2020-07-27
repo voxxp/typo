@@ -1,87 +1,81 @@
 # Site
-title: تایپو
-description: جواب‌های ساده برای سوال‌های ساده
-url: https://typo.ir
-logo: Logo.svg
-locale: fa
-
-# Left Block Images
-background:
-  homepage: images/Home.jpg
-  post-list: images/Posts.jpg
-  default-post: images/Posts.jpg
-
-# Jekyll
+name: "Memoirs"
+title: "Memoirs"
+description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /jekyll-theme-memoirs
+google_analytics: 'UA-xxxxxxxx-1'
+disqus: 'demowebsite'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
 permalink: /:title/
+email: wowthemesnet@gmail.com
+
+# Authors
+authors:
+  sal:
+    name: Sal
+    display_name: Sal
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/donate/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-figure
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+highlighter: none
 markdown: kramdown
-highlighter: rouge
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+   syntax_highlighter_opts:
+      disable : true
+
+
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+# Post Author Box ("enabled" or "disabled")
+authorbox: "disabled"
+
+# Sass
 sass:
-  sass_dir: assets/_sass
+  sass_dir: _sass
   style: compressed
 
-email: voxp@pm.me
-twitter: voxxp
-telegram: voxxp
-bitcoin: vox
-
-jekyll-mentions: https://twitter.com
-
-workbox:
-  sw_src_filepath: sw.js
-  sw_dest_filename: sw.js
-  precache_recent_posts_num: 5
-  precache_glob_directory: /
-  precache_glob_patterns:
-    - "{js,css,fonts,assests}/**/*.{js,css,eot,svg,ttf,woff}"
-    - index.html
-    - "posts.html":
-        - posts/
-  precache_glob_ignores: # Optional
-    - "assests/fonts/**/*"
-
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-email-protect
-  - jekyll-tagging-related_posts
-  - jekyll-mentions
-  - jekyll-twitter-plugin
-  - jekyll-github-metadata
-  - jekyll-target-blank
-  - jekyll-workbox-plugin
-
-# Headers
-webrick:
-  headers:
-    Referrer-Policy: "strict-origin-when-cross-origin"
-    Feature-Policy: "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
-    X-Frame-Options: "SAMEORIGIN"
-    X-Xss-Protection: "1; mode=block; report=https://typo.report-uri.com/r/d/xss/enforce"
-    X-Content-Type-Options: "nosniff"
-    Content-Security-Policy: "default-src 'self'; script-src 'self' data: 'unsafe-inline' platform.twitter.com cdn.syndication.twimg.com syndication.twitter.com www.redditstatic.com *.vimeocdn.com *.akamaized.net platform.instagram.com; object-src 'self' https:; style-src 'self' data: 'unsafe-inline' nezare.ir use.fontawesome.com www.redditmedia.com www.redditstatic.com c.disquscdn.com a.disquscdn.com platform.twitter.com ton.twimg.com *.vimeocdn.com; img-src 'self' data: www.gravatar.com links.services.disqus.com referrer.disqus.com a.disquscdn.com cdn.syndication.twimg.com syndication.twitter.com pbs.twimg.com platform.twitter.com abs.twimg.com www.redditmedia.com www.redditstatic.com; media-src 'self' https:; frame-src 'self' https:; font-src 'self' https:; connect-src 'self' https:; report-uri https://typo.report-uri.com/r/d/csp/wizard"
-
-# Exclude list
-include: [_pages, keybase.txt]
-exclude:
-  [
-    README.md,
-    Gemfile,
-    Gemfile.lock,
-    _site,
-    src,
-    vendor,
-    CNAME,
-    LICENSE,
-    Rakefile,
-    .sass-cache,
-    .DS_Store,
-    vendor,
-  ]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
