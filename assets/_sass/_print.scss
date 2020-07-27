@@ -1,0 +1,95 @@
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    margin: 0.5cm !important;
+  }
+
+  .block-left {
+    width: 100% !important;
+    height: 35% !important;
+    background: none !important;
+  }
+
+  .block-right {
+    width: 100% !important;
+    display: table !important;
+  }
+
+  img {
+    max-width: 80% !important;
+  }
+
+  header nav,
+  footer,
+  .logo,
+  .section-line,
+  .section-line reverse,
+  .share-buttons,
+  .posts-menu-icon,
+  .btn_telegram,
+  .btn_whatsapp,
+  .btn_facebook,
+  .btn_twitter,
+  .pagination,
+  .commento-login-box-container,
+  .commento-error-box,
+  .commento-mod-tools,
+  .commento-login,
+  .commento-textarea-container,
+  .commento-button-margin,
+  .commento-footer {
+    display: none !important;
+  }
+
+  .post-title-section {
+    top: 0px !important;
+  }
+
+  body,
+  a,
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  em,
+  figure,
+  figcaption,
+  .section-title,
+  .tags > li > a,
+  .date-highlight,
+  .inner-post p {
+    color: #000 !important;
+  }
+
+  .date-highlight {
+    margin: 10px !important;
+  }
+
+  .tags > li {
+    border: 1px solid #000 !important;
+  }
+
+  .inner-post content {
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+    max-width: 100% !important;
+  }
+
+  .inner-post {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .inner-post a:not(.btn):not(.pagination_pager) {
+    border-bottom: none !important;
+    color: #000 !important;
+  }
+
+  #commento {
+    page-break-before: always !important;
+  }
+}

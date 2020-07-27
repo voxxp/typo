@@ -1,0 +1,62 @@
+---
+layout: proof
+title: keybase
+sitemap: false
+permalink: /keybase.txt
+---
+==================================================================
+https://keybase.io/voxp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://typo.ir
+  * I am voxp (https://keybase.io/voxp) on keybase.
+  * I have a public key ASBJlp1N_YZeKsaNidkS9alQR-pQ-dsG_2ucr7WGHD-E7wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012049969d4dfd865e2ac68d89d912f5a95047ea50f9db06ff6b9cafb5861c3f84ef0a",
+      "host": "keybase.io",
+      "kid": "012049969d4dfd865e2ac68d89d912f5a95047ea50f9db06ff6b9cafb5861c3f84ef0a",
+      "uid": "d325dc004770cb31e7bd65e2095c3919",
+      "username": "voxp"
+    },
+    "merkle_root": {
+      "ctime": 1552233605,
+      "hash": "7f36c242f74830eb27e75529c84dbf9b9ce68933d31b0c41b97dc5652522cc22977cee236181594b71c3e00bf683597027b45d6437be6b6f7a8c3e30ba369bd2",
+      "hash_meta": "883c06b6e86a30338a21f693751180855d15dade71078f1f40f39a0f26d1b509",
+      "seqno": 4915383
+    },
+    "service": {
+      "entropy": "BDFZIJ7lxxp5nKarL00KBjLt",
+      "hostname": "typo.ir",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.1"
+  },
+  "ctime": 1552233628,
+  "expire_in": 504576000,
+  "prev": "34f7913e5360fae3e333d0b24f1a18422fac4d4f4d60e86c0c4efb007dd574c3",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSZadTf2GXirGjYnZEvWpUEfqUPnbBv9rnK+1hhw/hO8Kp3BheWxvYWTESpcCBMQgNPeRPlNg+uPjM9CyTxoYQi+sTU9NYOhsDE77AH3VdMPEIF936oG1PcH6fodVQMG5F69IGufWjPY5Kd0W2CWItS45AgHCo3NpZ8RA98NxNKSeHNaYq58nRZHxP9Xo/GjZ5HPwBASnYxnl1ihQXZ6c9qSvqWMd1HAt0nnkTaIyWAQWWzeJDnrjJbNADqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFDiW4MOpOnL0+8AH/Htq7d3V3cCuCJ/nrrtRx5kQWnGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/voxp
+
+==================================================================
