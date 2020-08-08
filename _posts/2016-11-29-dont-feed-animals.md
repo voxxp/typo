@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://typo.ir/images/posts/feed-animals.jpg
+image: https://typo.ir/images/posts/feed-animals.svg
 twitter: https://typo.ir/images/posts/feed-animals-twitter.jpg
 title: "غذا رو نخور حیوان!"
 excerpt:
@@ -52,7 +52,7 @@ date: 2016-11-29 00:00:00 +0000
 افزایش جمعیت حیوانات موجب افزایش رقابت برای بقا و به دنبال آن، افزایش رفتارهای خشن درون گونه‌ای، افزایش جمعیت حیوانات شکارچی و به خطر افتادن گونه‌های کم‌جمعیت دیگر خواهد شد.
 
 <div class="alert alert-secondary" role="alert">
-  <a href="https://typo.ir/chernobyl-hbo/" title="چرنوبیل؛ واقعا چه رخ داد؟" target="_blank" class="alert-link"><img src="https://typo.ir/images/posts/chernobyl/chernobyl-cover.jpg" alt="image-right" style="width: 53px !important;height: 53px !important;" class="rounded float-right ml-3 mt-1"></a>مطالب دیگر وبلاگ با موضوع <a class="alert-link" href="https://typo.ir/categories#%D9%85%D8%AD%DB%8C%D8%B7%20%D8%B2%DB%8C%D8%B3%D8%AA" title="محیط زیست" target="_blank">محیط زیست</a> را بخوانید:<br><strong><a href="https://typo.ir/chernobyl-hbo/" title="چرنوبیل؛ واقعا چه رخ داد؟" target="_blank" class="alert-link">چرنوبیل؛ واقعا چه رخ داد؟</a></strong>
+  <a href="https://typo.ir/chernobyl-hbo/" title="چرنوبیل؛ واقعا چه رخ داد؟" target="_blank" class="alert-link"><img src="https://typo.ir/images/posts/chernobyl/chernobyl-cover.svg" alt="image-right" style="width: 53px !important;height: 53px !important;" class="rounded float-right ml-3 mt-1"></a>مطالب دیگر وبلاگ با موضوع <a class="alert-link" href="https://typo.ir/categories#%D9%85%D8%AD%DB%8C%D8%B7%20%D8%B2%DB%8C%D8%B3%D8%AA" title="محیط زیست" target="_blank">محیط زیست</a> را بخوانید:<br><strong><a href="https://typo.ir/chernobyl-hbo/" title="چرنوبیل؛ واقعا چه رخ داد؟" target="_blank" class="alert-link">چرنوبیل؛ واقعا چه رخ داد؟</a></strong>
 </div>
 
 ### چه باید کرد؟

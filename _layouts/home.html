@@ -111,11 +111,15 @@ layout: compress
       content="{{ site.url }}/images/favicon/browserconfig.xml"
     />
     <meta name="theme-color" content="#ffffff" />
-    <!-- Stylesheets -->
+    <meta name="color-scheme" content="dark light">
+    <!-- Stylesheets -->    
     <link
       rel="stylesheet"
+      media="none"
       href="{{ site.url }}/assets/css/bootstrap-material-design.min.css"
+      onload="if(media!='all')media='all'"
     />
+    <noscript><link rel="stylesheet" href="{{ site.url }}/assets/css/bootstrap-material-design.min.css"></noscript>
     <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
     <link rel="stylesheet" href="{{ site.url }}/assets/css/dark-mode.css" />
     <link
@@ -131,20 +135,10 @@ layout: compress
         href="https://use.fontawesome.com/releases/v5.11.2/css/all.css"
         crossorigin="anonymous"
     /></noscript>
-    <script type="text/javascript">
-      if ("serviceWorker" in navigator) {
-        navigator.serviceWorker
-          .register("/sw.js")
-          .then(function(registration) {
-            console.log(
-              "Service Worker registration successful with scope: ",
-              registration.scope
-            );
-          })
-          .catch(function(err) {
-            console.log("Service Worker registration failed: ", err);
-          });
-      }
+    <script type="module">
+import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+const el = document.createElement('pwa-update');
+document.body.appendChild(el);
     </script>
   </head>
   <body id="homepage">
@@ -152,7 +146,7 @@ layout: compress
       <div class="alert alert-warning alert-dismissible fade show" role="alert">
         شما از نسخه‌ی <strong>قدیمی</strong> مرورگر خود استفاده می‌کنید. لطفا
         برای تجربه‌ی کاربری بهتر، مرورگر خود را
-        <a target="_blank" href="http://browsehappy.com/">بروزرسانی کنید</a>.
+        <a target="_blank" rel="noopener" href="http://browsehappy.com/">بروزرسانی کنید</a>.
         <button
           type="button"
           class="close"
@@ -183,7 +177,7 @@ layout: compress
                       class="logo-homepage"
                     >
                       <img
-                        src="{{ site.url }}/images/Logo.gif"
+                        src="{{ site.url }}/images/Logo.svg"
                         alt="Logo"
                         class="logo"
                       />
@@ -234,19 +228,13 @@ layout: compress
     </div>
     <!-- /container -->
     <script
-      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-      crossorigin="anonymous"
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     ></script>
     <script
-      src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js"
-      integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U"
-      crossorigin="anonymous"
+      src="https://unpkg.com/@popperjs/core@2"
     ></script>
     <script
-      src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js"
-      integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9"
-      crossorigin="anonymous"
+      src="https://unpkg.com/bootstrap-material-design@4.1.3/dist/js/bootstrap-material-design.js"
     ></script>
     <script>
       $(document).ready(function() {

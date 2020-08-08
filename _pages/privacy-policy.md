@@ -10,9 +10,9 @@ tags:
   - "کپی رایت"
 published: true
 comments: false
-date: 2020-03-15 17:00:00 +0000
+date: 2020-07-24 17:00:00 +0000
 sitemap: true
-image: images/posts/privacy.jpg
+image: images/posts/privacy.svg
 twitter: images/posts/privacy-twitter.jpg
 permalink: "/privacy-policy/"
 ---
@@ -20,7 +20,7 @@ permalink: "/privacy-policy/"
 <h3 id="simplified-privacy-policy">خلاصه سیاست‌های حریم خصوصی</h3>
 <p class="notice_info" style="color: #aaa;"><i class="fas fa-chart-pie" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>بهینه‌سازی ترافیک و توزیع</em></strong><br> <strong><em>Deflect</em></strong><br>اطلاعات شخصی: لاگ HTTP، آدرس IP و User Agent.</p>
 <p class="notice_info" style="color: #aaa;"><i class="fas fa-share-square" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>ارتباط با شبکه‌ها و پلتفرم‌های اجتماعی خارجی</em></strong><br> <strong><em> ویجت Twitter و Reddit</em></strong><br>اطلاعات شخصی: کوکی‌ها و داده‌های استفاده</p>
-<p class="notice_info" style="color: #aaa;"><i class="fas fa-comment" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>سیستم نظردهی</em></strong><br> <strong><em>Hyvor Talk</em></strong><br>اطلاعات شخصی: کوکی‌ها و اطلاعات وارد شده</p>
+<p class="notice_info" style="color: #aaa;"><i class="fas fa-comment" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>سیستم نظردهی</em></strong><br> <strong><em>GraphComment</em></strong><br>اطلاعات شخصی: لاگ HTTP، آدرس IP و User Agent.</p>
 <p class="notice_info" style="color: #aaa;"><i class="fas fa-user-circle" style="color:#4ECDC4;"></i> <strong style="color:#6c6c6c;"><em>مالک و کنترل‌کننده‌ی داده‌ها</em></strong><br> تایپو <a href="https://typo.ir" title="TYPO">typo.ir</a><br><strong style="color:#6c6c6c;">ایمیل مالک:</strong> <a href="mailto:{{ site.email | encode_email }}" title="Send Email">voxp@pm.me</a></p>
 <hr>
 <p><i class="fas fa-language" style="color:#4ECDC4;"></i> <a href="https://typo.ir/privacy-policy-en" title="Read in English">English</a></p>
@@ -75,10 +75,10 @@ permalink: "/privacy-policy/"
     <h5><i class="fas fa-comment pl-2" style="color:#4ECDC4;"></i>سیستم نظردهی</h5><p>این خدمات به این سایت اجازه‌ی توزیع محتوا در کشورهای مختلف را با استفاده از سرورهای مختلف و به منظور بهینه‌سازیسرویس نظردهی به کاربران اجازه‌ی انتشار دیدگاه‌هایشان در این سایت را می‌دهد.
 کاربران می‌توانند به صورت ناشناس دیدگاه‌های خود را ارسال کنند. کاربران مسئول محتوای نظرات خودشان هستند.</p></div>
   <div class="card-body">
-    <h6 class="card-title">Hyvor Talk</h6>
-    <p class="card-text">Hyvor Talk یک سیستم مدیریت دیدگاه‌ها است.
-اطلاعات شخصی: کوکی‌ها و اطلاعات وارد شده از جمله نام کاربری، ایمیل و وبسایت.</p>
-    <a href="https://talk.hyvor.com/documentation/policies/privacy-policy" title="Hyvor Talk Privacy Policy" class="btn btn-primary">جزئیات بیشتر</a>
+    <h6 class="card-title">GraphComment</h6>
+    <p class="card-text">GraphComment یک سیستم مدیریت دیدگاه‌ها است.
+اطلاعات شخصی: کوکی‌ها، آدرس IP و اطلاعات وارد شده از جمله نام کاربری، ایمیل و وبسایت.</p>
+    <a href="https://graphcomment.com/en/conditions.html" title="GraphComment Terms of Service" class="btn btn-primary">جزئیات بیشتر</a>
   </div>
 </div></div><br>
 

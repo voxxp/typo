@@ -185,12 +185,16 @@ h1 {
 .logo {
   max-width: 35%;
   border-radius: 10%;
+  min-width: 105px;
+  min-height: 105px;
+  background-color: #fff;
 }
 
 .logobg {
   position: absolute;
-  right: 0;
+  right: -100%;
   top: 0;
+  min-width: 300%;
 }
 
 .block-logo {
@@ -292,7 +296,7 @@ h1 {
 }
 
 .topbar-icon {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 .topbar-menu {
@@ -715,4 +719,25 @@ content blockquote {
   border-right-width: 5px !important;
   border-left-width: 0px !important;
   border-right-style: solid !important;
+}
+
+#graphcomment {
+  padding-left: 30px;
+}
+
+.gc-popin-close {
+  right: 238px !important;
+}
+
+.gc-profile-name {
+  margin-left: 0px !important;
+  margin-right: 20px !important;
+}
+
+.gc-profile-name::after {
+  left: 5px !important;
+}
+
+.gc-body {
+  padding-right: 0px !important;
 }

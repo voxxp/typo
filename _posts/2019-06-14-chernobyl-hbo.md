@@ -1,6 +1,6 @@
 ---
 layout: post
-image: images/posts/chernobyl/chernobyl-cover.jpg
+image: images/posts/chernobyl/chernobyl-cover.svg
 twitter: images/posts/chernobyl/chernobyl-cover-twitter.jpg
 title: "چرنوبیل؛ واقعا چه رخ داد؟"
 excerpt: "فاجعه‌ی چرنوبیل واقعا چه بود و چه بخش‌هایی از مینی‌سری چرنوبیل با حقیقت مطابقت داشت؟ شاهدین این فاجعه از آن روزها چه تعریف کرده‌اند؟"
@@ -32,10 +32,7 @@ date: 2019-06-14 20:00:00 +0000
 ![image-center]({{ site.url }}/images/posts/chernobyl/1-color-dyatlov.jpg){: .align-center}
 ## ۱. آیا پس از انفجار، نورهای رنگی بر فراز رآکتور دیده می‌شد؟
 
-<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** شاهدین عینی مشاهده‌ی نورهای رنگی را تائید کرده‌اند. در این ویدیو Korneev، یکی از اپراتورهای رآکتور شماره‌ی ۴، این رنگ‌ها را توصیف می‌کند:
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/X213Zy4E6Y/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/e41y6" title="نورهای انفجار چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** شاهدین عینی مشاهده‌ی نورهای رنگی را تائید کرده‌اند. در این ویدیو Korneev، یکی از اپراتورهای رآکتور شماره‌ی ۴، این رنگ‌ها را توصیف می‌کند: <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/e41y6" title="نورهای انفجار چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی نورهای انفجار چرنوبیل</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -52,10 +49,7 @@ date: 2019-06-14 20:00:00 +0000
 
 ### اما علت وقوع این پدیده چه بوده؟
 
-**تابش چرنکوف**: این تابش اشعه‌ی الکترومغناطیسی زمانی رخ می‌دهد که یک ذره‌ی باردار (مثل الکترون) سریع‌تر از نور در همان محیط حرکت کند. نمونه‌ی واقعی از این تابش را در می‌توانید در این ویدیو از <a href="https://reactor.reed.edu/" title="Reed Research Reactor" rel="nofollow" target="_blank">رآکتور تحقیقاتی Reed</a> در پورتلند ایالات متحده مشاهده کنید:
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/N1QkD4kEPR/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/YArwu" title="تابش چرنکوف" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+**تابش چرنکوف**: این تابش اشعه‌ی الکترومغناطیسی زمانی رخ می‌دهد که یک ذره‌ی باردار (مثل الکترون) سریع‌تر از نور در همان محیط حرکت کند. نمونه‌ی واقعی از این تابش را در می‌توانید در این ویدیو از <a href="https://reactor.reed.edu/" title="Reed Research Reactor" rel="nofollow" target="_blank">رآکتور تحقیقاتی Reed</a> در پورتلند ایالات متحده مشاهده کنید: <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/YArwu" title="تابش چرنکوف" rel="nofollow" target="_blank">مشاهده ویدیوی تابش چرنکوف در رآکتور تحقیقاتی</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -70,10 +64,7 @@ date: 2019-06-14 20:00:00 +0000
   "contentUrl": "https://raw.githubusercontent.com/typofile/localb1/f5ebf7ef1f32f9b7b70271193f1ae567/1-cherenkov-effect.mp4"
 }</script>
 
-**تابش هوای یونیزه**: این تابش فلورسنت زمانی رخ می‌دهد که انرژی تابیده شده به هوا، موجب برانگیختگی مولکول‌های نیتروژن شود. هنگامی که نیتروژن به حالت پایه‌ی خود بازمی‌گردد، انرژی دریافت شده را به صورت نور مرئی آزاد می‌کند. نوری که عموما به رنگ‌های آبی و بنفش بوده و با نام <a href="https://en.wikipedia.org/wiki/Electric_blue_(color)" title="Electric blue (color)" rel="nofollow" target="_blank">آبی الکتریکی</a> هم شناخته می‌شود. در این ویدیو، پدیده‌ی تابش هوای یونیزه در اطراف ابر انفجار پس آزمایش هسته‌ای موسوم به <a href="https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole" title="Operation Upshot–Knothole" rel="nofollow" target="_blank">عملیات Upshot-Knothhole</a> در سایت آزمایشی نوادا قابل مشاهده است:
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/ZzRPkvLB9Y/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/jY9zD" title="تابش هوای یونیزه" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+**تابش هوای یونیزه**: این تابش فلورسنت زمانی رخ می‌دهد که انرژی تابیده شده به هوا، موجب برانگیختگی مولکول‌های نیتروژن شود. هنگامی که نیتروژن به حالت پایه‌ی خود بازمی‌گردد، انرژی دریافت شده را به صورت نور مرئی آزاد می‌کند. نوری که عموما به رنگ‌های آبی و بنفش بوده و با نام <a href="https://en.wikipedia.org/wiki/Electric_blue_(color)" title="Electric blue (color)" rel="nofollow" target="_blank">آبی الکتریکی</a> هم شناخته می‌شود. در این ویدیو، پدیده‌ی تابش هوای یونیزه در اطراف ابر انفجار پس آزمایش هسته‌ای موسوم به <a href="https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole" title="Operation Upshot–Knothole" rel="nofollow" target="_blank">عملیات Upshot-Knothhole</a> در سایت آزمایشی نوادا قابل مشاهده است: <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/jY9zD" title="تابش هوای یونیزه" rel="nofollow" target="_blank">مشاهده تابش هوای یونیزه در عملیات هسته‌ای</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -92,7 +83,7 @@ date: 2019-06-14 20:00:00 +0000
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/2-metal-ignatenko.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/2-metal-ignatenko.svg">
     <figcaption class="figure-caption text-center">- طعم فلز رو حس می‌کنی؟</figcaption>
 </figure>
 </center>
@@ -104,10 +95,7 @@ date: 2019-06-14 20:00:00 +0000
 
 **تششعات**: از عوارض رادیوتراپی، تغییر حس چشایی از طریق کاهش و تغییر گیرنده‌های چشایی و تداخل در انتقال پیام چشایی است. طول عمر هر سلول چشایی انسان ۱۰ روز است و تششعات بر سلول‌هایی با طول عمر کم، اثر بیشتری می‌گذارند. نتیجه‌ی آن عارضه‌ی <a href="https://www.mascc.org/assets/ISOO/documents/10_sr_dysgeusia_cancer_therapies.pdf" title="A systematic review of dysgeusia induced by cancer therapies" rel="nofollow" target="_blank">Dysgeusia</a> خواهد بود که با تغییر گیرنده‌های چشایی موجب حس طعم فلزی در افراد می‌شود.
 
-سرهنگ Grebeniouk که در روزهای اول به محل حادثه اعزام شده بود، این طعم را توصیف می‌کند:
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/zpwayAagrO/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/kqfHT" title="طعم فلزی فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+سرهنگ Grebeniouk که در روزهای اول به محل حادثه اعزام شده بود، این طعم را توصیف می‌کند: <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/kqfHT" title="طعم فلزی فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده توضیح طعم فلزی فاجعه چرنوبیل</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -128,7 +116,7 @@ date: 2019-06-14 20:00:00 +0000
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/4-contamination-khomyuk.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/4-contamination-khomyuk.svg">
     <figcaption class="figure-caption text-center">- تششعات ممکن بود مادر رو بکشه ولی به جاش بچه جذبشون کرد.</figcaption>
 </figure>
 </center>
@@ -146,13 +134,10 @@ date: 2019-06-14 20:00:00 +0000
 
 با این وجود آژانس بین‌المللی انرژی اتمی در سال ۱۹۸۷ <a href="http://jnm.snmjournals.org/content/28/6/933.full.pdf" title="Lessons of Chernobyl : SNM Members Try to Decontaminate World Threatened by Fallout" rel="nofollow" target="_blank">پیش‌بینی کرده</a> که پس از وقوع این حادثه، ۱۰۰ تا ۲۰۰ هزار نفر در شوروی و اروپا تصمیم به سقط جنین گرفتند.
 
-![image-center]({{ site.url }}/images/posts/chernobyl/5-latency-ignatenko.jpg){: .align-center}
+![image-center]({{ site.url }}/images/posts/chernobyl/5-latency-ignatenko.svg){: .align-center}
 ## ۵. آیا دوره‌ی نهفتگی واقعیت دارد؟
 
-<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** دوره نهفتگی به دوره شروع بیماری تا ظهور علایم بیماری گفته می‌شود. در خصوص سندروم پرتوی حاد، این دوره می‌تواند چند ساعت تا یک ماه به طول انجامد. Nadejina که در زمان حادثه، پزشک بیمارستان شماره ۶ مسکو بود، اشاره می‌کند که در زمان ورود، بیماران در دوره‌ی نهفتگی بودند:
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/Yx2zbRz431/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/YEZTX" title="وضعیت مجروحین فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** دوره نهفتگی به دوره شروع بیماری تا ظهور علایم بیماری گفته می‌شود. در خصوص سندروم پرتوی حاد، این دوره می‌تواند چند ساعت تا یک ماه به طول انجامد. Nadejina که در زمان حادثه، پزشک بیمارستان شماره ۶ مسکو بود، اشاره می‌کند که در زمان ورود، بیماران در دوره‌ی نهفتگی بودند: <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/YEZTX" title="وضعیت مجروحین فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی وضعیت مجروحین چرنوبیل</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -182,10 +167,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 ## ۷. آیا لباس آتش‌نشان‌ها در زیرزمین بیمارستان نگهداری شدند؟
 
-<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** لباس آتش‌نشان‌هایی که به بیمارستان پریپیات منتقل شده بودند، در زیرزمین بیمارستان نگهداری شد. این لباس‌ها هنوز هم در زیرزمین بیمارستان وجود دارند. گفته می‌شود که اخیرا زیرزمین این بیمارستان با شن پر شده.
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/4NBLmWbdX8/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/rP9f8" title="لباس آتش‌نشان‌های چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** لباس آتش‌نشان‌هایی که به بیمارستان پریپیات منتقل شده بودند، در زیرزمین بیمارستان نگهداری شد. این لباس‌ها هنوز هم در زیرزمین بیمارستان وجود دارند. گفته می‌شود که اخیرا زیرزمین این بیمارستان با شن پر شده. <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/rP9f8" title="لباس آتش‌نشان‌های چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی وضعیت امروز بیمارستان چرنوبیل</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -202,7 +184,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/8-report-shcherbina.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/8-report-shcherbina.svg">
     <figcaption class="figure-caption text-center">- آقای بریکانوف عدد ۳.۶ رونتگن رو گزارش کردن.</figcaption>
 </figure>
 </center>
@@ -224,10 +206,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** در روزهای اولیه، KGB دستور داده بود تا از انتشار عمومی اخبار فاجعه چرنوبیل جلوگیری شود.
 
-دو روز بعد از فاجعه چرنوبیل، Cliff Robinson مهندس هسته‌ای در نیروگاه Forsmark سوئد هنگام عبور از آشکارساز اشعه باعث به صدا در آمدن زنگ هشدار شد. Robinson ماجرا را به مقامات <a href="https://sverigesradio.se/sida/artikel.aspx?artikel=4468603" title="25 years after Chernobyl, how Sweden found out" rel="nofollow" target="_blank">گزارش داد</a> و دو روز بعد شوروی به صورت عمومی وقوع فاجعه را اعلام کرد.
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/0RwLAyLq81/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/HNK5X" title="کشف فاجعه چرنوبیل توسط سوئد" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+دو روز بعد از فاجعه چرنوبیل، Cliff Robinson مهندس هسته‌ای در نیروگاه Forsmark سوئد هنگام عبور از آشکارساز اشعه باعث به صدا در آمدن زنگ هشدار شد. Robinson ماجرا را به مقامات <a href="https://sverigesradio.se/sida/artikel.aspx?artikel=4468603" title="25 years after Chernobyl, how Sweden found out" rel="nofollow" target="_blank">گزارش داد</a> و دو روز بعد شوروی به صورت عمومی وقوع فاجعه را اعلام کرد. <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/HNK5X" title="کشف فاجعه چرنوبیل توسط سوئد" rel="nofollow" target="_blank">مشاهده ویدیوی کشف فاجعه توسط سوئد</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -250,7 +229,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/12-evacuation-elderly-real.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/12-evacuation-elderly-real.svg">
     <figcaption class="figure-caption text-center">متن: مردی در این خانه زندگی می‌کند.</figcaption>
 </figure>
 </center>
@@ -260,10 +239,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
   <source src="https://raw.githubusercontent.com/typofile/localb2/7803a380298a735086e47f1f14d56125/12-evacuation-alert.mp3" type="audio/mpeg">
 </audio></center>
 
-بنابر گزارش شاهدین عینی عده‌ای از مردم، به خصوص افراد مسن‌تر، در برابر تخلیه شهر مقاومت کردند و حتی عده‌ای از عملیات تخلیه جا ماندند. در کتاب <a href="https://www.simonandschuster.com/books/Midnight-in-Chernobyl/Adam-Higginbotham/9781501134616" title="Midnight in Chernobyl" rel="nofollow" target="_blank">Midnight in Chernobyl</a> گزارش شده که نیروهای گشت روزها بعد از تخلیه به طور اتفاقی به زوج مسنی برخوردند که از تخلیه جا مانده بودند و نمی‌دانستند که چه اتفاقی افتاده.
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/ZWyN0RPJnq/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/bIL3e" title="تخلیه مردم پریپیات چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+بنابر گزارش شاهدین عینی عده‌ای از مردم، به خصوص افراد مسن‌تر، در برابر تخلیه شهر مقاومت کردند و حتی عده‌ای از عملیات تخلیه جا ماندند. در کتاب <a href="https://www.simonandschuster.com/books/Midnight-in-Chernobyl/Adam-Higginbotham/9781501134616" title="Midnight in Chernobyl" rel="nofollow" target="_blank">Midnight in Chernobyl</a> گزارش شده که نیروهای گشت روزها بعد از تخلیه به طور اتفاقی به زوج مسنی برخوردند که از تخلیه جا مانده بودند و نمی‌دانستند که چه اتفاقی افتاده. <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/bIL3e" title="تخلیه مردم پریپیات چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی توصیح مقاومت مردم در برابر تخیله شهر</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -280,7 +256,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/13-volunteer-gorbachev.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/13-volunteer-gorbachev.svg">
     <figcaption class="figure-caption text-center">- جناب لگاسوف، هر پیروزی قطعا بهایی داره.</figcaption>
 </figure>
 </center>
@@ -294,7 +270,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/14-miner-hbo.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/14-miner-hbo.svg">
     <figcaption class="figure-caption text-center">- دما چقدره؟<br/>-۵۰ درجه</figcaption>
 </figure>
 </center>
@@ -304,10 +280,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 > آن‌ها داوطلبانه این کار را کردند. هوا مثل یک اجاق گرم بود و نمی‌توانستند از فن استفاده کنند چون باعث بلند شدن گرد و خاک می‌شد.
 
-اما تمامی مشاهدات نشان می‌دهند که با وجود گرمای شدید، **معدن‌کارها با لباس کار کرده‌اند**. توصیف Amelkov یکی از معدن‌کارها در چرنوبیل از شرایط کار در آن زمان را در این ویدیو ببینید:
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/RbEGdqDNzP/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/myf02" title="معدن‌کارهای فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+اما تمامی مشاهدات نشان می‌دهند که با وجود گرمای شدید، **معدن‌کارها با لباس کار کرده‌اند**. توصیف Amelkov یکی از معدن‌کارها در چرنوبیل از شرایط کار در آن زمان را در این ویدیو ببینید: <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/myf02" title="معدن‌کارهای فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی معدن‌کارهای چرنوبیل</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -330,7 +303,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/16-eggbasket.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/16-eggbasket.svg">
     <figcaption class="figure-caption text-center">- از روی شلوار بپوش!</figcaption>
 </figure>
 </center>
@@ -341,10 +314,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 > Yesli hochesh byt’ otsom/zakrivay yaitso svintsom
 > <br>اگه می‌خوای پدر بشی/ تخمات رو با سرب بپوشون
 
-همچنین کابین خودروها با سرب پوشانده شده بودند. توضیحات Tarakanov که در سریال و واقعیت فرماندهی این نیروها را برعهده داشت در خصوص این موضوع:
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/5jXel791y4/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/DV5s4" title="محفظه‌های سربی خودرو در چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+همچنین کابین خودروها با سرب پوشانده شده بودند. توضیحات Tarakanov که در سریال و واقعیت فرماندهی این نیروها را برعهده داشت در خصوص این موضوع: <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/DV5s4" title="محفظه‌های سربی خودرو در چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی محفظه‌های سربی در چرنوبیل</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -363,15 +333,12 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="half figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/17-robot-str1.jpg">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/17-robot-joker-hbo.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/17-robot-str1.svg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/17-robot-joker-hbo.svg">
 </figure>
 </center>
 
-<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** روس‌ها از حدود ۶۰ روبات کنترل از راه دور استفاده کردند. یکی از این روبات‌ها، **ماه‌نورد STR-1** بود که بعدها هنگام جابجایی توسط هلیکوپتر، از ارتفاع ۲۰۰ متری <a href="https://www.the-scientist.com/news/soviet-official-admits-that-robots-couldnt-handle-chernobyl-cleanup-61583" title="Soviet Official Admits That Robots Couldn't Handle Chernobyl Cleanup" rel="nofollow" target="_blank">سقوط کرد</a> و از کار افتاد.
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/EkWPLKwD8M/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/k3Ejf" title="ماه‌نورد STR-1 در چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** روس‌ها از حدود ۶۰ روبات کنترل از راه دور استفاده کردند. یکی از این روبات‌ها، **ماه‌نورد STR-1** بود که بعدها هنگام جابجایی توسط هلیکوپتر، از ارتفاع ۲۰۰ متری <a href="https://www.the-scientist.com/news/soviet-official-admits-that-robots-couldnt-handle-chernobyl-cleanup-61583" title="Soviet Official Admits That Robots Couldn't Handle Chernobyl Cleanup" rel="nofollow" target="_blank">سقوط کرد</a> و از کار افتاد. <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/k3Ejf" title="ماه‌نورد STR-1 در چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی ماه‌نورد در عملیات پاکسازی</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -386,10 +353,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
   "contentUrl": "https://raw.githubusercontent.com/typofile/localb2/cfcd94c951664f4103cfacc78c1b2fa1/17-robot-str1-720.mp4"
 }</script>
 
-روبات دیگری که استفاده شد، ربات آلمانی MF-3 معروف به **Joker** بود که مدت کوتاهی پس از راه‌اندازی به علت تششعات بالا از کار افتاد. در خصوص اینکه آیا واقعا شوروی اطلاعات غلطی به آلمان داده، سندی در دسترس نیست. این روبات اکنون در محل ماشین‌آلات آلوده در پریپیات <a href="{{ site.url }}/images/posts/chernobyl/17-robot-joker-real.jpg" title="روبات Joker" rel="nofollow" target="_blank">نگهداری می‌شود</a>.
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/Zmxn2BnoKO/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/9EB7t" title="ربات Joker در چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+روبات دیگری که استفاده شد، ربات آلمانی MF-3 معروف به **Joker** بود که مدت کوتاهی پس از راه‌اندازی به علت تششعات بالا از کار افتاد. در خصوص اینکه آیا واقعا شوروی اطلاعات غلطی به آلمان داده، سندی در دسترس نیست. این روبات اکنون در محل ماشین‌آلات آلوده در پریپیات <a href="{{ site.url }}/images/posts/chernobyl/17-robot-joker-real.jpg" title="روبات Joker" rel="nofollow" target="_blank">نگهداری می‌شود</a>. <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/9EB7t" title="ربات Joker در چرنوبیل" rel="nofollow" target="_blank">مشاهده‌ی ویدیوی ربات Joker</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -406,10 +370,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 ## ۱۸. آیا واقعا از انسان برای پاکسازی سقف نیروگاه چرنوبیل استفاده شد؟
 
-<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** این افراد که وظیفه داشتند سقف نیروگاه را از تکه‌های گرافیت پاکسازی کنند، **Biorobot** نام داشتند. ابتدا یک افسر پزشک به محل می‌رفت و تششعات را اندازه می‌گرفت و با استفاده از آن دوز و زمان مجاز برای هر ناحیه را تعیین می‌کردند.
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/w9yRO7R8dQ/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/lRf7p" title="بیوروبات‌های چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** این افراد که وظیفه داشتند سقف نیروگاه را از تکه‌های گرافیت پاکسازی کنند، **Biorobot** نام داشتند. ابتدا یک افسر پزشک به محل می‌رفت و تششعات را اندازه می‌گرفت و با استفاده از آن دوز و زمان مجاز برای هر ناحیه را تعیین می‌کردند. <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/lRf7p" title="بیوروبات‌های چرنوبیل" rel="nofollow" target="_blank">مشاهده عملیات پاکسازی گرافیت از روی سقف</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -426,10 +387,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 ## ۱۹. آیا صحنه‌ی برافراشتن پرچم بر فراز دودکش نیروگاه واقعی بود؟
 
-<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** این کار از راه سقف رآکتور شماره سه بر فراز دودکش ۷۸ متری انجام شد. ابتدا قرار بود عملیات با کمک هلیکوپتر انجام شود اما موفقیت آمیز نبود. عملیات به گونه‌ای برنامه‌ریزی شده بود تا تنها ۹ دقیقه به طول بیانجامد. در پایان از سه نفری که عملیات را با موفقیت انجام دادند، Yourtchenko، Stardoumov و Sotnikov <a href="https://news.nationalgeographic.com/news/energy/2011/04/110426/chernobyl-25-years-liquidators-pictures/" title="A Signal at the Summit" rel="nofollow" target="_blank">با نوشابه پپسی تقدیر شد</a>!
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/6Xo5PYrVyq/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/IVHFX" title="برافراشتن پرچم بر فراز رآکتور چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+<i class="fas fa-check" style="color:#4ECDC4;"></i> **<font color="#4ECDC4">بله!</font>** این کار از راه سقف رآکتور شماره سه بر فراز دودکش ۷۸ متری انجام شد. ابتدا قرار بود عملیات با کمک هلیکوپتر انجام شود اما موفقیت آمیز نبود. عملیات به گونه‌ای برنامه‌ریزی شده بود تا تنها ۹ دقیقه به طول بیانجامد. در پایان از سه نفری که عملیات را با موفقیت انجام دادند، Yourtchenko، Stardoumov و Sotnikov <a href="https://news.nationalgeographic.com/news/energy/2011/04/110426/chernobyl-25-years-liquidators-pictures/" title="A Signal at the Summit" rel="nofollow" target="_blank">با نوشابه پپسی تقدیر شد</a>! <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/IVHFX" title="برافراشتن پرچم بر فراز رآکتور چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی برافراشتن پرچم بر فراز رآکتور</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -456,10 +414,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 </center>
 او بعدها اعلام کرد که به نظر او مقصر اصلی، طراحی RBMK بوده اما سایرین، از جمله <a href="https://en.wikipedia.org/wiki/Anatoly_Alexandrov_(physicist)" title="Anatoly Alexandrov" rel="nofollow" target="_blank">Anatoly Alexandrov</a> مدیر طراحی این رآکتور با او مخالف بودند. در این زمان، مشکل رآکتور RBMK از کسی مخفی نبود. در جلسه‌ی آژانس، Lord Marshall اعلام کرد که بریتانیایی‌ها در سال ۱۹۷۷ مشکلات ساختاری رآکتور را به شوروی اخطار داده بودند که Legasov <a href="https://www.nytimes.com/1986/08/26/world/design-flaws-known-to-moscow-called-major-factor-at-chernobyl.html" title="Design Flaws, Known to Moscow, Called Major Factor at Chernobyl" rel="nofollow" target="_blank">پاسخ داد</a> از چنین اخطاری اطلاع ندارد.
 
-<i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** Legasov در دادگاه مقصرین فاجعه چرنوبیل حضور نداشت.
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.arvancloud.com/index.html?config=https://typo.arvanvod.com/ARbg6G8GZm/PXRb9GW05w/origin_config.json" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
-<i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/CHiW9" title="دادگاه مقصرین فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده در آپارات</a>
+<i class="fas fa-times" style="color:#C44D58;"></i> **<font color="#C44D58">نه!</font>** Legasov در دادگاه مقصرین فاجعه چرنوبیل حضور نداشت. <i class="fas fa-play" style="color:#ea1d5d;"></i> <a href="http://aparat.com/v/CHiW9" title="دادگاه مقصرین فاجعه چرنوبیل" rel="nofollow" target="_blank">مشاهده ویدیوی دادگاه واقعی چرنوبیل</a>
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -480,7 +435,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/22-death-bridge-hbo.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/22-death-bridge-hbo.svg">
     <figcaption class="figure-caption text-center">«گزارش شده که از افرادی که از پل راه آهن شاهد ماجرا بودند، هیچکدام زنده نماندند.»</figcaption>
 </figure>
 </center>
@@ -494,7 +449,7 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 <center>
 <figure class="figure">
-<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/23-death-toll-hbo.jpg">
+<img class="figure-img img-fluid rounded" src="{{ site.url }}/images/posts/chernobyl/23-death-toll-hbo.svg">
     <figcaption class="figure-caption text-center">«تلفات انسانی حادثه چرنوبیل بین ۴۰۰۰ تا ۹۴۰۰۰ کشته پیش‌بینی می‌شود.»</figcaption>
 </figure>
 </center>
@@ -512,79 +467,79 @@ Leonid Toptunov که به <a href="https://www.google.com/maps/place/Marshala+Ti
 
 ## ۲۴. کدام شخصیت‌های نمایش یافته در سریال چرنوبیل در واقعیت کشته شدند؟
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Valery-Khodemchuk.jpg" alt="Valery Ilyich Khodemchuk" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Valery-Khodemchuk.svg" alt="Valery Ilyich Khodemchuk" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Valery Ilyich Khodemchuk**<br>
 اپراتور ارشد پمپ رآکتور شماره ۴<br>
 ۲۶ آوریل، مرگ بر اثر انفجار<br>
 جسد او هرگز یافت نشد
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Akimov.jpg" alt="Aleksandr Fyodorovich Akimov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Akimov.svg" alt="Aleksandr Fyodorovich Akimov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Aleksandr Fyodorovich Akimov**<br>
 مدیر شیفت رآکتور شماره ۴<br>
 ۱۰ می، بر اثر ARS و سوختگی شدید<br>
 دریافت دوز کشنده هنگامی که سعی داشت جریان آب را به رآکتور برقرار کند.
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Tishchura.jpg" alt="Vladimir Ivanovych Tishchura" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Tishchura.svg" alt="Vladimir Ivanovych Tishchura" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Vladimir Ivanovych Tishchura**<br>
 آتش‌نشان ارشد، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۰ می، بر اثر ARS<br>
 گروهبان واحد Kibenok، در حال مبارزه با آتش در سالن مرکزی
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Kibenok.jpg" alt="Viktor Mykolayovych Kibenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Kibenok.svg" alt="Viktor Mykolayovych Kibenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Viktor Mykolayovych Kibenok**<br>
 سرنگهبان، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۱ می، بر اثر ARS<br>
 ستوان، رهبر واحد دوم، در حال مبارزه با آتش در سالن مرکزی
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Pravik.jpg" alt="Vladimir Pavlovych Pravik" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vladimir-Pravik.svg" alt="Vladimir Pavlovych Pravik" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Vladimir Pavlovych Pravik**<br>
 سرنگهبان، تیپ دوم شبهه‌نظامی نیروگاه چرنوبیل<br>
 ۱۱ می، بر اثر ARS<br>
 ستوان، رهبر گروه اول در سقف رآکتور. <a href="https://www.theguardian.com/world/2006/mar/26/nuclear.russia" title="Chernobyl 20 years on" rel="nofollow" target="_blank">گفته می‌شود</a> که رنگ چشم او بر اثر تششعات از قهوه‌ای به آبی تغییر یافت.
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vasily-Ignatenko.jpg" alt="Vasily Ivanovych Ignatenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Vasily-Ignatenko.svg" alt="Vasily Ivanovych Ignatenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Vasily Ivanovych Ignatenko**<br>
 فرمانده گروه، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۳ می، بر اثر ARS<br>
 گروهبان ارشد، گروه اول در سقف رآکتور
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Kudryavtsev.jpg" alt="Aleksandr Gennadiyevych Kudryavtsev" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Aleksandr-Kudryavtsev.svg" alt="Aleksandr Gennadiyevych Kudryavtsev" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Aleksandr Gennadiyevych Kudryavtsev**<br>
 مهندس کنترل رآکتور<br>
 ۱۴ می، بر اثر ARS<br>
 در لحظه‌ی انفجار در اتاق کنترل بود. در تلاش برای پایین آوردن میله‌های کنترل و نگاه به هسته‌ی رآکتور
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Leonid-Toptunov.jpg" alt="Leonid Fedorovych Toptunov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Leonid-Toptunov.svg" alt="Leonid Fedorovych Toptunov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Leonid Fedorovych Toptunov**<br>
 مهندس ارشد کنترل رآکتور<br>
 ۱۴ می، بر اثر ARS<br>
 در لحظه‌ی انفجار در اتاق کنترل بود. در تلاش برای راه‌اندازی جریان آب
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Nikolai-Titenok.jpg" alt="Nikolai Ivanovych Titenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Nikolai-Titenok.svg" alt="Nikolai Ivanovych Titenok" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Nikolai Ivanovych Titenok**<br>
 آتش‌نشان، واحد ششم شبه‌نظامی پریپیات<br>
 ۱۶ می، بر اثر سوختگی شدید<br>
 گروهبان ارشد واحد Kibenok، در حال مبارزه با آتش در سالن مرکزی، سقف و هسته رآکتور
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Proskuryakov.jpg" alt="Viktor Vasilyevich Proskuryakov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Proskuryakov.svg" alt="Viktor Vasilyevich Proskuryakov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Viktor Vasilyevich Proskuryakov**<br>
 مهندس کنترل رآکتور<br>
 ۱۷ می، بر اثر ARS<br>
 در لحظه انفجار در اتاق کنترل بود. در تلاش برای پایین آوردن میله‌های کنترل و نگاه به هسته‌ی رآکتور
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Degtyarenko.jpg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Viktor-Degtyarenko.svg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Viktor Mykhaylovych Degtyarenko**<br>
 اپراتور رآکتور<br>
 ۱۹ می، بر اثر ARS<br>
 در لحظه انفجار نزدیک پمپ‌ها بود. صورت او بر اثر بخار شدید سوخت.
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Anatoly-Sitnikov.jpg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Anatoly-Sitnikov.svg" alt="Anatoly Andreyevich Sitnikov" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Anatoly Andreyevich Sitnikov**<br>
 فیزیکدان، معاون مهندس عملیات<br>
 ۳۰ می، بر اثر ARS<br>
 دریافت حدود ۱۵۰۰ رونتگن از ناحیه سر هنگامی که به دستور Nikolai Fomin از سقف واحد C به رآکتور نگاه کرد.
 
-<img src="{{ site.url }}/images/posts/chernobyl/KIA/Valery-Ivanovich-Perevozchenko.jpg" alt="Valery Ivanovich Perevozchenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
+<img src="{{ site.url }}/images/posts/chernobyl/KIA/Valery-Ivanovich-Perevozchenko.svg" alt="Valery Ivanovich Perevozchenko" class="rounded float-right ml-4" style="width: 115px !important;height: 115px !important;">
 **Valery Ivanovich Perevozchenko**<br>
 سرکارگر رآکتور<br>
 ۱۳ ژوئن، بر اثر ARS<br>
