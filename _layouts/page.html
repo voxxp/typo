@@ -1,0 +1,117 @@
+---
+layout: compress
+---
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fa-IR"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fa-IR"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="fa-IR"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="fa-IR"> <!--<![endif]-->
+  {% include head.html %}
+  <body id="posts">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top justify-content-between d-lg-none">
+      <div class="nav-logo">
+        <a href="{{ site.url }}" class="navbar-brand font-weight-bold">
+          تایپو
+        </a>
+        <span class="navbar-text">/ 
+          <a href="{{ site.url }}/posts" class="navbar-brand mr-0">نوشته‌ها</a> /
+        </span>
+      </div>
+      <div>
+        <a href="#comments" role="button" class="btn btn-secondary fas fa-comment text-light my-0 topbar-icon"><div class="sr-only">دیدگاه‌ها</div></a>
+        <span class="navbar-text">|</span> 
+        <div class="btn-group my-0">
+          <button type="button" id="ex2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-secondary fas fa-share-square text-light my-0 topbar-icon">
+            <div class="sr-only">اشتراک</div>
+          </button>  
+          <div aria-labelledby="ex2" class="topbar-menu dropdown-menu dropdown-menu-left">
+            <a href="https://twitter.com/intent/tweet?text={{ page.title | markdownify | strip_html | strip_newlines | escape_once }} &#8211; {{ site.title }} - {{ site.url }}{{ page.url }}?pk_campaign=social-link" role="button" class="dropdown-item text-info">
+              <i class="fab fa-twitter pr-2 topbar-icon"></i><span>Twitter</span>
+            </a>
+            <a href="https://api.whatsapp.com/send?text={{ page.title | markdownify | strip_html | strip_newlines | escape_once }}%20-%20{{ site.url }}{{ page.url }}?pk_campaign=social-link" role="button" class="dropdown-item text-success">
+              <i class="fab fa-whatsapp pr-2 topbar-icon"></i><span>Whatsapp</span>
+            </a>
+            <a href="https://t.me/share/url?url=https://t.me/iv?url={{ site.url }}{{ page.url }}?pk_campaign=social-link%26rhash=6cae26513c2165" role="button" class="dropdown-item text-info">
+              <i class="fab fa-telegram pr-2 topbar-icon"></i><span>Telegram</span>
+            </a>
+          </div>
+        </div>
+      </div>
+     </nav>
+    <div class="container-fluid h-100">
+      <div class="row h-100">
+        <div class="col-lg h-100 order-first order-lg-last d-print-none" id="block-left">
+          <a href="{{ site.url }}" class="m-3 position-absolute block-logo d-none d-lg-block"><img src="{{ site.url }}/images/{{ site.logo }}" alt="تایپو" class="rounded" width="50px" height="50px"></a>
+          <div class="container center h-100">
+            <div class="row align-bottom">
+              <div class="col">
+                  <header class="post-title-section">
+                    <div class="section-line d-flex text-primary mb-4">
+                      <span class="d-none d-lg-block"><em class="mx-2">/</em></span>
+                    </div>
+                    <h1 class="text-light">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+                    <div class="mt-5">
+                      {% if post %}
+                      {% assign categories = post.categories %}
+                      {% else %}
+                      {% assign categories = page.categories %}
+                      {% endif %}
+                      {% for category in categories %}
+                      <a class="btn btn-outline-primary btn-sm" href="{{ site.url }}/categories#{{ category|slugize }}" role="button">{{ category }}</a>
+                      {% unless forloop.last %}
+                      {% endunless %}
+                      {% endfor %}
+                      {% for tag in page.tags %}
+                      <a class="btn btn-outline-light btn-sm" href="{{ site.url }}/tags#{{ tag }}" role="button">{{ tag }}</a>
+                      {% unless forloop.last %}
+                      {% endunless %}
+                      {% endfor %}
+                    </div>
+                    <nav class="section-line d-flex reverse text-primary mt-4">
+                      <span class="d-none d-lg-block"><em class="mx-2">/</em></span>
+                    </nav>
+                  </header>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="col-lg h-100" id="block-right">
+        {% include share.html %}
+        <a class="btn btn-link far fa-clone posts-menu-icon position-absolute d-none d-lg-block" href="{{ site.url }}/posts.html" role="button">
+          <span class="posts-link font-weight-normal position-absolute">نوشته‌ها</span>
+        </a>
+        <section class="date-highlight text-center">
+          <h5><span class="post-date badge badge-primary font-weight-light pt-2 ml-5">{% if page.date %}{{ page.date | date: '%d %m %Y' }}{% else %}&#x2756;{% endif %}</span></h5>
+          <hr class="date-hr bg-primary ml-5 d-md-block d-sm-none d-none">
+        </section>
+        <img src="{{ image }}" id="tlgcover" class="d-none">
+        <article class="post">
+          {{ content }}
+        </article>
+        {% include disqus.html %}
+        {% include page-pagination.html %}
+      </div>
+    </div>
+  </div>
+      <!-- /container -->
+      {% include scripts.html %}
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "name": "تایپو",
+          "item": "{{ site.url }}"
+        },{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}",
+          "item": "{{ page.url | replace:'index.html','' | prepend: site.url }}"
+        }]
+      }
+      </script>
+    </body>
+</html>

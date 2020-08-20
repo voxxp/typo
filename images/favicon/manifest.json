@@ -1,0 +1,24 @@
+{
+  "name": "تایپو",
+  "short_name": "تایپو",
+  "description": "جواب‌های ساده برای سوال‌های ساده",
+  "lang": "fa-IR",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "orientation": "any",
+  "theme_color": "#64ccc9",
+  "icons": [
+    {
+      "src": "https://typo.ir/images/favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://typo.ir/images/favicon/maskable_icon.png",
+      "sizes": "842x842",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "background_color": "#ffffff"
+}
